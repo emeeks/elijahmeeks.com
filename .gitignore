@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.swf
+/node_modules
+rss.xml

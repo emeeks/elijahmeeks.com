@@ -1,0 +1,23 @@
+{
+  "name": "elijahmeeks.com",
+  "version": "1.0.0",
+  "main": "js/main.js",
+  "dependencies": {
+    "d3": "3.5.5",
+    "d3-svg-ribbon": "^1.0.0",
+    "es6-promise": "^3.0.2",
+    "moment": "^2.10.6",
+    "object-assign": "^4.0.1",
+    "react": "^0.13.3",
+    "react-doc-meta": "^0.2.0",
+    "remarkable": "^1.6.0"
+  },
+  "description": "hand-made because what the hell right",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-directory-map": "^0.1.1",
+    "gulp-reactify": "^3.0.1"
+  }
+}

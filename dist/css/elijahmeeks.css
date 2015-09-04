@@ -1,0 +1,104 @@
+ol.nonumber {
+    list-style-type: none;
+}
+
+ol.nonumber >li {
+	margin: 5px;
+}
+
+button {
+	cursor: pointer;
+}
+
+button.btn-selected {
+	border: 1px solid black;
+	color: black;
+	pointer-events: none;
+}
+
+.nav > a {
+	cursor: pointer;
+}
+
+a.currentView {
+	pointer-events: none;
+	color: #4E7091;
+}
+
+a.read-more {
+	cursor: pointer;
+}
+
+a.read-more:hover {
+	text-decoration: underline;
+}
+
+.project-description {
+	background: white;
+	display: inline-block;
+	position: absolute;
+	top: 125px;
+	right: -2px;
+	padding: 5px 10px 5px 5px;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	pointer-events: none;
+}
+
+.project-name {
+	background: white;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 5px 10px;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	pointer-events: none;
+}
+
+.project-name > h3 {
+	padding: 0;
+}
+
+.project-container {
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.project-container > img {
+	border: 1px solid black;
+	cursor: pointer;
+}
+
+.project-container > .project-moreinfo {
+	display: none;
+	margin-bottom: 40px;
+}
+
+.project-tags {
+	display: inline-block;
+	float: right;
+}
+
+.project-tags > .tag {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.content img {
+	margin: 10px 0;
+	width: 100%;
+	border: 4px double black;
+}
+
+.repo-card {
+	width: 45%;
+	margin: 1%;
+	display: inline-block;
+}
+
+.repo-card h4 {
+	text-align: center;
+}
