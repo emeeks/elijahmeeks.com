@@ -5,3 +5,7 @@
 *.swf
 /node_modules
 rss.xml
+!dist/images/
+!dist/images/**
+!dist/rss.xml
+!dist/misc/bluesky.swf

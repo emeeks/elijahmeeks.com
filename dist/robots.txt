@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elijahmeeks.com/sitemap.xml

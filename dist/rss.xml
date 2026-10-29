@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Elijah Meeks</title>
+<link>http://elijahmeeks.com/#blog</link>
+<atom:link href="http://elijahmeeks.com/rss.xml" rel="self" type="application/rss+xml" />
+<description>Articles by Elijah Meeks about data visualization and analysis</description>
+<item>
+<title>The virtues of a sketchy life</title>
+<link>http://elijahmeeks.com/#content/blog/2015_08_15_sketchyviz</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_08_15_sketchyviz</guid>
+<pubDate>Sat, 15 Aug 2015 12:00:00 GMT</pubDate>
+<description>Showing how to create sketchy data visualization, what it looks like, and why you should use it.</description>
+</item>
+<item>
+<title>I Need a Data Consultant</title>
+<link>http://elijahmeeks.com/#content/blog/2015_08_11_wanteddataconsultant</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_08_11_wanteddataconsultant</guid>
+<pubDate>Tue, 11 Aug 2015 12:00:00 GMT</pubDate>
+<description>Advertising for a data consultant and wondering if a data consultant is a thing.</description>
+</item>
+<item>
+<title>God Help Me, I Hate d3.scale.category20</title>
+<link>http://elijahmeeks.com/#content/blog/2015_08_02_orthodoxcolor</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_08_02_orthodoxcolor</guid>
+<pubDate>Sun, 2 Aug 2015 12:00:00 GMT</pubDate>
+<description>Tackling color and its discontents.</description>
+</item>
+<item>
+<title>Popular Networks</title>
+<link>http://elijahmeeks.com/#content/blog/2015_06_29_networks</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_06_29_networks</guid>
+<pubDate>Mon, 29 Jun 2015 12:00:00 GMT</pubDate>
+<description>It's hard to do network data visualization well, but if you look at the way the New York Times does it, you can learn a few things.</description>
+</item>
+<item>
+<title>On data and capta</title>
+<link>http://elijahmeeks.com/#content/blog/2015_06_13_fdps2e9</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_06_13_fdps2e9</guid>
+<pubDate>Sat, 13 Jun 2015 12:00:00 GMT</pubDate>
+<description>Reflection on the differences in how digital humanities scholarship and industry approach data visualization and analysis.</description>
+</item>
+<item>
+<title>Alluvial Charts and Their Discontents</title>
+<link>http://elijahmeeks.com/#content/blog/2015_06_10_sankey</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_06_10_sankey</guid>
+<pubDate>Wed, 10 Jun 2015 12:00:00 GMT</pubDate>
+<description>Sankey diagrams are an increasingly popular data visualization method. Here are a few principles and best practices I have learned in implementing them.</description>
+</item>
+<item>
+<title>Soft Launch</title>
+<link>http://elijahmeeks.com/#content/blog/2015_06_08_softlaunch</link>
+<guid>http://elijahmeeks.com/#content/blog/2015_06_08_softlaunch</guid>
+<pubDate>Mon, 8 Jun 2015 12:00:00 GMT</pubDate>
+<description>An introduction to my new site</description>
+</item>
+</channel>
+</rss>
