@@ -5089,7 +5089,7 @@
                       ? null
                       : c.default.createElement(
                           p.Link,
-                          { to: "/season/" + this.props.season },
+                          { to: "/archer/season/" + this.props.season },
                           c.default.createElement(
                             "div",
                             null,
@@ -5325,7 +5325,7 @@
                   this.props.clickable &&
                     (t = c.default.createElement(
                       g.Link,
-                      { to: "/episode/" + this.props.episode.name },
+                      { to: "/archer/episode/" + this.props.episode.name },
                       t
                     ));
                   var r = this.state.tags.map(function (t) {
@@ -19058,7 +19058,7 @@
                     t = [1, 2, 3, 4, 5, 6, 7, 8].map(function (t) {
                       return c.default.createElement(
                         N.Link,
-                        { key: t, to: "/season/" + t },
+                        { key: t, to: "/archer/season/" + t },
                         c.default.createElement(
                           "button",
                           {
@@ -19427,7 +19427,7 @@
                         ? r
                         : c.default.createElement(
                             d.Link,
-                            { to: "/episode/" + e.name },
+                            { to: "/archer/episode/" + e.name },
                             r
                           );
                     });
@@ -19605,7 +19605,7 @@
                         o = a.map(function (t, r) {
                           return c.default.createElement(
                             d.Link,
-                            { to: "/episode/" + t.name },
+                            { to: "/archer/episode/" + t.name },
                             c.default.createElement(f.default, {
                               key: "selector-" + n + "-episode-" + r,
                               name: t.name,
