@@ -1,0 +1,520 @@
+{
+  "recoveredAt": "2026-10-30T02:46:17.888Z",
+  "sources": {
+    "dhs": "Wayback CDX index, 719 distinct indexed URLs",
+    "stanford": "Public dh-stanford/dh-stanford.github.io source; all 144 top-level Markdown files checked",
+    "medium": "Individual-page CDX index, historical RSS captures, and current author feed",
+    "nightingale": "Publisher author archive; current and former Medium publication",
+    "journal": "Journal author archive",
+    "sevenlions": "Wayback CDX index, cross-checked against the Goodreads author blog"
+  },
+  "entries": 433,
+  "fullText": 418,
+  "linkEntries": 15,
+  "figuresRecovered": 837,
+  "figuresUnavailable": [
+    {
+      "source": "http://sevenlions.org/fullship.jpg",
+      "archive": "https://web.archive.org/web/20161220170149/http://sevenlions.org/wp/borough-games/",
+      "articles": [
+        "sevenlions-borough-games"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20161220170149id_/http://sevenlions.org/fullship.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/g3207-150x150.png",
+      "archive": "https://web.archive.org/web/20161221091334/http://sevenlions.org/wp/animation-as-tetrad/",
+      "articles": [
+        "sevenlions-animation-as-tetrad"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20161221091334id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/g3207-150x150.png"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/panner-295x300.jpg",
+      "archive": "https://web.archive.org/web/20100808074503/http://sevenlions.org:80/wp/digital-humanities/",
+      "articles": [
+        "sevenlions-digital-humanities"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100808074503id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/panner-295x300.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/elijah-bio-237x299.jpg",
+      "archive": "https://web.archive.org/web/20100808074443/http://sevenlions.org:80/wp/biography/",
+      "articles": [
+        "sevenlions-biography"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100808074443id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/elijah-bio-237x299.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/intersect-300x260.jpg",
+      "archive": "https://web.archive.org/web/20100808074503/http://sevenlions.org:80/wp/digital-humanities/",
+      "articles": [
+        "sevenlions-digital-humanities"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100808074503id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/intersect-300x260.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/bhss-300x295.png",
+      "archive": "https://web.archive.org/web/20100410032915/http://sevenlions.org:80/wp/games/",
+      "articles": [
+        "sevenlions-games"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100410032915id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/bhss-300x295.png"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/acw-300x213.jpg",
+      "archive": "https://web.archive.org/web/20100410032915/http://sevenlions.org:80/wp/games/",
+      "articles": [
+        "sevenlions-games"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100410032915id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/acw-300x213.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/07/hmeeks-artsday-226x300.jpg",
+      "archive": "https://web.archive.org/web/20170112005624/http://sevenlions.org/wp/not-content-with-fiscal-bankruptcy/",
+      "articles": [
+        "sevenlions-not-content-with-fiscal-bankruptcy"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20170112005624id_/http://sevenlions.org/wp/wp-content/uploads/2009/07/hmeeks-artsday-226x300.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2010/01/qfg2-1024x624.jpg",
+      "archive": "https://web.archive.org/web/20100820192056/http://sevenlions.org:80/wp/quest-for-glory-fan-art/",
+      "articles": [
+        "sevenlions-quest-for-glory-fan-art"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100820192056id_/http://sevenlions.org/wp/wp-content/uploads/2010/01/qfg2-1024x624.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/05/google-wheel-293x300.jpg",
+      "archive": "https://web.archive.org/web/20120319033103/http://sevenlions.org:80/wp/search-visualization/",
+      "articles": [
+        "sevenlions-search-visualization"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20120319033103id_/http://sevenlions.org/wp/wp-content/uploads/2009/05/google-wheel-293x300.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/bear-225x300.jpg",
+      "archive": "https://web.archive.org/web/20100410032855/http://sevenlions.org:80/wp/son-of-the-great-river/",
+      "articles": [
+        "sevenlions-son-of-the-great-river"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100410032855id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/bear-225x300.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/xconq-300x225.jpg",
+      "archive": "https://web.archive.org/web/20100410032915/http://sevenlions.org:80/wp/games/",
+      "articles": [
+        "sevenlions-games"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100410032915id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/xconq-300x225.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/laozi-posse1-300x300.png",
+      "archive": "https://web.archive.org/web/20110827020904/http://sevenlions.org/wp/ifintellectual-property-creative-property/",
+      "articles": [
+        "sevenlions-ifintellectual-property-creative-property"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20110827020904id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/laozi-posse1-300x300.png"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2010/03/ibunny.jpg",
+      "archive": "https://web.archive.org/web/20100405103226/http://sevenlions.org:80/wp/steve-jobs-says-duracell-is-lazy-energizers-keeps-going-and-going-and-going-is-bullshit/",
+      "articles": [
+        "sevenlions-steve-jobs-says-duracell-is-lazy-energizers-keeps-going-and-going-and-going-is-bullshit"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100405103226id_/http://sevenlions.org/wp/wp-content/uploads/2010/03/ibunny.jpg"
+    },
+    {
+      "source": "http://sevenlions.org/wp/wp-content/uploads/2009/03/graph-300x102.jpg",
+      "archive": "https://web.archive.org/web/20100808074503/http://sevenlions.org:80/wp/digital-humanities/",
+      "articles": [
+        "sevenlions-digital-humanities"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20100808074503id_/http://sevenlions.org/wp/wp-content/uploads/2009/03/graph-300x102.jpg"
+    },
+    {
+      "source": "https://cdn-images-1.medium.com/max/813/0*AImSqMkEAJW8fy0-",
+      "archive": "https://web.archive.org/web/20251116170444/https://medium.com/@Elijah_Meeks/introducing-data-prism-the-automatic-chart-builder-26b5e72c9d5c?source=user_profile_page---------6-------------b8fe3c1518c1----------------------",
+      "articles": [
+        "medium-26b5e72c9d5c"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20251116170444id_/https://cdn-images-1.medium.com/max/813/0*AImSqMkEAJW8fy0-"
+    },
+    {
+      "source": "http://store.worldbook.com/wb/assets/redesign_images/10028.gif",
+      "archive": "https://web.archive.org/web/20110209215209/http://sevenlions.org:80/wp/world-book-the-jaguar-e-type-and-the-myth-of-the-expert/",
+      "articles": [
+        "sevenlions-world-book-the-jaguar-e-type-and-the-myth-of-the-expert"
+      ],
+      "error": "HTTP 404, text/html; charset=utf-8",
+      "archived": "https://web.archive.org/web/20110209215209id_/http://store.worldbook.com/wb/assets/redesign_images/10028.gif"
+    },
+    {
+      "source": "https://cdn-images-1.medium.com/max/1000/0*3Lxkhv0SJU6L7-wm",
+      "archive": "https://web.archive.org/web/20251116170444/https://medium.com/@Elijah_Meeks/introducing-data-prism-the-automatic-chart-builder-26b5e72c9d5c?source=user_profile_page---------6-------------b8fe3c1518c1----------------------",
+      "articles": [
+        "medium-26b5e72c9d5c"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20251116170444id_/https://cdn-images-1.medium.com/max/1000/0*3Lxkhv0SJU6L7-wm"
+    },
+    {
+      "source": "https://cdn-images-1.medium.com/max/1024/0*hOOBP0bVyU8Dqa-V",
+      "archive": "https://web.archive.org/web/20251116170444/https://medium.com/@Elijah_Meeks/introducing-data-prism-the-automatic-chart-builder-26b5e72c9d5c?source=user_profile_page---------6-------------b8fe3c1518c1----------------------",
+      "articles": [
+        "medium-26b5e72c9d5c"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20251116170444id_/https://cdn-images-1.medium.com/max/1024/0*hOOBP0bVyU8Dqa-V"
+    },
+    {
+      "source": "https://cdn-images-1.medium.com/max/1024/0*MIUCjffpGhaHNb5O",
+      "archive": "https://web.archive.org/web/20251116170444/https://medium.com/@Elijah_Meeks/introducing-data-prism-the-automatic-chart-builder-26b5e72c9d5c?source=user_profile_page---------6-------------b8fe3c1518c1----------------------",
+      "articles": [
+        "medium-26b5e72c9d5c"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20251116170444id_/https://cdn-images-1.medium.com/max/1024/0*MIUCjffpGhaHNb5O"
+    },
+    {
+      "source": "http://techblog.wikimedia.org/wp-content/uploads/2009/06/traffic-spike.png",
+      "archive": "https://web.archive.org/web/20170112005646/http://sevenlions.org/wp/the-death-of-the-king-of-pop-as-digital-phenomena/",
+      "articles": [
+        "sevenlions-the-death-of-the-king-of-pop-as-digital-phenomena"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20170112005646id_/http://techblog.wikimedia.org/wp-content/uploads/2009/06/traffic-spike.png"
+    },
+    {
+      "source": "http://techblog.wikimedia.org/wp-content/uploads/2009/06/load-spike.png",
+      "archive": "https://web.archive.org/web/20170112005646/http://sevenlions.org/wp/the-death-of-the-king-of-pop-as-digital-phenomena/",
+      "articles": [
+        "sevenlions-the-death-of-the-king-of-pop-as-digital-phenomena"
+      ],
+      "error": "HTTP 404, text/html",
+      "archived": "https://web.archive.org/web/20170112005646id_/http://techblog.wikimedia.org/wp-content/uploads/2009/06/load-spike.png"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "https://dhs.stanford.edu/about/",
+      "reason": "Site biography or navigation/resource index, not an individual piece of writing"
+    },
+    {
+      "source": "https://dhs.stanford.edu/about/tools/",
+      "reason": "Site biography or navigation/resource index, not an individual piece of writing"
+    },
+    {
+      "source": "http://dhs.stanford.edu/comprehending-the-digital-humanities/13",
+      "reason": "Alternate URL for the same WordPress post/page"
+    },
+    {
+      "source": "https://dhs.stanford.edu/digital-humanities-at-stanford/",
+      "reason": "Site biography or navigation/resource index, not an individual piece of writing"
+    },
+    {
+      "source": "https://dhs.stanford.edu/digital-humanities-at-stanford/dhstanford-gallery/",
+      "reason": "Site biography or navigation/resource index, not an individual piece of writing"
+    },
+    {
+      "source": "https://dhs.stanford.edu/project-gallery/",
+      "reason": "Site biography or navigation/resource index, not an individual piece of writing"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/2017-data-visualization-survey-results-40688830b9f217",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/absolutely-d32da7492cbf",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/apparently-ive-used-up-my-heroku-bandwidth-for-the-month-check-back-on-it-on-december-1st-bbfb1b1a2ad4",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/animation-in-the-current-implementation-occurs-by-the-mark-elements-transitioning-from-one-state-92ba8253e019",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/because-if-thats-the-only-model-of-a-sophisticated-data-visualization-expert-then-it-makes-it-80f7061995c5",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/gee-adam-are-the-spice-girls-still-okay-8a659b2f3265",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/i-agree-and-think-theres-also-a-hegelian-perspective-which-is-that-as-long-as-there-are-7fc4f9983e42?source=user_profile---------9-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/i-agree-that-one-of-the-critical-challenges-we-have-to-tackle-is-data-visualization-literacy-both-ea6a6bba3fbf?source=user_profile---------10-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/i-thought-you-were-right-on-with-your-original-comment-and-just-hadnt-read-it-because-i-m-52e1c277a5e1",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/im-glad-you-found-it-useful-bill-965a4f87e29f",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/i-hope-so-too-chris-bc543b873d0f",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/if-you-decide-to-take-something-that-is-obviously-rhetorical-referring-to-conservative-data-8a01dcedecfa?source=user_profile---------1-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/part-of-me-never-wants-to-do-another-survey-again-4b853b20d2f4?source=user_profile---------7-----------",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/react-native-requires-all-rendering-to-be-done-by-react-so-you-can-only-use-the-all-react-method-if-f314b94d6d00",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-for-pointing-that-out-martin-i-fixed-the-code-and-changed-the-example-data-to-have-948f92eb1810",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-johan-fc00cc956b76",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-james-youre-right-and-i-edited-it-so-i-m-not-playing-fast-and-loose-with-how-i-use-mvc-c00a7317168b?source=user_profile---------2-----------",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thats-definitely-the-current-paradigm-a40ff6cb737b?source=user_profile---------4-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/the-2nd-edition-is-updated-to-explain-how-to-use-d3v4-which-has-become-the-standard-now-83b780bd9ed5",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-krist-i-cant-believe-how-many-times-i-edited-that-and-changed-it-and-still-it-ended-up-in-1d95aead32c1?source=user_profile---------5-----------",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/there-are-significant-figures-in-the-data-visualization-community-who-think-mccandless-is-bad-for-4a89be788835?source=user_profile---------6-----------",
+      "reason": "Unrecoverable article or short response; checked against historical feed"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/one-thing-i-really-want-to-tease-out-in-this-series-is-that-yes-this-is-a-case-for-complex-af453bb03683",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/tools-have-commonly-given-a-custom-code-option-but-that-doesnt-made-the-code-stock-6643db6b60d6?source=user_profile---------8-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/these-are-good-points-krist-and-they-echo-the-real-world-challenges-ive-heard-from-other-fef03a02a767?source=user_profile---------5------------------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/you-make-a-good-point-22c679b6afb4?source=user_profile---------3-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/yes-that-looks-about-right-d8e2585826ac?source=user_profile---------1-----------",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/youre-probably-right-3fb3a5423f91",
+      "reason": "Medium conversation response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/you-make-a-good-point-22c679b6afb4",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thats-definitely-the-current-paradigm-a40ff6cb737b",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-krist-i-cant-believe-how-many-times-i-edited-that-and-changed-it-and-still-it-ended-up-in-1d95aead32c1",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/there-are-significant-figures-in-the-data-visualization-community-who-think-mccandless-is-bad-for-4a89be788835",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/part-of-me-never-wants-to-do-another-survey-again-4b853b20d2f4",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/tools-have-commonly-given-a-custom-code-option-but-that-doesnt-made-the-code-stock-6643db6b60d6",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/i-agree-and-think-theres-also-a-hegelian-perspective-which-is-that-as-long-as-there-are-7fc4f9983e42",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/yes-that-looks-about-right-d8e2585826ac",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-james-youre-right-and-i-edited-it-so-i-m-not-playing-fast-and-loose-with-how-i-use-mvc-c00a7317168b",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-for-pointing-that-out-martin-i-fixed-the-code-and-changed-the-example-data-to-have-948f92eb1810",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/animation-in-the-current-implementation-occurs-by-the-mark-elements-transitioning-from-one-state-92ba8253e019",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/im-glad-you-found-it-useful-bill-965a4f87e29f",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/react-native-requires-all-rendering-to-be-done-by-react-so-you-can-only-use-the-all-react-method-if-f314b94d6d00",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/the-2nd-edition-is-updated-to-explain-how-to-use-d3v4-which-has-become-the-standard-now-83b780bd9ed5",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/because-if-thats-the-only-model-of-a-sophisticated-data-visualization-expert-then-it-makes-it-80f7061995c5",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/thanks-johan-fc00cc956b76",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/i-hope-so-too-chris-bc543b873d0f",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/its-called-roughjs-and-it-offers-a-lot-of-control-over-the-sketchiness-e391a7b5825c",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/yes-most-definitely-c978eb9a676f",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/its-particularly-frustrating-when-someone-shows-a-method-wherein-the-technical-aspect-is-clearly-a7925c4bf8bb",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/one-thing-i-really-want-to-tease-out-in-this-series-is-that-yes-this-is-a-case-for-complex-af453bb03683",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/netflix-didnt-ask-me-to-do-the-things-that-i-did-i-pushed-and-made-a-bet-about-the-value-of-c0580f105b82",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/when-it-comes-to-ar-i-am-the-oldest-most-conservative-most-orthodox-pessimist-about-it-6763ec8dfc0",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/you-said-it-all-better-than-i-could-have-9d935c574334",
+      "reason": "Short Medium response, not an essay"
+    },
+    {
+      "source": "https://medium.com/@Elijah_Meeks/you-cant-be-trusted-to-give-an-honest-answer-you-re-obviously-in-the-pocket-of-big-book-89b497e1cfe",
+      "reason": "Short Medium response, not an essay"
+    }
+  ],
+  "unresolved": [
+    {
+      "slug": "algorithmic-literacy",
+      "source": "https://dhs.stanford.edu/algorithmic-literacy/",
+      "errors": [
+        "https://web.archive.org/web/20210413095929id_/https://dhs.stanford.edu/algorithmic-literacy/: No full article found"
+      ]
+    },
+    {
+      "slug": "dh11",
+      "source": "http://dhs.stanford.edu:80/demos/dh11/",
+      "errors": [
+        "https://web.archive.org/web/20130502041722id_/http://dhs.stanford.edu:80/demos/dh11/: No full article found"
+      ]
+    },
+    {
+      "slug": "tvtropes",
+      "source": "http://dhs.stanford.edu:80/demos/tvtropes/",
+      "errors": [
+        "https://web.archive.org/web/20141107195240id_/http://dhs.stanford.edu:80/demos/tvtropes/: No full article found"
+      ]
+    },
+    {
+      "slug": "gexfwalker",
+      "source": "http://dhs.stanford.edu/dh/dh11/gexfwalker/",
+      "errors": [
+        "https://web.archive.org/web/20130522231258id_/http://dhs.stanford.edu/dh/dh11/gexfwalker/: No full article found"
+      ]
+    },
+    {
+      "slug": "networks",
+      "source": "http://dhs.stanford.edu:80/dh/networks/",
+      "errors": [
+        "https://web.archive.org/web/20130214053933id_/http://dhs.stanford.edu:80/dh/networks/: No full article found"
+      ]
+    },
+    {
+      "slug": "dh13",
+      "source": "http://dhs.stanford.edu/dh13/",
+      "errors": [
+        "https://web.archive.org/web/20221205135123id_/http://dhs.stanford.edu/dh13/: No full article found"
+      ]
+    },
+    {
+      "slug": "robots.txt",
+      "source": "https://dhs.stanford.edu/robots.txt",
+      "errors": [
+        "https://web.archive.org/web/20140420085704id_/https://dhs.stanford.edu/robots.txt: No full article found"
+      ]
+    },
+    {
+      "slug": "spatial-humanities",
+      "source": "https://dhs.stanford.edu/spatial-humanities",
+      "errors": [
+        "https://web.archive.org/web/20240324044118id_/https://dhs.stanford.edu/spatial-humanities: No full article found"
+      ]
+    },
+    {
+      "slug": "the-digital-humanities-as",
+      "source": "http://dhs.stanford.edu/the-digital-humanities-as/",
+      "errors": [
+        "https://web.archive.org/web/20230628203028id_/http://dhs.stanford.edu/the-digital-humanities-as/: No full article found"
+      ]
+    }
+  ],
+  "limits": [
+    "This inventory covers the enumerated public indexes and snapshots, not a guaranteed complete bibliography.",
+    "Medium responses are excluded from the reading collection. Member-only previews are never labeled as full text.",
+    "Old interactive embeds are retained as links; third-party scripts are removed.",
+    "Journal revisions, translations, and republished versions retain separate provenance."
+  ]
+}

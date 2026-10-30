@@ -4,6 +4,7 @@
 *.gif
 *.swf
 /node_modules
+.cache/
 rss.xml
 !dist/images/
 !dist/images/**

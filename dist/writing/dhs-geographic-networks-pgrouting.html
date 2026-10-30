@@ -1,0 +1,108 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Geographic Networks: Getting Started with pgRouting in PostGIS — Elijah Meeks</title><meta name="description" content="I’ve been working a lot with pgRouting in PostGIS lately. While the work I was doing with geographic networks originally used general purpose network analysis tools like Gephi, I’ve moved the entire Roman transportation network into a…"><link rel="canonical" href="https://elijahmeeks.com/writing/dhs-geographic-networks-pgrouting.html"><meta property="og:type" content="article"><meta property="og:title" content="Geographic Networks: Getting Started with pgRouting in PostGIS — Elijah Meeks"><meta property="og:description" content="I’ve been working a lot with pgRouting in PostGIS lately. While the work I was doing with geographic networks originally used general purpose network analysis tools like Gephi, I’ve moved the entire Roman transportation network into a…"><meta property="og:url" content="https://elijahmeeks.com/writing/dhs-geographic-networks-pgrouting.html"><meta property="og:image" content="https://elijahmeeks.com/images/full/orbis.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../favicon.ico"><link rel="stylesheet" href="../style.css"></head><body><a class="skip" href="#main">Skip to content</a><div class="wrap"><header class="topbar"><a class="wordmark" href="../">elijah meeks<span>.</span></a><nav aria-label="Main navigation"><a href="../index.html#work">Work</a><a href="../writing.html">Writing</a><a href="../index.html#about">About</a><a href="../index.html#contact">Contact ↗</a></nav></header><main id="main"><article class="prose writing-prose"><a class="text-link" href="../writing.html">← All writing</a><p class="eyebrow article-meta">Digital Humanities Specialist · 2012-01-15 · 8 min read</p><h1>Geographic Networks: Getting Started with pgRouting in PostGIS</h1><p class="article-author">Elijah Meeks</p><p class="publication-note">Originally published at <a href="https://dhs.stanford.edu/spatial-humanities/geographic-networks-pgrouting/">Digital Humanities Specialist</a>. This edition preserves the original text and historical context.</p><div class="article-body">
+									
+			<p>I’ve been working a lot with <a href="http://www.pgrouting.org/">pgRouting </a>in PostGIS lately.&nbsp; While the work I was doing with geographic networks originally used general purpose network analysis tools like Gephi, I’ve moved the entire Roman transportation network into a PostGIS2 database to allow for concurrent editing and the use of spatial queries.&nbsp; I thought it might be useful to explain this process for interested parties, with the inclusion of all the SQL queries to get people started.</p>
+<p>I am by no means an expert with PostGIS or pgRouting and would not have been able to accomplish any of this without leaning heavily on the community both here at Stanford and the larger PostGIS community on the Internet.&nbsp; Postgres, which underpins PostGIS, is still less accessible than MySQL (imagine my chagrin to find out that functions like GROUP BY are, in MySQL, “not compliant” and I had to learn how to do things like SELECT DISTINCT ON) but is still not so different for queries and worth it to get access to PostGIS.&nbsp; </p>
+<p>PostGIS itself is simply an extension in the form of new functions and datatypes for Postgres which gives users the ability to query spatial objects to find out which objects in a database intersect with or are within X distance from other objects.&nbsp; pgRouting is a further extension to PostGIS, which gives you the ability to run pathfinding queries on tables of links.&nbsp; While PostGIS2 has topology support, it’s really much more sophisticated than what is necessary for the kind of geographic network analysis we’re doing with the Roman Empire.&nbsp; The topology support does allow you to create edges and faces from existing, non-network aware polygons and polylines, but I’m even less familiar with topology in PostGIS than I am with the general spatial functionality, so any explanation of that will have to wait for aother time.&nbsp; For the purposes of the examples below, we’ll have a simple spatial table that looks something like this:</p>
+<p><code>source, target, cost, geometry, name<br>
+"San Jose", "San Francisco", 1, POLYLINEDATA, "101Freeway"<br>
+"San Jose", "San Francisco", .75, POLYLINEDATA, "80Freeway"<br>
+"San Francisco", "Santa Rosa", 1, POLYLINEDATA, "101Freeway"<br>
+</code></p>
+<p>I’m fudging it a bit up there, because pgRouting requires source and target IDs to be integers (so San Francisco would actually be 1, San Jose 2, Santa Rosa 3) and the queries below are pointed at a geometry column that follows the standard “the_geom” naming convention.  You can already tell by the data format that the cost can be declared or derived from the geometry and is based on whatever cost you want to measure (you could derive an expense in dollars based on miles driven multiplied by a per-mile cost, for instance, using st_length(the_geom) * .52, which would allow you to add toll costs).  Cost can be speed, distance, expense or even some value based on convenience or scenic quality, if you can develop such a metric.</p>
+<div id="attachment_3685"><a href="https://web.archive.org/web/20151212022947/https://dhs.stanford.edu/wp-content/uploads/2012/01/sea_routes.png"><img title="Routes in the Roman Empire from the ORBIS project" src="../images/writing/e5f12e04cbe086299f310f8c.png" alt="Routes in the Roman Empire from the ORBIS project" loading="lazy"></a><p>Routes in the Roman Empire from the ORBIS project</p></div>
+<p>This is the underlying data format of the network above.&nbsp; Each polyline (a technical term for a line in spatial data, as opposed to a point or polygon) or “route segment” above has a source and target field, indicating that it is the road, river or sea route from one site to another.&nbsp; Pathfinding aggregates these individual pieces into a single collection of lines that describes the route from one point to another.&nbsp; Each route segment can only be the length from one point to another, so that the historic Via Appia becomes a collection of road segments from site to site:<br>
+<em>The road from Rome to Tarracina</em><br>
+<em> The road from Aeclanum to Vensusia</em><br>
+<em> The road from Caudium to Beneventum</em><br>
+<em> The road from Sinuessa to Capua</em><br>
+<em> The road from Beneventum to Aeclanum</em><br>
+et cetera</p>
+<p>If we have such a table, we can use it to then calculate the total cost of such a path through the network with a query like this:</p>
+<p><code><br>
+SELECT<br>
+0 as grouping_category,<br>
+SUM(st_length(Geography(ST_Transform(network.the_geom,4326))))::double precision as length_calculated</code></p>
+<p><code>FROM shortest_path('<br>
+SELECT gid as id,<br>
+source::integer,<br>
+target::integer,<br>
+st_length(Geography(ST_Transform(network.the_geom,4326)))::double precision as cost<br>
+FROM network',<br>
+1188, 1317, false, false)</code></p>
+<p><code>LEFT JOIN network ON network.gid = edge_id</code></p>
+<p><code><br>
+GROUP BY<br>
+grouping_category<br>
+</code></p>
+<p>You’ll notice I’ve re-joined the network table to the results from the shortest_path function.  This is because the function only returns a list of the edges (or links) and their cost that make up the least cost path through the network.  You need to rejoin the original table to get access to any other data columns, in the case above I need to measure and sum the geometry column to get a total distance.</p>
+<p>This query determines the shortest path through your network using Dijkstra distance from vertex 1188 to vertex 1317, and is undirected (the “false” variable right after source and target, to make it directed, you would want that to be set to true, as seen in the queries below).&nbsp; pgRouting also includes A* pathfinding, which uses heuristics to improve performance for large networks, as well as a Traveling Salesperson algorithm to determine the most efficient path for multiple destinations in a single trip, but these seem to be based on Euclidean distance between points rather than network distance constrained to particular routes.</p>
+<p>The above query will give you a total cost of a route, but if you want to display the route itself, you’ll need to select that geometry column for display, for instance in QGIS as a query layer:</p>
+<p><code><br>
+SELECT<br>
+network.gid,<br>
+network.route_id,<br>
+network.source,<br>
+network.target,<br>
+st_length(Geography(ST_Transform(route_top.the_geom,4326)))::double precision as length_calculated,<br>
+network.the_geom<br>
+FROM shortest_path('<br>
+SELECT gid as id,<br>
+source::integer,<br>
+target::integer,<br>
+st_length(Geography(ST_Transform(network.the_geom,4326)))::double precision as cost<br>
+FROM network',<br>
+1188, 1317, false, false)</code></p>
+<p><code>LEFT JOIN network ON network.gid = edge_id</code></p>
+<div id="attachment_3687"><img title="The shortest path from Rome to Porolissum" src="../images/writing/bf1059b7822b6046a5d3bbdf.png" alt="The shortest path from Rome to Porolissum" loading="lazy"><p>The shortest path from Rome to Porolissum</p></div>
+<p>If you don’t have a usable network to experiment with, a simple way to test network pathfinding algorithms is to build a mesh of points and connect them with polylines.&nbsp; This is the same method I used to build a large mesh for the sea areas in the study region.&nbsp; While this doesn’t use pgRouting, I think it’s a good query to include.&nbsp; First create a grid of points based on lat-long coordinates.&nbsp; Then, run create a table of polylines using something like this:</p>
+<p><code><br>
+INSERT INTO o_mesh (source, target, direction, the_geom)<br>
+SELECT<br>
+source.gid as source, target.gid as target, (<br>
+case<br>
+when source.xcoord = target.xcoord AND </code><code>source</code><code>.ycoord &lt; target.ycoord then 'N'<br>
+when </code><code>source</code><code>.xcoord &lt; target.xcoord AND </code><code>source</code><code>.ycoord &lt; target.ycoord then 'NE'<br>
+when </code><code>source</code><code>.xcoord &lt; target.xcoord AND </code><code>source</code><code>.ycoord = target.ycoord then 'E'<br>
+when </code><code>source</code><code>.xcoord &lt; target.xcoord AND </code><code>source</code><code>.ycoord &gt; target.ycoord then 'SE'<br>
+when </code><code>source</code><code>.xcoord = target.xcoord AND </code><code>source</code><code>.ycoord &gt; target.ycoord then 'S'<br>
+when </code><code>source</code><code>.xcoord &gt; target.xcoord AND </code><code>source</code><code>.ycoord &gt; target.ycoord then 'SW'<br>
+when </code><code>source</code><code>.xcoord &gt; target.xcoord AND </code><code>source</code><code>.ycoord = target.ycoord then 'W'<br>
+when </code><code>source</code><code>.xcoord &gt; target.xcoord AND </code><code>source</code><code>.ycoord &lt; target.ycoord then 'NW' </code></p>
+<p><code> else 'ER' </code></p>
+<p><code>end ) as direction, </code></p>
+<p><code>ST_MakeLine(source.the_geom,target.the_geom) AS the_geom </code></p>
+<p><code>FROM </code></p>
+<p><code>gridtable AS source LEFT JOIN gridtable AS target ON target.xcoord &gt; source.xcoord - .15 AND target.ycoord &gt; source.ycoord - .15 AND target.xcoord &lt; source.xcoord + .15 AND target.ycoord &lt; source.ycoord + .15<br>
+WHERE<br>
+target.gid IS NOT NULL<br>
+AND (<br>
+(target.xcoord = source.xcoord AND target.ycoord &lt;&gt; source.ycoord)<br>
+OR<br>
+(target.xcoord &lt;&gt; source.xcoord AND target.ycoord = source.ycoord) )</code></p>
+<p>You’ll notice I used a CASE statement to set directionality of the links, which is necessary for calculating sea travel as it allows us to integrate different wind strength by direction.&nbsp; I’m also using a grid built at .1 degree intervals, so I know exactly how they join up, but I could use more interesting spatial queries to join existing points based on distance.</p>
+<p>Once you have a mesh like this, you can identify points within it (or, in the case of actual Roman Sea Ports, points near it) to derive routes to and from.&nbsp; Since, theoretically, a traveler could leave any port and travel to any other port, I need to know all the least shortest paths from each port to each port.&nbsp; With 340 or so ports, that number is over 110,000 least cost paths, which on my machine using my 40,000 point sea mesh comes out to a 30+ hour query that looks like this:</p>
+<p><code><br>
+SELECT<br>
+source, target, (SELECT SUM(cost) FROM<br>
+  (SELECT mesh.cost FROM shortest_path('SELECT gid as id,<br>
+                   source::integer,<br>
+                   target::integer,<br>
+                   cost::double precision as cost<br>
+                  FROM mesh',<br>
+source, target, true, false) LEFT JOIN mesh ON mesh.gid = edge_id<br>
+  ) AS subquery<br>
+) AS total, (SELECT ST_Collect(the_geom) FROM<br>
+  (SELECT * FROM shortest_path('SELECT gid as id,<br>
+                   source::integer,<br>
+                   target::integer,<br>
+                   cost::double precision as cost<br>
+                  FROM mesh',<br>
+source, target, true, false) LEFT JOIN mesh ON mesh.gid = edge_id<br>
+  ) AS subquery<br>
+) AS the_geom<br>
+FROM sitelist_tofrom<br>
+</code></p>
+<p>You’ll notice I call the shortest_path function twice, once to aggregate the cost of the discovered route and again to aggregate the geometry of that route.  My sitelist_tofrom is simply a table of source-target pairs of the points within the mesh table that I want to know paths to and from.  You can reduce this with some general trimming to remove ports that are X distance away as-the-crow-flies (the maximum distance sea route for our study is 800km, so eliminating ports that are more than 800km away from each other makes this a bit more manageable) but I’m sure there are better ways to index the data and utilize the routing code more deftly.</p>
+<div id="attachment_3689"><img src="../images/writing/cd42af378d87e0995c846c02.png" alt="Sea routes that take less than 3 days of travel time during January, derived from the above code" title="Sea routes that take less than 3 days of travel time during January, derived from the above code" loading="lazy"><p>Sea routes that take less than 3 days of travel time during January, derived from the above code</p></div>
+<p>This is by no means the definitive pgRouting post and I’d like to make it clear, again, that I’m still a novice when it comes to using PostGIS.  However, I think there may be folks out there who would like to experiment with routing and this may provide them with some inspiration to install PostGIS and pgRouting on their system and give it a try.  It’s also meant to explain some of the methods we’re using to better understand travel in the Roman Empire, in case other scholars would like to move beyond traditional spatial analysis into geographic network analysis without getting involved with ArcGIS’s Network Analyst or building everything from scratch in a more general network analysis tool.</p>
+											</div><aside class="article-sources"><p class="eyebrow">Publication & preservation</p><p><a href="https://dhs.stanford.edu/spatial-humanities/geographic-networks-pgrouting/">Original publication ↗</a> · <a href="https://web.archive.org/web/20151212022947/https://dhs.stanford.edu/spatial-humanities/geographic-networks-pgrouting/">Archived source ↗</a></p></aside><a class="text-link" href="../writing.html">← Browse more writing</a></article></main><footer class="footer"><span>Elijah Meeks · Data visualization & rhetoric</span><span>Information wants to be free, but also elegant.</span><a href="../archive.html">Archive ↗</a></footer></div></body></html>

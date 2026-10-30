@@ -5,9 +5,14 @@
   "description": "Elijah Meeks — data visualization & rhetoric",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "check": "node scripts/check.mjs",
+    "check": "node scripts/check.mjs && node scripts/check-writing.mjs",
     "preview": "python3 -m http.server 8080 --directory dist"
   },
-  "devDependencies": { "markdown-it": "14.3.3" },
-  "engines": { "node": ">=22" }
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "markdown-it": "14.3.3"
+  },
+  "engines": {
+    "node": ">=22"
+  }
 }

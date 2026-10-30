@@ -1,17 +1,26 @@
 import { readFile, writeFile, mkdir, readdir, copyFile } from 'node:fs/promises';
 import { createRequire } from 'node:module';
 import MarkdownIt from 'markdown-it';
+import { buildWriting } from './build-writing.mjs';
 const require = createRequire(import.meta.url);
 const md = new MarkdownIt({ html: true, linkify: true });
 const esc = value => String(value).replace(/[&<>"']/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[c]));
 const projects = require('../src/js/constants/project-list.js');
 const essays = require('../src/js/constants/essay-list.js');
 const repos = require('../src/js/constants/repo-list.js');
+const recoveredWriting = JSON.parse(await readFile('site/writing/entries.json', 'utf8'));
+function recoveredLink(href) {
+  try {
+    const u = new URL(href);
+    const match = recoveredWriting.find(r => r.body && (r.source.replace(/^https?:/, '').replace(/\/$/, '') === href.replace(/^https?:/, '').replace(/\/$/, '') || (u.hostname === 'dhs.stanford.edu' && r.id === `dhs-${decodeURIComponent(u.pathname.split('/').filter(Boolean).pop())}`)));
+    return match ? `writing/${match.id}.html` : href;
+  } catch { return href; }
+}
 await mkdir('dist', { recursive: true });
 const urls = [];
 function shell(title, body, prefix = '', path = '', description = 'Tools, writing, and explorations in data visualization, networks, and the digital humanities by Elijah Meeks.') {
   urls.push(path);
-  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(description)}"><link rel="canonical" href="https://elijahmeeks.com/${path}"><meta property="og:type" content="${path.startsWith('archive/') ? 'article' : 'website'}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="https://elijahmeeks.com/${path}"><meta property="og:image" content="https://elijahmeeks.com/images/full/orbis.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="${prefix}favicon.ico"><link rel="stylesheet" href="${prefix}style.css"></head><body><a class="skip" href="#main">Skip to content</a><div class="wrap"><header class="topbar"><a class="wordmark" href="${prefix || './'}">elijah meeks<span>.</span></a><nav aria-label="Main navigation"><a href="${prefix}index.html#work">Work</a><a href="${prefix}index.html#writing">Writing</a><a href="${prefix}index.html#about">About</a><a href="${prefix}index.html#contact">Contact ↗</a></nav></header><main id="main">${body}</main><footer class="footer"><span>Elijah Meeks · Data visualization & rhetoric</span><span>Information wants to be free, but also elegant.</span><a href="${prefix}archive.html">Archive ↗</a></footer></div>${path === '' ? '<script src="legacy-links.js"></script>' : ''}</body></html>`;
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(description)}"><link rel="canonical" href="https://elijahmeeks.com/${path}"><meta property="og:type" content="${(path.startsWith('archive/') || path.startsWith('writing/')) ? 'article' : 'website'}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="https://elijahmeeks.com/${path}"><meta property="og:image" content="https://elijahmeeks.com/images/full/orbis.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="${prefix}favicon.ico"><link rel="stylesheet" href="${prefix}style.css"></head><body><a class="skip" href="#main">Skip to content</a><div class="wrap"><header class="topbar"><a class="wordmark" href="${prefix || './'}">elijah meeks<span>.</span></a><nav aria-label="Main navigation"><a href="${prefix}index.html#work">Work</a><a href="${prefix}writing.html">Writing</a><a href="${prefix}index.html#about">About</a><a href="${prefix}index.html#contact">Contact ↗</a></nav></header><main id="main">${body}</main><footer class="footer"><span>Elijah Meeks · Data visualization & rhetoric</span><span>Information wants to be free, but also elegant.</span><a href="${prefix}archive.html">Archive ↗</a></footer></div>${path === '' ? '<script src="legacy-links.js"></script>' : ''}</body></html>`;
 }
 // An abstract illustration of network structure, not a quantitative chart.
 const nodes = Array.from({ length: 62 }, (_, i) => {
@@ -48,10 +57,13 @@ for (const category of ['blog','project','workshops']) {
 }
 const list = items => `<ul class="archive-list">${items.map(i=>`<li><a href="${esc(i.path)}">${esc(i.title)}</a>${i.date?`<small>${i.date}</small>`:''}</li>`).join('')}</ul>`;
 let archive = '<div class="archive-header"><p class="eyebrow">Notes, experiments & earlier work</p><h1>The archive.</h1><p>Writing and projects from the original site, preserved with their historical context.</p><p><a href="#blog">Articles</a> · <a href="#projects">Projects</a> · <a href="#essays">Essays</a> · <a href="#code">Code</a> · <a href="#workshops">Workshops</a></p></div>';
-for (const [id,title,items] of [['blog','Articles',lists.blog],['projects','Projects',lists.project],['essays','Essays elsewhere',essays.map(e=>({title:e.label,path:e.link.replace('http://emeeks.github.io','https://emeeks.github.io')}))],['code','Code & experiments',repos.flatMap(g=>g.repos.map(r=>({title:r.label,path:r.link})))],['workshops','Past workshops',lists.workshops]]) archive += `<section class="section" id="${id}"><h2>${title}</h2>${list(items)}</section>`;
+archive += '<p><a class="text-link" href="writing.html">Browse the complete writing collection →</a></p>';
+for (const [id,title,items] of [['blog','Articles',lists.blog],['projects','Projects',lists.project],['essays','Essays',essays.map(e=>({title:e.label,path:recoveredLink(e.link.replace('http://emeeks.github.io','https://emeeks.github.io'))}))],['code','Code & experiments',repos.flatMap(g=>g.repos.map(r=>({title:r.label,path:r.link})))],['workshops','Past workshops',lists.workshops]]) archive += `<section class="section" id="${id}"><h2>${title}</h2>${list(items)}</section>`;
 await writeFile('dist/archive.html',shell('Archive — Elijah Meeks',archive,'','archive.html'));
 await writeFile('dist/404.html',shell('Page not found — Elijah Meeks','<div class="archive-header"><p class="eyebrow">404</p><h1>A missing connection.</h1><p>This page could not be found. Visit the <a href="https://elijahmeeks.com/">homepage</a> or explore the <a href="https://elijahmeeks.com/archive.html">archive</a>.</p></div>','','404.html'));
 await writeFile('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.filter(p=>p!=='404.html').map(p=>`<url><loc>https://elijahmeeks.com/${esc(p)}</loc></url>`).join('')}</urlset>`);
 await writeFile('dist/robots.txt','User-agent: *\nAllow: /\nSitemap: https://elijahmeeks.com/sitemap.xml\n');
+await buildWriting(shell);
+await writeFile('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.filter(p=>p!=='404.html').map(p=>`<url><loc>https://elijahmeeks.com/${esc(p)}</loc></url>`).join('')}</urlset>`);
 await writeFile('dist/.nojekyll','');
 console.log(`Built homepage, archive, and ${Object.values(lists).flat().length} historical articles.`);

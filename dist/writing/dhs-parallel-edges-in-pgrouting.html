@@ -1,0 +1,41 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Parallel Edges in pgRouting — Elijah Meeks</title><meta name="description" content="If, like me, you neglected to check and see if pgRouting (the pathfinding library for PostGIS) handles parallel edges in its default shortest path query, then you’ve likely found out that it doesn’t. You can tell that something is wrong…"><link rel="canonical" href="https://elijahmeeks.com/writing/dhs-parallel-edges-in-pgrouting.html"><meta property="og:type" content="article"><meta property="og:title" content="Parallel Edges in pgRouting — Elijah Meeks"><meta property="og:description" content="If, like me, you neglected to check and see if pgRouting (the pathfinding library for PostGIS) handles parallel edges in its default shortest path query, then you’ve likely found out that it doesn’t. You can tell that something is wrong…"><meta property="og:url" content="https://elijahmeeks.com/writing/dhs-parallel-edges-in-pgrouting.html"><meta property="og:image" content="https://elijahmeeks.com/images/full/orbis.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../favicon.ico"><link rel="stylesheet" href="../style.css"></head><body><a class="skip" href="#main">Skip to content</a><div class="wrap"><header class="topbar"><a class="wordmark" href="../">elijah meeks<span>.</span></a><nav aria-label="Main navigation"><a href="../index.html#work">Work</a><a href="../writing.html">Writing</a><a href="../index.html#about">About</a><a href="../index.html#contact">Contact ↗</a></nav></header><main id="main"><article class="prose writing-prose"><a class="text-link" href="../writing.html">← All writing</a><p class="eyebrow article-meta">Digital Humanities Specialist · 2012-03-07 · 2 min read</p><h1>Parallel Edges in pgRouting</h1><p class="article-author">Elijah Meeks</p><p class="publication-note">Originally published at <a href="https://dhs.stanford.edu/spatial-humanities/parallel-edges-in-pgrouting/">Digital Humanities Specialist</a>. This edition preserves the original text and historical context.</p><div class="article-body">
+									
+			<p>If, like me, you neglected to check and see if pgRouting (the pathfinding library for PostGIS) handles parallel edges in its default shortest path query, then you’ve likely found out that it doesn’t. You can tell that something is wrong when the same least cost path query produces different results, this is because the query is pulling the first edge it finds, which may not be the same edge query after query, and also may not be the least expensive edge.  It’s a relatively easy fix, but I figure I’ll point out how to handle it here.</p>
+<p>Remember, when you’re pulling a shortest path it looks something like this:</p>
+<p><code><br>
+SELECT<br>
+*<br>
+FROM<br>
+shortest_path(<br>
+'SELECT<br>
+gid as id,<br>
+source::integer,<br>
+target::integer,<br>
+cost::double precision<br>
+FROM<br>
+edge_table',<br>
+true,<br>
+false)</code></p>
+<p>It’s how you select your table of edges that allows you to handle parallel edges in your shortest_path subquery. You can fashion a SELECT DISTINCT ON query that orders the edges by cost so that you ensure the Dijkstra distance algorithm is only looking at the least expensive available edges:</p>
+<p><code><br>
+SELECT<br>
+*<br>
+FROM<br>
+shortest_path(<br>
+<strong>'SELECT DISTINCT ON (source, target)</strong><br>
+gid as id,<br>
+source::integer,<br>
+target::integer,<br>
+cost::double precision<br>
+FROM<br>
+edge_table<br>
+<strong>ORDER BY<br>
+source,<br>
+target,<br>
+cost</strong><br>
+',<br>
+true,<br>
+false)</code></p>
+<p>Since ASC (ascending) is the default order, then this will only give one edge per source-target pair and it will be the least expensive edge. If you were looking for the least cost path but you had different edges representing, say, best and worst case scenarios, and you wanted to do a path for the worst-case, then I suppose you could ORDER BY source, target, cost DESC.</p>
+<p>Now imagine doing this where you’re evaluating the edge cost based on different vehicle types and different months of the year and different possible costs (in the case of the Roman transportation network, we can determine the shortest, cheapest or fastest path, which is not necessarily the same path between two sites). In that case, you simply include the same expression that you use to determine your cost in the ORDER BY function. I’ll post the full PostGIS function when we release the network–it’s rather complicated–but I figured I’d post this little bit in case anyone else runs into the same problem that I did.</p>
+											</div><aside class="article-sources"><p class="eyebrow">Publication & preservation</p><p><a href="https://dhs.stanford.edu/spatial-humanities/parallel-edges-in-pgrouting/">Original publication ↗</a> · <a href="https://web.archive.org/web/20130703220333/https://dhs.stanford.edu/spatial-humanities/parallel-edges-in-pgrouting/">Archived source ↗</a></p></aside><a class="text-link" href="../writing.html">← Browse more writing</a></article></main><footer class="footer"><span>Elijah Meeks · Data visualization & rhetoric</span><span>Information wants to be free, but also elegant.</span><a href="../archive.html">Archive ↗</a></footer></div></body></html>

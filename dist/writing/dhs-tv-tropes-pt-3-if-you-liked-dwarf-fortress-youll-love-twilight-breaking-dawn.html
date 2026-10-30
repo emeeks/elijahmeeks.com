@@ -1,0 +1,145 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>TV Tropes Pt. 3:  If you liked Dwarf Fortress, you’ll love Twilight: Breaking Dawn — Elijah Meeks</title><meta name="description" content="Part 1: The Weird Geometry of the Internet Part 2: Trope (but not Troper) Communities Example of Thematic…"><link rel="canonical" href="https://elijahmeeks.com/writing/dhs-tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn.html"><meta property="og:type" content="article"><meta property="og:title" content="TV Tropes Pt. 3:  If you liked Dwarf Fortress, you’ll love Twilight: Breaking Dawn — Elijah Meeks"><meta property="og:description" content="Part 1: The Weird Geometry of the Internet Part 2: Trope (but not Troper) Communities Example of Thematic…"><meta property="og:url" content="https://elijahmeeks.com/writing/dhs-tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn.html"><meta property="og:image" content="https://elijahmeeks.com/images/full/orbis.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../favicon.ico"><link rel="stylesheet" href="../style.css"></head><body><a class="skip" href="#main">Skip to content</a><div class="wrap"><header class="topbar"><a class="wordmark" href="../">elijah meeks<span>.</span></a><nav aria-label="Main navigation"><a href="../index.html#work">Work</a><a href="../writing.html">Writing</a><a href="../index.html#about">About</a><a href="../index.html#contact">Contact ↗</a></nav></header><main id="main"><article class="prose writing-prose"><a class="text-link" href="../writing.html">← All writing</a><p class="eyebrow article-meta">Digital Humanities Specialist · 2011-12-25 · 11 min read</p><h1>TV Tropes Pt. 3:  If you liked Dwarf Fortress, you’ll love Twilight: Breaking Dawn</h1><p class="article-author">Elijah Meeks</p><p class="publication-note">Originally published at <a href="https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/">Digital Humanities Specialist</a>. This edition preserves the original text and historical context.</p><div class="article-body">
+									
+			<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/social-media-literacy/tvtropes-pt-1-the-weird-geometry-of-the-internet/"><em><strong>Part 1: The Weird Geometry of the Internet</strong></em></a><br>
+<em><strong> <a href="dhs-tvtropes-pt-2-trope-but-not-troper-communities.html">Part 2: Trope (but not Troper) Communities</a></strong></em><br>
+<a href="dhs-tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn.html"><em><strong> </strong></em></a><em><strong><a href="dhs-the-value-of-network-visualization.html">Example of Thematic Relationships</a></strong></em></p>
+<p>While it’s one thing to use network visualization to display these structures, and use analytical tools like community detection to make better sense of them, the value of looking at projects like TV Tropes as networks is in discovering patterns that better explain commons-based peer collaborative projects as well as may pertain to literary analysis.&nbsp; It is a not-terribly-farfetched hypothesis that a site with as many contributions and as much content as TV Tropes would have identified structure in the variety of works represented there, but defining that structure in a meaningful way requires we somehow map patterns of similar trope usage or that the free data in the form of tropes created on the wiki be transformed into categorical data suitable for comparing the makeup of structures.&nbsp; Below I’ll describe the use of both methods and the results from a sample of works on the site.</p>
+<p>The first seems the most obvious: identify works that share tropes in common and rank them based on the number of shared tropes.&nbsp; You can easily create an Ego Network around a single work to find the tropes connected to it and then extend that Ego Network out another degree to find whatever links to those tropes.&nbsp; But here the structure of TV Tropes interferes with the simple solution.&nbsp; A good bi-modal network, <a href="http://www.scottbot.net/HIAL/?p=6279">as Scott Weingart explains</a>, has defined structure in how the different types of objects can interact with each other.&nbsp; But on TV Tropes, a Trope page can point to a Work page and a Work page can point to a Trope page and a Trope page can point to a Trope page and a Work page can point to a Work page.&nbsp; This means that those tropes connected to the work you’re examining are themselves connected to tropes as well as other works, such that a 2nd Degree Ego Network typically consists of 90% of the entire TV Tropes site.</p>
+<p>There’s also the problem of inconsistent links from trope to work and from work to trope.&nbsp; This isn’t a knock on TV Tropes, but rather a structural problem of wikis, which by their very nature promote the adding of links in both directions rather than deriving the links in one direction from the links pointing to that page.&nbsp; This may get a little too inside baseball, but if you imagine the function of TV Tropes, it stands to reason that a work mentioned as an example on a trope page should itself have a link from its work page to that trope page.&nbsp; Instead, only 600,000 or so of the tropes to works links have corresponding works to tropes links.&nbsp; To be clear, this isn’t an error of TV Tropes, or a failing, and really there’s an interesting bit of analysis to be done to see the difference in how links in one direction tell a different story than links in the other, and why, but for the sake of easily understanding one avatar of TV Tropes, something needs to be done.</p>
+<p>To avoid these two problems, the analysis below only looks at links from works pages to tropes pages and ignores indices, links from tropes pages to works pages and links from tropes pages to tropes pages.&nbsp; This makes the network a bit more manageable, only 23,916 works, 20,438 tropes (the rest are effectively isolated without the above links) and a little over 1.2 million links between them.&nbsp; The patterns are immediately recognizable:</p>
+<p><img title="One point two million edges and forty-four thousand nodes" src="../images/writing/4ace09b5fe22026963271a81.png" alt="One point two million edges and forty-four thousand nodes" loading="lazy"></p>
+<p>Or perhaps not…&nbsp; This does, though, allow the simple Ego Network examination outlined above to provide us with some sense of shared tropes.&nbsp; Here’s the Ego Network around Portal 2:</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/portal2.png"><img title="Everything connected to a trope connected to Portal 2" src="../images/writing/1916101ed9e971c6ef2c6956.png" alt="Everything connected to a trope connected to Portal 2" loading="lazy"></a>Again, not very helpful.&nbsp; Relying on simple ego networks runs afoul of the disproportionate number of tropes assigned to various heavy hitters on the site.&nbsp; Depending on genre and media, every work you examine this way is going to show the highest similarity to Angel, Star Wars or South Park, because so many tropes have been cataloged for each of those works.&nbsp; Instead, we want to know the percentage of tropes that are shared in common by each work (meaning that a works page links to a tropes page that is also linked to by a works page) and how much overlap this represents in scale to the amount of tropes per work.</p>
+<p>It’s a relatively simple calculation.&nbsp; One takes the percentage of links represented in Work A and multiplies it by the percentage of links represented in Work B.&nbsp; This similarity score allows us to see the most similar work based on shared tropes.&nbsp; It’s crude, and I’m sure not as nuanced or fast as the node similarity measures that Amazon and Google and the Department of Defense have come up with, but it works and is comprehensible, especially to an audience less familiar with network analysis.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/angel_clonewars.png"><img title="Trope Similarity of Star Wars: Clone Wars and Angel" src="../images/writing/27a9b759fb685a4f9512c665.png" alt="Trope Similarity of Star Wars: Clone Wars and Angel" loading="lazy"></a>For example, if we look at the shared tropes between <a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/tvtropes.org/pmwiki/pmwiki.php/Series/Angel">Angel</a> and <a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/StarWarsTheCloneWars">Star Wars: Clone Wars</a>, we find nearly a hundred.&nbsp; This sounds like a lot, until we notice that Angel has almost a thousand tropes and SW:CW has a comparably paltry 386.&nbsp; This means the shared tropes constitute just 10% of the Angel tropes and 25% of the SW:CW tropes.&nbsp; This would result in a similarity score of .1 * .25 or .025.&nbsp; The result is a scale starting at 1.0 (both works share all of their tropes in common) that gives a good indication of similarity by trope.</p>
+<p>However, this ignores the interrelated nature of tropes and of most user-defined free metadata that annotates material.&nbsp; It’s a serious problem for libraries trying to reconcile the ontologies of multiple groups to see if they really meant the same thing.&nbsp; With that in mind, I can get into the other method for finding similar works on TV Tropes, which draws its inspiration from Topic Modeling.&nbsp; Topic modeling assumes a probabilistic model that creates a work out of a set of “topics”, which in the model are simply collections of words.&nbsp; For TV Tropes, we can think of these topics as collections of tropes.</p>
+<p>To achieve this with the TV Tropes network, we have to assume the regions discovered in the previous analysis are real thematic categories.&nbsp; They’re not–the weak community signal would not satisfy a critical audience.&nbsp; But for the purpose of this exploration, we’ll assume these are strong, relatively accepted categories.&nbsp; That said, they do seem to show substantial thematic patterns with regard to the work, so maybe they shouldn’t be wholly disregarded.&nbsp; You’ll notice the above network diagram has Skittles-colored links, that’s because it’s actually showing you the theme of the links, based on the six categories from the analysis in Part 2.</p>
+<p>Why do we need categories at all?&nbsp; Because as TV Tropes is currently organized, it’s a checklist, rather than a percentage.&nbsp; If a trope shows up in a work, it gets noted, and while this is fine for an individual reader, it’s fundamentally “free” data (like unprocessed imagery or text) that needs to be compressed into recognizable categories to be dealt with in whole.&nbsp; There is no measurement of how much a particular trope relates to a particular work, and so by combining them into themes, we can develop that measurement.&nbsp; This compression is naturally messy and lossy, but it’s unavoidable.&nbsp; You simply cannot read 50,000 entries in a species biodiversity database, you need to use topic modeling to summarize the variation in topic over species and threat status just as you cannot read a <a href="http://mitworld.mit.edu/video/807">million Manga pages</a> and need to compress that data into categorical attributes of the images themselves.</p>
+<p>For this metric, the tropes appearing in a work are lumped into their category and given as a percentage of the total work.&nbsp; If a work has 100 tropes and 10 of them are from the Video Games category, then it has a Video Games score of 10%.</p>
+<p>I’ve taken the six categories from Part 2 and revised their names a bit, so as to be more recognizable or better described.&nbsp; I’ve received or read a number of excellent interpretations of them that have influenced the titles.</p>
+<p><strong><em>Meta </em>(Yellow) – Originally “Dumbledore’s Secret”</strong></p>
+<p><a href="http://tvtropes.org/pmwiki/pmwiki.php/Music/SgtPeppersLonelyHeartsClubBand">Sgt. Pepper’s Lonely Hearts Club Band</a> (84%) is narrowly beat out by <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NPR">NPR</a> (85%) while <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragnet">Dragnet </a>(73%) demonstrates that this is representative not only of the content of the media but the manner in which the TV Tropes community engages the media.&nbsp; Dragnet is neither self-consciously ironic nor is the work itself focused on analysis, like NPR, but it is used on TV Tropes as a vehicle for analysis of the entire genre, as evidenced by its introduction:</p>
+<blockquote><p>Archetype of the Police Procedural, Dragnet followed the exploits of Sgt. Joe Friday (badge number 714) and his partner, Bill Gannon, as they investigated crime in Los Angeles.</p></blockquote>
+<p><strong><em>Traditional </em>(Red) – Originally “Disney Characters and Motives”</strong></p>
+<p>Machiavelli’s <a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/tvtropes.org/pmwiki/pmwiki.php/Literature/ThePrince">The Prince</a> has 78 tropes associated with it, 83% of which fall within the Traditional category.&nbsp; Other notable works scoring highly in the Traditional category are <a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/tvtropes.org/pmwiki/pmwiki.php/Film/AmericanGangster">American Gangster</a> and <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Tosca">Tosca</a>.</p>
+<p><strong><em>Id </em>(Purple) – Originally “Dark Urges”</strong></p>
+<p>I had noted this theme as “id” in my first write-up, but then changed it because I thought it too much implied a level of understanding of psychoanalysis that I don’t have.&nbsp; After I posted it, though, it seemed like everyone thought id was a better description than “dark urges”.&nbsp; Highly represented in the top percentage makeup by Manga, but also includes <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNotebook">The Notebook</a> (84%).</p>
+<p><strong><em>Video Games</em> (Green) – Originally “Overcompensation”<br>
+</strong></p>
+<p>Objects and situations typically associated with video games, such as power-ups, hordes of weak enemies and platform-related mishaps.&nbsp; Quite a few video games, like <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EyeOfTheBeholder">Eye of the Beholder</a> (91%) and <a href="http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GoldenEye1997">GoldenEye </a>(77%) are almost entirely made up of tropes from this theme, as are miniature and chit-based wargames.</p>
+<p><strong><em>Lampshade </em>(Teal) – Originally “A Very TV Tropes Movie” </strong></p>
+<p>Humor and wit with what seems to be a heavy acknowledgment of the format of the work.&nbsp; <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FawltyTowers">Fawlty Towers</a> is 53% Lampshade.</p>
+<p><strong><em>Supernatural </em>(Blue) – Originally “Monsters”</strong></p>
+<p>As readers have noted, this final category isn’t truly about horror, or even monsters in the typical sense of the word, but about a composite set of themes having to do with the strange and supernatural.&nbsp; <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheVelveteenRabbit">The Velveteen Rabbit</a>, with its talking animals, fairies and dolls coming to life, ranks as 79% Supernatural.</p>
+<p>Below you’ll find a sample of works on TV Tropes that are ranked by their thematic makeup, as well as lists of similar works based on the similarity score developed above.&nbsp; It is at this point where I step out of my realm of expertise and into that of the folks I typically work with, who interpret these things and integrate the patterns into larger questions of the evolution of theme and style, or the development of genres or the criticism of criticism.&nbsp; So, it stands to reason that I should not interpret any of these patterns but rather leave them to be interpreted, as problematic or useful or some mix thereof.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/dwarf_fortress.png"><img title="Dwarf Fortress and its 5 most similar works by shared tropes" src="../images/writing/654666ce732bd3df408b2180.png" alt="Dwarf Fortress and its 5 most similar works by shared tropes" loading="lazy"></a><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudEFEUjNNUm1wN25HLUxZcGJJRHBndFE"></a></p>
+<p><a href="http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DwarfFortress"><strong>Dwarf Fortress</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudEFEUjNNUm1wN25HLUxZcGJJRHBndFE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Id: 5%<br>
+Meta: 5%<br>
+Lampshade: 10%<br>
+Traditional: 14%<br>
+Supernatural: 21%<br>
+Video Games: 46%</p>
+<p><strong>Champions Online</strong> is the most similar by thematic distance, <strong>Ultima VII Part II</strong> (11), <strong>Final Fantasy XI</strong> (14) and <strong>Spore</strong> (17) are all in the top 20.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/portal2x.png"><img title="Portal 2 and top 5 most similar works based on trope" src="../images/writing/e87a78578456d2b8d349a2d6.png" alt="Portal 2 and top 5 most similar works based on trope" loading="lazy"></a><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/tvtropes.org/pmwiki/pmwiki.php/VideoGame/Portal2"><strong>Portal 2</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudFJ4Z2pESjYxbGJMUVY0R2RGeFhvN1E">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Id: 6%<br>
+Supernatural: 12%<br>
+Lampshade: 18%<br>
+Meta: 19%<br>
+Traditional: 20%<br>
+Video Games: 25%</p>
+<p><strong>Peter and the Wolf</strong> (6), <strong>Robocop</strong> (10), <strong>Iron Man</strong> (16) and <strong>Resident Evil 3</strong> (19) are all in the top 20 based on thematic distance.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/mobydick.png"><img title="Moby Dick and 5 similar works based on trope" src="../images/writing/52d465803aae758302a79036.png" alt="Moby Dick and 5 similar works based on trope" loading="lazy"></a><a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/MobyDick"><strong>Moby Dick</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudDJUelFUT281VVMwcDBzV3ZrT2tGTVE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Supernatural: 6%<br>
+Id: 6%<br>
+Video Games: 6%<br>
+Lampshade: 13%<br>
+Traditional: 33%<br>
+Meta: 37%</p>
+<p><strong>Convoy </strong>(5), <strong>Chariots of Fire</strong> (6), <strong>Mutiny on the Bounty</strong> (13),<strong> No Country for Old Men</strong> (15) and <strong>The Da Vinci Code</strong> (20) are all in the top 20 based on thematic similarity.</p>
+<p><img title="The novel Frankenstein and the 5 most similar works based on trope" src="../images/writing/6bee37e8cf486709b558bd77.png" alt="The novel Frankenstein and the 5 most similar works based on trope" loading="lazy"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Frankenstein"><strong>Frankenstein (Novel)</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudG4za09hTzJ6NlQ4MGZxREEwb1ZkOWc">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Video Games: 3%<br>
+Lampshade: 5%<br>
+Supernatural: 17%<br>
+Id: 17%<br>
+Meta: 28%<br>
+Traditional: 29%</p>
+<p><strong>The Giver</strong> (7), <strong>Teenage Mutant Ninja Turtles</strong> (8), <strong>Do Androids Dream of Electric Sheep</strong> (14) and <strong>From Hell</strong> (16) are all in the top 20 based on thematic similarity.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/frankenstein.png"><img title="Frankenstein general entry with top 5 similar works based on trope" src="../images/writing/e902e5b0cd6fc61b850a16f5.png" alt="Frankenstein general entry with top 5 similar works based on trope" loading="lazy"></a><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Frankenstein"><strong>Frankenstein (General Entry)</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudFZHRGRMV0tubEhCNVFHLXN1NWMzT3c">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Lampshade: 7%<br>
+Id: 14%<br>
+Meta: 34%<br>
+Supernatural: 45%</p>
+<p>Most similar to <a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/TimeCat">Time Cat</a> based on thematic makeup.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/sensesensibilitynovel.png"><img title="The novel Sense and Sensibility and 5 most similar works based on trope" src="../images/writing/ced34ad7fdfc00b417390d2a.png" alt="The novel Sense and Sensibility and 5 most similar works based on trope" loading="lazy"></a><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SenseAndSensibility"><strong>Sense and Sensibility (Novel)</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudEVQRU1EUUxIbERmdE5QNUJLQVlDY0E">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Video Games: 1%<br>
+Meta: 11%<br>
+Lampshade: 12%<br>
+Traditional: 13%<br>
+Id: 62%</p>
+<p><strong>Sunset Beach</strong> (7), <strong>Friends with Benefits</strong> (8), <strong>Cat on a Hot Tin Roof</strong> (13) and <strong>Pride and Prejudice</strong> (16) in the top 20 by thematic similarity.</p>
+<p><img title="The film Sense and Sensibility and the 5 most similar works based on trope" src="../images/writing/7fb649c56311942b7d2d118d.png" alt="The film Sense and Sensibility and the 5 most similar works based on trope" loading="lazy"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/SenseAndSensibility"><strong>Sense and Sensibility (Film)</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudGYySlBVaWhwVWNOblV1eFZhdXJtWkE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Traditional: 11%<br>
+Lampshade: 18%<br>
+Id: 29%<br>
+Meta: 41%</p>
+<p>The Russian musical <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Hipsters">Hipsters</a> is the most similar based on thematic makeup.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/oldmansea.png"><img title="Old Man and the Sea and the 5 similar works based on trope" src="../images/writing/7fec6984eba50af7aaff76ba.png" alt="Old Man and the Sea and the 5 similar works based on trope" loading="lazy"></a><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOldManAndTheSea"><strong>The Old Man and the Sea</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudEdJQlBrZThEc0hZdXZjS0hGUmVPOVE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Traditional: 22%<br>
+Id: 33%<br>
+Meta: 44%</p>
+<p><img title="20,000 Leagues Under the Sea and the 5 most similar works by trope" src="../images/writing/ecd188458b0046e92eef2b7a.png" alt="20,000 Leagues Under the Sea and the 5 most similar works by trope" loading="lazy"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyThousandLeaguesUnderTheSea"><strong>20,000 Leagues Under the Sea</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudE1OR1psX01lSnZvQnVocnRfRGpydUE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Video Games: 6%<br>
+Id: 11%<br>
+Meta: 13%<br>
+Supernatural: 13%<br>
+Lampshade: 17%<br>
+Traditional: 40%</p>
+<p><strong>Aesop’s Fables</strong> (2) and <strong>The Adjustment Bureau</strong> (8) are in the top 20 based on thematic similarity.</p>
+<p><img title="MS Paint Adventures and the 5 most similar works based on trope" src="../images/writing/a1adaa26d2f7f12b1d476b81.png" alt="MS Paint Adventures and the 5 most similar works based on trope" loading="lazy"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MSPaintAdventures"><strong>MS Paint Adventures</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudHJRek1rdzFGLTJqMFUzRXJFNXN5T0E">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Supernatural: 2%<br>
+Id: 2%<br>
+Traditional: 2%<br>
+Lampshade: 6%<br>
+Video Games: 35%<br>
+Meta: 53%</p>
+<p><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Breakout">Breakout</a> is the most similar based on thematic makeup.</p>
+<p><img title="The Epic of Gilgamesh and the 5 most similar works by trope" src="../images/writing/56a4ff15b35609622f2eea4b.png" alt="The Epic of Gilgamesh and the 5 most similar works by trope" loading="lazy"></p>
+<p><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEpicOfGilgamesh"><strong>The Epic of Gilgamesh</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudHB6SGEwMy1fTWZERjd4RTF3R0hWVWc">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Lampshade: 3%<br>
+Video Games: 10%<br>
+Meta: 10%<br>
+Supernatural: 16%<br>
+Traditional: 28%<br>
+Id: 33%</p>
+<p><img title="John Carter of Mars and the 5 most similar works based on trope" src="../images/writing/1fa407ea5fa31afeef77147a.png" alt="John Carter of Mars and the 5 most similar works based on trope" loading="lazy"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnCarterOfMars"><strong>John Carter of Mars</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudDRTOGxEczU4Y2xlWS10eXBhd1U5RkE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Lampshade: 5%<br>
+Video Games: 8%<br>
+Meta: 9%<br>
+Supernatural: 16%<br>
+Id: 24%<br>
+Traditional: 39%</p>
+<p><strong>The Lion, the Witch and the Wardrobe</strong> (13) is in the top 20 most similar works based on thematic makeup.</p>
+<p><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/wp-content/uploads/2011/12/battletech.png"><img title="Battletech and 5 most similar works based on trope" src="../images/writing/4ed2e919f30d77d5775a323e.png" alt="Battletech and 5 most similar works based on trope" loading="lazy"></a><a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/tvtropes.org/pmwiki/pmwiki.php/TabletopGame/BattleTech"><strong>Battletech</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0Am7LsHzdOWRudGUxN3JURWVhazdUVlFpaU9tdHdxbkE">Top 50 Most Similar Works Based on Shared Tropes</a></p>
+<p>Id: 6%<br>
+Lampshade: 7%<br>
+Supernatural: 12%<br>
+Meta: 14%<br>
+Traditional: 21%<br>
+Video Games: 40%</p>
+<p><strong>Megaman X</strong> (2), <strong>Ultima VII</strong> (3), <strong>Halo</strong> (4), <strong>Starcraft II</strong> (11) and <strong>Mass Effect 3</strong> (14) in the top 20 by thematic similarity.</p>
+
+											</div><aside class="article-sources"><p class="eyebrow">Publication & preservation</p><p><a href="https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/">Original publication ↗</a> · <a href="https://web.archive.org/web/20130703124826/https://dhs.stanford.edu/algorithmic-literacy/tv-tropes-pt-3-if-you-liked-dwarf-fortress-youll-love-twilight-breaking-dawn/">Archived source ↗</a></p></aside><a class="text-link" href="../writing.html">← Browse more writing</a></article></main><footer class="footer"><span>Elijah Meeks · Data visualization & rhetoric</span><span>Information wants to be free, but also elegant.</span><a href="../archive.html">Archive ↗</a></footer></div></body></html>

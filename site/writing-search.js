@@ -1,0 +1,32 @@
+document.querySelector('.writing-filters').addEventListener('submit',event=>event.preventDefault());
+const search=document.querySelector('#writing-search');
+const venue=document.querySelector('#writing-venue');
+const format=document.querySelector('#writing-format');
+const items=[...document.querySelectorAll('.writing-item')];
+const status=document.querySelector('#writing-status');
+const navigation=document.querySelector('.writing-pagination');
+const previous=document.querySelector('#writing-prev');
+const next=document.querySelector('#writing-next');
+const pageLabel=document.querySelector('#writing-page');
+const normalized=s=>s.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const texts=items.map(item=>normalized(item.textContent));
+const params=new URLSearchParams(location.search);
+search.value=params.get('q')||'';venue.value=params.get('publication')||'';format.value=params.get('availability')||'';
+let page=Math.max(1,Number(params.get('page'))||1);
+const size=30;
+function render(reset=false){
+ if(reset)page=1;
+ const terms=normalized(search.value).trim().split(/\s+/).filter(Boolean);
+ const matches=items.filter((item,i)=>terms.every(t=>texts[i].includes(t))&&(!venue.value||item.dataset.venue===venue.value)&&(!format.value||item.dataset.format===format.value));
+ const pages=Math.max(1,Math.ceil(matches.length/size));page=Math.min(page,pages);
+ items.forEach(item=>item.hidden=true);
+ matches.slice((page-1)*size,page*size).forEach(item=>item.hidden=false);
+ status.textContent=matches.length?`Showing ${(page-1)*size+1}–${Math.min(page*size,matches.length)} of ${matches.length} entries`:'No matching entries';
+ document.querySelector('#writing-empty').hidden=matches.length!==0;
+ navigation.hidden=pages<=1;previous.disabled=page===1;next.disabled=page===pages;pageLabel.textContent=`Page ${page} of ${pages}`;
+ const q=new URLSearchParams();if(search.value)q.set('q',search.value);if(venue.value)q.set('publication',venue.value);if(format.value)q.set('availability',format.value);if(page>1)q.set('page',page);
+ history.replaceState(null,'',location.pathname+(q.size?'?'+q:'')+location.hash);
+}
+search.addEventListener('input',()=>render(true));venue.addEventListener('change',()=>render(true));format.addEventListener('change',()=>render(true));
+for(const [button,step] of [[previous,-1],[next,1]])button.addEventListener('click',()=>{page+=step;render();search.scrollIntoView({block:'center'});});
+render();
