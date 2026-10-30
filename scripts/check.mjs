@@ -13,7 +13,9 @@ async function check(dir) {
     for (const match of html.matchAll(/(?:src|href)="([^"]+)"/g)) {
       const target = match[1].split('#')[0].split('?')[0];
       if (!target || /^(?:https?:|mailto:|data:|\/\/)/.test(target)) continue;
-      const path = resolve(dirname(file),decodeURIComponent(target));
+      const path = target.startsWith('/')
+        ? resolve('dist', '.' + decodeURIComponent(target))
+        : resolve(dirname(file),decodeURIComponent(target));
       if (!path.startsWith(resolve('dist'))) { errors.push(`${file}: outside dist: ${target}`); continue; }
       try { await access(path); } catch { errors.push(`${file}: missing ${target}`); }
     }

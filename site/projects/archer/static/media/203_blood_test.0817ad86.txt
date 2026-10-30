@@ -1,0 +1,474 @@
+|episode|2|203|Blood Test|
+|scene|participants:archer,wheelchairdude|deaths:0|tags:|
+ARCHER:Yeah, and what do you even do here, sit on your ass and analyze data? Well, I'm a field agent, Isaac Newton. I risk my life. So, yeah, I do deserve the best space in the parking garage. Like it'd kill you to roll 50 feet. Stupid thing's electric.
+[*** Archer walks away ***]
+|scene|participants:archer,cyril|deaths:0|tags:|
+CYRIL: Archer, I still haven't gotten those T&E reports you promised me.
+ARCHER: Are you sure? You didn't eat them?
+CYRIL: Yeah, well, since Lana broke up with me, I've been finding solace in food.
+ARCHER: Well, keep your chins up, Cyril. All 11 of them.
+|scene|participants:archer,pam,cheryl|deaths:0|tags:|
+ARCHER: Cyril's about half a wreck, huh?
+PAM: Yeah, so why do you pick on him?
+ARCHER: I-- Oh, was that not rhetorical? And why are you bleaching everything?
+CHERYL: Ugh! Because it sneezed out here.
+ARCHER: Okay, is Mother in?
+PAM: Oh, she's in there, all right.
+CHERYL: And they're expecting you.
+ARCHER: Thanks, crazy. I-- Wait, who's they?
+|scene|participants:archer,trinette,malory,seamus|deaths:0|tags:|
+TRINETTE: Hello, Archer.
+ARCHER: Trinette. Why are you here?
+TRINETTE: You don't call me for a year and that's how you talk to me?
+MALORY: Yes, dear, where are your manners?
+ARCHER: Oh, I'm sorry, I guess I skipped the Emily Post chapter about how to introduce your mother to a hooker.
+TRINETTE: Escort, you puke. And I'm retired.
+ARCHER: Yeah? Your 401(k) doing that well?
+TRINETTE: I have a SEP, smartass.
+ARCHER: You have a SEP?
+TRINETTE: Oh, and this. So I ain't worried about getting by.
+ARCHER: Why is this a subpoena?
+TRINETTE: It's for the paternity test.
+ARCHER: The what?
+MALORY: Yes, the what, dear.
+ARCHER: Wha--?
+MALORY: And the who.
+[*** Malory turns around with Seamus ***]
+ARCHER: What who? Who is that?
+MALORY: Why, this is Seamus McGoon Ster--
+TRINETTE: No, Seamus Sterling McGoon Archer.
+ARCHER: Why is that who named like me?
+TRINETTE: Why do you think?
+ARCHER: I'm asking you why.
+TRINETTE: Because he's your son.
+MALORY: You colossal fucking idiot.
+SEAMUS: [BABY COOS]
+|scene|participants:archer,malory|deaths:0|tags:|
+MALORY: Why? Why didn't you just get a vasectomy like I asked you to?
+ARCHER: Honestly, I thought it would hurt.
+MALORY: And this doesn't?
+ARCHER: Well, in a-- It's apples and oranges.
+MALORY: I'm not ready to be a grandmother.
+ARCHER: Really? But you're so--
+MALORY: Grandmotherly?
+ARCHER: No. Old.
+MALORY: If and when I am ready for a grandchild, it won't be the potato-faced spawn of some Irish whore.
+ARCHER: Yeah, exactly, it's probably not. Seriously, what's the odds on that?
+MALORY: So she had a lot of--?
+ARCHER: You kidding? I used to have to book her weeks in advance.
+MALORY: Ugh.
+ARCHER: Although--
+MALORY: Although what?
+ARCHER: Um...
+|scene|participants:archer,trinette|deaths:0|tags:flashback,sex|
+ARCHER: Phew. Wow. Trinette, that was amazing.
+TRINETTE: Yeah, well, you know-- Wai-- Wha--? Wait a minute. You liar. This ain't a condom wrapper, it's from a fricking candy bar.
+ARCHER: So? Sometimes I like to treat myself.
+TRINETTE: Well, sometimes I like to ovulate.
+ARCHER: Well, I gotta sleep, so do it somewhere else. Money's on the dresser.
+|scene|participants:archer,malory|deaths:0|tags:|
+ARCHER: Nothing. Hundred-to-one he's mine.
+MALORY: Well, he better not be. I couldn't bear the shame it would bring on this family to have--
+ARCHER: No, please, Mother, finish that thought.
+MALORY: I--
+ARCHER: Oh, my God, you are such a hypocrite. You were gonna say "illegitimate child."
+MALORY: No, I was going to say "bastard."
+|scene|participants:lana,pam,cheryl,ray|deaths:0|tags:dangerzone|
+PAM: Ouch. I mean that's gotta hurt, huh?
+LANA: Why should I care if Archer knocked up some hooker?
+CHERYL: Because babies are soft-skulled, fat little germ sacks and now we've all been exposed to that one's bacteria.
+LANA: Wait, what?
+PAM: Don't engage her. But come on, Lana. You dated Mr. Archer forever.
+CHERYL: And you have nothing to show for it.
+LANA: Um
+RAY: Paging Dr. Loggins.
+LANA: Couple things. One, I don't need a baby to validate my existence. And two, the absolute last person on Earth I'd have a baby with is Archer, because he is not sold separately.
+|scene|participants:archer,lana|deaths:0|tags:sex|
+ARCHER: Did you tr--? Did you try--? Yeah, I'll come over, Mother, just give me 20 minutes.
+LANA: [GROANS]
+ARCHER: Well, I'm sorry, Lana, but I didn't invent the child proof pill bottle.
+|scene|participants:lana,cheryl|deaths:0|tags:|
+LANA: So, as far as Archer's concerned I feel I dodged the world's most dysfunctional bullet.
+CHERYL: Yeah, but Cyril was-- Oh, wait. Did he have some sort of character flaw?
+|scene|participants:cyril,jane|deaths:0|tags:sex,flashback|
+CYRIL: Hello.
+|scene|participants:cyril,framboise|deaths:0|tags:sex,flashback|
+CYRIL: Hello.
+|scene|participants:cyril,cheryl|deaths:0|tags:sex,flashback|
+CYRIL: Hello.
+|scene|participants:lana,cheryl,ray,pam|deaths:0|tags:|
+LANA: Couple things.
+CHERYL: Bring it.
+LANA: [YELLING AND GRUNTING]
+CHERYL: [YELLING AND GRUNTING]
+RAY: Yeah, we are code blue here.
+PAM: Hey, yeah, blue. Like for baby boys.
+RAY: No, I meant like for her face.
+CHERYL: Choke me.
+PAM: No, like for let's have a baby shower for Trinette and the wee baby Seamus.
+RAY: Oh, my God, yes, but your place is disgusting so where can we have it?
+PAM: Well, Archer's got that banging pad.
+LANA: Oh, he'll hate that. I wanna come.
+CHERYL: Ohh, I think I just did.
+|scene|participants:lawyer,malory,archer|deaths:0|tags:|
+LAWYER: And so thank you both for coming even though Mr. Archer is the only party named in the subpoena.
+MALORY: Well, we both have a vested interest in the outcome of this silly test.
+LAWYER: And said test will, obviously, be administered by a third party, so--
+MALORY: A third party? But we have a state-of-the-art laboratory at ISIS.
+|scene|participants:krieger,chet|deaths:1|tags:|
+KRIEGER: Normally I wouldn't let an intern do this on his first day, but-- Chet? How's it hanging, buddy?
+|scene|participants:lawyer,malory,archer,barry|deaths:0|tags:|
+LAWYER: I'm sure you do. But our client has concerns about the integrity of the test results, given your agency's, uh, clandestine nature.
+[*** Barry enters ***]
+BARRY: Oh, and by the way, super crazy about the elevator pretending it's a dryer.
+MALORY: Barry?
+BARRY: But all kidding aside, ODIN will be providing security for the paternity test.
+MALORY: ODIN?
+BARRY: Oh, yeah. Hello, Archer.
+ARCHER: Barry.
+BARRY: How's it hanging, buddy?
+ARCHER: Hanging great, Barry. How's the leg?
+|scene|participants:barry,archer|deaths:0|tags:flashback|
+ARCHER: Barry, does it hurt?
+[CAR ALARM WAILING]
+ARCHER: Because it looks like it kind of hurts.
+|scene|participants:lawyer,malory,archer,barry,odindrones,doctor|deaths:0|tags:|
+BARRY: It did hurt. And it still does, so--
+MALORY: So how can Trinette afford ODIN?
+ARCHER: Barry.
+BARRY: This is pro-bono. Consider it payback for my shattered femur. And that reminds me. Dr. Ben?
+[*** Dr. Ben and two ODIN drones enter ***]
+ARCHER: What the--? Hey!
+MALORY: What the hell is this?
+BARRY: We take a blood sample from Archer.
+MALORY: Blood? My God, what year is this?
+ARCHER: I know, right?
+MALORY: Why can't you just take a DNA swab?
+BARRY: A blood sample is enough to determine paternity. And after we take a liter--
+ARCHER: A liter? How much is a--?
+BARRY: Archer will be left in a weakened state, which should prevent his attempting to compromise the test.
+ARCHER: Turtlenecks. I invented the turtleneck.
+MALORY: You're bleeding him dry.
+ARCHER: Seriously, how much is a liter?
+BARRY: About eight gills.
+ARCHER: What's a gill? You're just talking in circles.
+BARRY: Thanks, Dr. Ben. Next.
+ARCHER: What's a gill?
+|scene|participants:odindrones,barry|deaths:0|tags:flashback|
+BARRY: Under ODIN guard, the sample is taken to the vault of First Savings Bank.
+|scene|participants:lawyer,malory,archer,barry|deaths:0|tags:|
+BARRY: I don't know why I told you where. It doesn't matter.
+ARCHER: What's a gill?
+|scene|participants:odindrones,barry,archer|deaths:0|tags:flashback|
+BARRY: As the bank and vault will be surrounded by ODIN agents. Merely an added precaution--
+ARCHER: Is that metric?
+BARRY: --as the vault is basically one big shit storm of anti-intrusion devices.
+|scene|participants:archer,malory,lawyer,barry|deaths:0|tags:|
+BARRY:Tomorrow, in full view of both parties, we will test the sample here along with a blood sample from the wee baby Seamus, thus ensuring complete accuracy of the paternity test. Any questions?
+ARCHER: Yeah, Barry. I'm still unclear on the liter thing. vis-à-vis a unit of volume.
+[ARCHER GROANS]
+|scene|participants:archer,malory,woodhouse|deaths:0|tags:beekman|
+ARCHER: I seriously don't feel good at all.
+MALORY: That's because those ODIN ghouls drained a fifth of your blood.
+ARCHER: Speaking of fifth--
+MALORY: A drink's the last thing you need.
+ARCHER: Well, you might want one too because pretty decent chance the baby's mine.
+MALORY: What?
+ARCHER: Ow!
+MALORY: What happened to 100-to-1?
+ARCHER: I may have massaged that number a little so--
+MALORY: How could I show my face around town if--? Trudy Beekman will eat me alive for this.
+ARCHER: Decent chance.
+MALORY: And I can just forget all about getting on the board of the Met.
+ARCHER: The museum or the opera?
+MALORY: Either. Sterling Malory Archer, you are going to break into that vault and replace your blood with someone else's.
+ARCHER: Someone else's blood. Yeah, great. I'll just have Igor bring a villager up to my castle. Uh, Igor.
+WOODHOUSE: Yes? Oh, evening, sir. Hello, mum.
+|scene|participants:malory,woodhouse,archer,lana,pam,trinette,bilbo,drones,cyril,cheryl,krieger,ray|deaths:0|tags:drinking|
+ARCHER: Woodhouse, what the hell is this?
+LANA: It's a baby shower.
+TRINETTE: What's it look like, you puke?
+ARCHER: Ugh. I think I could use a drink.
+MALORY: Sterling, pick a villager.
+ARCHER: Why did you let them in my house?
+WOODHOUSE: Well--
+|scene|participants:archer|deaths:0|tags:flashback|
+ARCHER: Because I told you to buy lemon curd, Woodhouse. Now what am I gonna spread on my toast? Your tears?
+|scene|participants:archer,woodhouse|deaths:0|tags:|
+WOODHOUSE: They just sort of barged in, sir.
+ARCHER: Uh-huh, uh-huh. And why are you barefoot?
+|scene|participants:pam,trinette,krieger,cheryl,bilbo,ray,drones,cyril|deaths:0|tags:drinking|
+TRINETTE: Oh, you guys are so sweet.
+PAM: I made that. It was gonna be a ham cozy, but then I was like, eh. So...
+TRINETTE: Well, he can use it as a blankie. Ew. What is this, homemade salad dressing?
+KRIEGER: Breast milk.
+TRINETTE: Ew! I actually, uh, have my own.
+KRIEGER: So you won't need this.
+CHERYL: Here, it's some plastic dry cleaner bags. Oh, and a book about SIDS.
+TRINETTE: What kind of shit gift is that?
+PAM: Yeah, right? I made mine.
+KRIEGER: (OS) Me too!
+|scene|participants:archer,woodhouse,krieger,malory,cyril|deaths:0|tags:|
+ARCHER: That's disgusting. If I wanted to look at your bare feet, Woodhouse, I'd sneak in while you're asleep.
+KRIEGER: (OS) Me too!
+MALORY: Well? Have you picked out a donor?
+ARCHER: I don't know if it's the blood loss or what, but this whole thing feels--
+CYRIL: Pretty stupid, Archer. Getting a hooker pregnant? Yikes.
+ARCHER: Cyril, you're--
+CYRIL: Oh, sorry, Ms. Archer. I'm sure the board at the Met will frown on this.
+MALORY: I'm sure I don't care for your tone.
+CYRIL: Well, I don't care to be judged by a couple of lousy hooker-baby havers.
+MALORY: You were saying?
+ARCHER: You get him drunk. I'll go to the drugstore and get supplies.
+|scene|participants:lana,trinette,ray,krieger,pam|deaths:0|tags:lanahands|
+LANA: You said I could hold him.
+TRINETTE: You've been holding him and you've been drinking and your hands are so damn big. I don't want you to crush him.
+LANA: But I'm gentle.
+PAM: Lana.
+RAY: Give her the rabbit, Lennie.
+LANA: But--
+TRINETTE: Okay, thank you. Whoa! Somebody's got a full diaper, huh?
+KRIEGER: (OS) Me too!
+TRINETTE: And after that falafel, I am right behind him.
+|scene|participants:lana,ray,bilbo,drones,pam|deaths:0|tags:lanahands|
+LANA: Did you see me?
+RAY: Yeah.
+LANA: Holding the baby?
+RAY: Looked like Tyson holding that dove.
+LANA: Hey, listen, bitch--
+RAY: Dah! Careful. Because in about three drinks you're gonna get all boohooey and ask me to pump a baby in you. You watch.
+LANA: What? No I'm not--
+PAM: No, you guys should totally do that. The mochaccino ones are the cutest. Guess he'd be half-gay, too, though. So can you say best dancer ever?
+|scene|participants:cyril,malory|deaths:0|tags:drinking|
+CYRIL: No. Thank you, but I don't care for any.
+MALORY: Cyril, it's a toast, don't be rude.
+CYRIL: No. Alcohol tends to exacerbate an underlying personality disorder.
+|scene|participants:lana,ray,pam|deaths:0|tags:drinking|
+LANA: Sexual addiction's not a real thing, asshole.
+|scene|participants:cyril,malory|deaths:0|tags:drinking|
+CYRIL: Well, just wait till the new DSM comes out. Then we'll see.
+|scene|participants:cyril,malory,krieger,lana,pam,ray,bilbo,drones|deaths:0|tags:drinking|
+LANA: We'll see you still being an asshole.
+|scene|participants:cheryl,krieger|deaths:0|tags:drinking|
+KRIEGER: So have you ever thought about having a baby?
+CHERYL: I don't know, sometimes I think, you know, I'd like to adopt a little baby. So I could abandon it at a mall.
+KRIEGER: That answers my follow-up question.
+|scene|participants:cyril,malory,trinette,seamus|deaths:0|tags:drinking|
+MALORY: Cyril, you're insulting me. Toast.
+CYRIL: I-- And what's there to toast about, anyway?
+TRINETTE: How about that upper decker I just left in the master bath?
+MALORY: [SHUDDERS]
+|scene|participants:ray,pam,lana,drones,bilbo|deaths:0|tags:|
+LANA: Come on, Ray.
+RAY: Sploosh. Called it three drinks ago. What'd I say?
+LANA: Come on, we both have amazing genes.
+RAY: Nobody-- I'm-- We're not-- I'm not arguing that we're both hot, but--
+PAM: Ray, you can do it. And I can watch. The door. Like a lookout. So nobody sees you doing the dirt.
+|scene|participants:trinette,seamus,malory,cyril,archer,woodhouse|deaths:0|tags:drinking|
+TRINETTE: Oh, and here's to child support. I'll see you around, Cyril. And I'll see you at the lawyer's office, granny. [BELCHES]
+[*** Trinette exits with Seamus ***]
+MALORY: Toast, damn you.
+CYRIL: No.
+MALORY: Toast.
+CYRIL: Jeezy petes, with you people.
+[*** exit Cyril, enter Archer ***]
+MALORY: Well, at least I'm not a sex addict.
+ARCHER: And cue the collective sigh of relief.
+MALORY: Oh, shut up.
+ARCHER: Hey, I just ran all the way to the drugstore a liter low on blood, so I am in no mood, Mother.
+MALORY: Oh, and I am? Cyril won't drink, so we'll have to find another way to-- [GASPS]
+[*** enter Woodhouse ***]
+MALORY: Woodhouse, dear.
+WOODHOUSE: Yes, mum.
+MALORY: I assume you're holding?
+WOODHOUSE: Holding? Why, just this tray of--
+MALORY: Don't bullshit me, you old dope fiend. After that scrape I got you out of?
+|scene|participants:woodhouse|deaths:0|tags:flashback,literary,drugs|
+ WOODHOUSE: Let's liven things up, Burroughs. Five grams of junk says I can shoot a piña colada off your wife's head.
+|scene|participants:woodhouse,malory,archer|deaths:0|tags:drinking|
+MALORY: A hundred thousand pesos in bribes, and my stomach's never been the same.
+WOODHOUSE: I shall fetch my gear.
+[*** exit Woodhouse ***]
+ARCHER: What the hell was that?
+MALORY: Who knows? I didn't have a sip of water the entire time I was down there.
+ARCHER: No.
+MALORY: Maybe it was an ice cube.
+ARCHER: Woodhouse. He's a heroin addict?
+MALORY: Oh, listen to you, Mr. Judgy.
+ARCHER: What?
+MALORY: Now, go lure Cyril into the bathroom so we can drain his stupid blood.
+|scene|participants:cyril,archer|deaths:0|tags:drinking|
+CYRIL: Cyril, you are not to blame, you are merely a victim of sexual addiction. Cyril, you are--
+ARCHER: Preaching to the choir, buddy.
+CYRIL: And what's that supposed to mean?
+ARCHER: It means I understand, Cyril. Because I, too, suffer from sexual addiction.
+CYRIL: Oh, you're just a dirty stomp-around.
+ARCHER: Yeah, that's what society calls it. But you know how it is to be surrounded--
+CYRIL: By women, yes.
+ARCHER: Uh-huh.
+CYRIL: Prancing around in their stirrup pants.
+ARCHER: And their crotchless panties.
+CYRIL: I didn't even know they had those.
+ARCHER: Pretty sexy, picture it.
+CYRIL: I have to take care of something.
+ARCHER: Medicine cabinet, Cyril. Top left. Big bottle of coconut suntan oil. Man, I sh-- I shouldn't be drinking this low on blood.
+|scene|participants:woodhouse,malory,archer|deaths:0|tags:drugs|
+[*** Malory, Archer and Woodhouse shooting up Cyril ***]
+CYRIL: What are you--? What are you doing to me?
+ARCHER: Shut up. What's with all this glass?
+MALORY: I brained him with the absinthe bottle.
+ARCHER: Why?
+MALORY: What was I to do? Say, "Take a load off while we pump you full of heroin?"
+ARCHER: But if he was already knocked out--
+WOODHOUSE: Dear God, that was my entire stash. Gonna be an itchy weekend.
+ARCHER: It serves you right, Smacky Brown. God, how are you even still alive? Holy shit, how am I still alive? Eight gills is way more than I thought.
+MALORY: That's why you're so woozy.
+ARCHER: Yeah, that, plus all those melon balls. I had about nine of them.
+MALORY: Why the hell were you drinking?
+ARCHER: Uh, hello? It's a party.
+MALORY: It's a baby shower for the bastard child you humped into a filthy whore.
+ARCHER: So I'm obviously not saying now, but one of these days you're gonna make the best grandma ever.
+|scene|participants:archer,odindrones|deaths:0|tags:|
+ARCHER: Oh, my God, these ODIN dicks. "Hey, where did you get your turtleneck? The turtleneck store?" [LAUGHS] Wow, I'm definitely missing that blood. Maybe if I drank some of Cyril's blood I'd-- Wait, what am I saying? I don't even know his blood type. But I do know a liter of melon balls can't replace a liter of blood, because I'm kind of drunk for this. Oh, shit. Nuts.
+|scene|participants:archer,lana|deaths:0|tags:|
+[SIGHS]
+ARCHER: Fan--
+MAN [ON RINGTONE]: * Mulatto butts *
+ARCHER: --tastic. What?
+LANA: (on phone) What are you doing?
+ARCHER: Oh, you know, just living the dream, Lana.
+|scene|participants:lana,archer|deaths:0|tags:drinking|
+LANA: Oh, yeah?
+ARCHER: (on phone) Yeah?
+LANA: Yeah.
+ARCHER: Yeah.
+LANA: I'm going through your stuff.
+ARCHER: Why are you in my house?
+LANA: There's still a few stragglers trying to keep the party going.
+|scene|participants:cyril,pam|deaths:0|tags:sex|
+CYRIL: [SNORING]
+PAM: Cyril. Hey, you awake? Because this is about to get weird.
+|scene|participants:woodhouse,ray|deaths:0|tags:|
+WOODHOUSE: Ants. All over my body.
+RAY: So shut up and help me find the nutmeg, and I'll make you some Malcolm X tea.
+|scene|participants:lana,archer|deaths:0|tags:|
+LANA: And you know what's fricking lame?
+ARCHER: Phased plasma laser countermeasures?
+LANA: (on phone) No, what's lame is that you told me a jillion times you never wanted kids.
+ARCHER: Uh...
+LANA: And I move on with my life, and then, bam, you drill one into a hooker.
+ARCHER: It wasn't exactly planned, Lana.
+LANA: Okay, shut up, but-- Did you ever think about you and me having a baby?
+ARCHER: I mean-- Well, maybe that one time, when we had that little scare.
+|scene|participants:lana,archer|deaths:0|tags:flashback,sex|
+LANA: Wha--? Is that a fricking candy bar?
+ARCHER: Yeah, but think you need the calories?
+|scene|participants:lana,archer,malory|deaths:0|tags:|
+LANA: You're such a prick. I mean, who the--
+MALORY: Who dragged out all this old crap?
+ARCHER: Why are you and Mother in my room, going through my things? Because I'll save you some time. My diary is by the Barbie playhouse and the key's in a locket on Mr. Teddy.
+|scene|participants:lana,malory|deaths:0|tags:|
+MALORY: My God, I haven't seen this junk in-- Look at that, his little baby shoes.
+LANA: Cannot picture him as a baby. You know? I just see an adult him, but tiny. Like a little Archer G.I. Joe.
+MALORY: Mm-hm.
+LANA: Want me to freshen that up?
+MALORY: Try not to drown it.
+LANA: [GROANS]
+MALORY: Aw. His little christening gown.
+LANA: (off screen) [GROANS] Pam, get off Cyril.
+|scene|participants:lana,pam,ray|deaths:0|tags:sex|
+PAM: I was trying to get him off, buttinsky.
+LANA: Out. Just get straight on out.
+PAM: Oh, come on. Cyril came on to me.
+LANA: Oh, shut up, he's totally passed out.
+RAY: Really. Hey, Cyril. [ZIPPER ZIPS] How's it hanging, buddy?
+|scene|participants:malory|deaths:0|tags:|
+MALORY: His first pair of lacrosse cleats. His first smoking jacket. And oh, my-- His first black turtleneck.
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: Can't believe Lana and Mother. No respect for people's privacy, no--
+|scene|participants:odindrones|deaths:0|tags:|
+MAN [ON RINGTONE]: * Black-ass mama * * White-ass daddy *
+ODIN DRONE: Shit's tight, huh? Yo, where you at, mama?
+|scene|participants:archer,malory,lana|deaths:0|tags:|
+ARCHER: And why are you calling me right now?
+MALORY: (on phone) I had to, before it's too late.
+ARCHER: What?
+MALORY: I don't want you to do it.
+ARCHER: What?
+MALORY: I know you didn't plan on this baby, but, Sterling, sometimes the unexpected things can turn out to be the most important things in the whole world.
+ARCHER: Wow, you sound shitfaced.
+MALORY: Oh, listen to you, Mr. Melon Balls. And yes, maybe I've had a few.
+ARCHER: (on phone) Really?
+MALORY: Enough to admit that even though I wasn't always Mother of the Year I can change. And you can change. And maybe together we could add up to one good parent for this baby.
+ARCHER: But I'm, like, right here.
+MALORY: And I'm right here. For both of you.
+ARCHER: Mother, I'm not sure I'm ready.
+MALORY: Sterling, no one's ever sure they're ready for a child. That's why it's so scary, and that's why it's so special.
+LANA: [SNIFFS]
+MALORY: So please, dear, do the right thing.
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: God, the one time in my life she acts like a human being, and it's now. Was it when I wanted a puppy? No.
+Was it when I wanted cornrows? No. But maybe she's right. I mean, the kid's cool, and I'm obviously awesome. So maybe I would be a good father. You know, at some point in the future.
+|scene|participants:barry,seamus,malory,trinette,lawyer,doctor|deaths:0|tags:|
+SEAMUS: [BABY CRYING]
+BARRY: You're okay, Taterhead. They only took a bit of blood.
+ARCHER: Quit being such a baby.
+MALORY: Sterling!
+TRINETTE: You quit being such a baby, you prick.
+ARCHER: Shut up. They took a liter from me.
+BARRY: And as the 24 hours of uninterrupted vault footage shows,
+TRINETTE: Prick
+BARRY: said liter was never, except for those nine frames of static there, out of sight of ODIN personnel.
+ARCHER: We get it. Let's move on, Barry.
+BARRY: And since you all witnessed the blood sample being taken from the wee baby Seamus--
+ARCHER: I hereby cede any and all rights to ever contest the results of this paternity test. So move on, Barry.
+BARRY: And so said test results conclude...
+LAWYER: Exciting, isn't it?
+ARCHER: Not really, because it's gonna say--
+BARRY: ...that Archer is in fact the father.
+ARCHER: What? Wait a minute. No, no. No, that's--
+TRINETTE: Probably the most expensive candy bar you ever ate, you dunce.
+ARCHER: No, no, no.
+LAWYER: Really super expensive. That's a schedule for child support payments. First of the month works best for us.
+ARCHER: Somebody could've broken in the vault. Come on, nine frames is--
+BARRY: A glitch. Because even if somebody did break into the vault, no one, no one, Archer, could ever prove it. And who would even want to? Not a handsome blond cripple like me.
+ARCHER: Wait a minute!
+BARRY: So kudos, buddy.
+TRINETTE: Let's go drink some kudos.
+LAWYER: Yeah, let's do that.
+ARCHER: But--
+BARRY: Clink, clink. Heh, heh, heh.
+|scene|participants:archer,malory|deaths:0|tags:|
+ARCHER: I don't understand how this happened.
+MALORY: Well, from what I can tell it had something to do with disgustingly kinky sex and a candy bar.
+ARCHER: A candy bar! Mother, I'm not the father, it was--
+|scene|participants:cyril,trinette|deaths:0|tags:flashback,sex|
+TRINETTE: Cyril, that thing is huge. I mean, how'd you even get this thing--? You son of a snack-eating-ass bitch.
+CYRIL: I'm sorry.
+TRINETTE: How can you cheat on Lana bareback?
+CYRIL: I'm a sex addict.
+TRINETTE: What the--? That's not even a real thing.
+CYRIL: And the guilt from sex makes me binge, then I feel fat, then I turn to sex to feel attractive again, then it's just this vicious cycle.
+TRINETTE: Shit-ass.
+|scene|participants:archer,malory,woodhouse|deaths:0|tags:|
+ARCHER: Don't you see? The wee baby Seamus is Cyril's. And Barry just wanted to frame me.
+MALORY: You don't fool me. You had the chance to make the switch, but you couldn't.
+ARCHER: No, yes, I could--
+MALORY: And I never thought I'd say this, but, Sterling, you did the right thing.
+ARCHER: No, I didn't. I-- I-- The thing I thought was right, but not what people think is right.
+MALORY: Maybe you're turning into people.
+ARCHER: But I don't wanna be people.
+MALORY: And I didn't wanna be a grandmother. But c'est la vie, dear.
+ARCHER: Yeah, and c'est la child support.
+MALORY: Well, just tighten your belt.
+ARCHER: My belt? You said you were here for us.
+MALORY: I am, dear. But with the economy how it is--
+ARCHER: What?
+MALORY: --my money isn't.
+ARCHER: Mother, you're in a limousine.
+MALORY: And if I wanted to sit around all day going nowhere, I'd be a teacher.
+[ENGINE STARTS]
+MALORY: Sorry, dear, I have a fitting. Ciao!
+ARCHER: Fitting. And that's why people in this family shouldn't have children. That and a genetic predisposition toward--
+WOODHOUSE: Ants! Wretched horrible ants!
+ARCHER: Ants are gonna be the least of your worries, smackhound. Running around barefoot like that. [IMITATING WOODHOUSE] "Hello, hookworms. Get in my feet." Or whatever. Some kind of worms will go in your feet.

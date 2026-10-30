@@ -1,0 +1,319 @@
+﻿|episode|6|602|Three to Tango|
+|scene|participants:slater,malory,cheryl,computer,archer,lana|deaths:0|tags:drinking|
+SLATER: I thought you were going to renovate this place.
+MALORY: As did I, but I was betrayed by a lying little country music wannabe.
+CHERYL: Was that directed at me?
+MALORY: Yes! Who else?
+CHERYL: I don't know who all lies to you! Also, there's a Mr. Slater to see you.
+SLATER: Just "Slater." It's a mononym, like--
+MALORY: Jesus Christ!
+SLATER: Nope.
+MALORY: He's in here, you ritzy ditz!
+COMPUTER: What are you doing, Dave?
+SLATER: So, uh, should I come back?
+MALORY: No. No, no, no, no, no. Of course not.
+SLATER: Yeah, that's what I was thinking.
+MALORY: I mean, whatever the task, we are up to it. We are professional and--
+COMPUTER: There's a Mr. Slater to see you.
+SLATER: I'm gonna go.
+ARCHER: Good. Why are you here in the first place? Mr. Slater--
+SLATER: Just "Slater"! And hang on. Excuse me, are you and I gonna have a problem?
+ARCHER: I mean, I'm sure we will at some point, but--
+MALORY: Sterling! Mr.--
+SLATER: Just "Slater".
+MALORY: Has--
+SLATER: Had--
+MALORY: an important assignment for us, which I'm sure we can kick right through the basket for a homerun.
+SLATER: I'm gonna go.
+LANA: Look, you're already here. Why not just tell us what the mission is?
+SLATER: I will, but only because I choose to. One of our-- well, I guess you could call him a freelancer--
+ARCHER: What do you call him?
+SLATER: I call him a freelancer. So shut up, please. Anyway, he needs an extraction from Buenos Aires.
+ARCHER: Ugh, it's just us. You can say, "Bwaynos Air-eez."
+LANA: And-- hush. And what operation is the CIA conducting in Argentina?
+SLATER: Oh, sorry. It's called "Operation Nunya."
+LANA: I--
+ARCHER: As in "beeswax," Lana.
+LANA: Yes, I--
+ARCHER: Dr. Kane, report to the burn unit.
+LANA: To help a patient who's been burned?
+ARCHER: No.
+SLATER: Anyway-- his cover's been blown. Argentine intelligence is onto him, and he needs an extraction A.S.A.G.D.M.F.P.
+LANA: So, why us? Why not keep it in-house at CIA?
+SLATER: Because, turns out, you actually know this operator. Uh, do you mind?
+MALORY: Hmm? Oh.
+EVERYBODY: Conway Stern?
+SLATER: Yes, Conway Stern. Questions?
+|scene|participants:slater,malory,archer,lana,computer|deaths:0|tags:drinking|
+ARCHER: Yeah, can I start? You guys mind if I start? I'll start. Are you out of your shitting mind?
+MALORY: Sterling!
+LANA: Excuse me?
+ARCHER: He literally stabbed me in the back!
+SLATER: Because you jeopardized his mission.
+LANA: What mission? To sell classified military technology to the Chinese?
+SLATER: Phony technology we wanted China to have. They've been chasing their tails on the whisper drive for years.
+LANA: Oh.
+ARCHER: "Oh"?
+MALORY: I knew it. In my heart of hearts, I knew he was one of the good guys.
+ARCHER: Literally! The back! Stabbed it!
+SLATER: Well, then you people ripped off his hands, so...
+ARCHER: After he literally stabbed me! In the back!
+MALORY: Oh, give it a rest, Sterling. I'm sure you did something to deserve it.
+ARCHER: What--?
+MALORY: But now you have a chance to right that wrong, which is a rare thing.
+SLATER: About as rare as getting called up to the majors from single-a ball--
+LANA: Hey!
+MALORY: Lana. I assume that was a sports analogy meant to be cutting, but we will take the mission, won't we, Sterling?
+ARCHER: Huh? Yeah. Oh, sorry. It's just I'm worried, my entire life, I've been misusing the word "literally"!
+COMPUTER: And certainly overusing.
+|scene|participants:lana,archer|deaths:0|tags:|
+ARCHER: You're not worried?
+LANA: Why should I worry? Because I'm the one that ripped of Conway's hand?
+ARCHER: No. About--
+LANA: Or that he'll double-cross us again?
+ARCHER: Which, a blowjob says he does. And mother and Slater and the CIA are idiots for trusting him, but I'm talking about us flying on the same plane, Lana. What if it crashed?
+LANA: Then I wouldn't have had to watch you pound 20 drinks and then try to talk the stewardess into a handjob.
+ARCHER: Where are you getting 20 drinks?
+LANA: Uh, from ten doubles.
+ARCHER: "A", those were mini-bottles, and two, I'm talking about A.J., Lana. Who's going to take care of her if something happens to both of us?
+|scene|participants:malory,cyril,abbiejean|deaths:0|tags:drinking|
+MALORY: Well, me. Obviously.
+CYRIL: You think-- Okay. Wow. You think, in the event of their deaths, that you would be A.J.'s legal guardian?
+MALORY: Who else would they possibly choose?
+RAY: You've met yourself, right? If it's anybody around here, it's me.
+CYRIL: Of course. The one who smokes next to the baby.
+RAY: Dukes!
+CYRIL: Ray! You know--
+MALORY: All right, Virginia Slim. You're-- Nap time! I have a meeting. Good-bye. |scene|participants:lana,archer|deaths:0|tags:|
+LANA: Look, don't worry about A.J., okay?
+ARCHER: Well, I think one of us should.
+LANA: No, I--
+ARCHER: And I vote for mother and Woodhouse.
+LANA: To raise my child?
+ARCHER: Our child, Lana. And yes. And--
+LANA: Can we talk about this later?
+ARCHER: Oh, we're definitely gonna talk about it later, I can promise you that.
+LANA: And-- Can you promise that even though Conway-- Literally-- --stabbed you in the back, that you won't do anything revenge-y and stupid when he opens the door?
+ARCHER: Hmm. I want to say... No! Revenge rampage!
+|scene|participants:lana,archer,conway|deaths:0|tags:|
+ARCHER: A-ya! A-ya!
+CONWAY: You mother--
+ARCHER: How do you still have two hands? You cyborg son of a bi--
+LANA: You're out...of sugar.
+ARCHER: Oh, good. You're making tea. 'Cause I could use some with honey and lemon. And bourbon. But actually, without the honey and lemon and the tea.
+LANA: So just bourbon.
+ARCHER: Yeah, I doubt if-- Oh, shut up. Don't ruin it. I had something for--
+CONWAY: Puke Skywalker? Mm.
+ARCHER: God damn it! Anyway, I doubt the robot has any bourbon, and I'm not really in the mood for a WD-40 and coke. Unless that is, literally, the only thing to drink.
+|scene|participants:lana,archer,conway|deaths:0|tags:|
+CONWAY: I think I might be concussed. Hell hath no fury, huh?
+LANA: Meaning?
+CONWAY: As a woman scorned. Lana, remember? I kinda scorned you last time we met?
+LANA: Yeah, you are definitely concussed.
+ARCHER: Not to mention a decepticon! Where the hell did you get a bionic hand?
+CONWAY: Uh...
+|scene|participants:krieger,conway|deaths:0|tags:flashback|
+KRIEGER: So... what's new? How you been?
+|scene|participants:lana,archer,conway|deaths:0|tags:drinking|
+CONWAY: Sharper image? Uh-huh. Sounds more like Krieger.
+ARCHER: Jesus Christ! Will he not rest until we've all been enslaved by Skynet?
+LANA: Hey, we are leaving in five, so--
+ARCHER: Right after I enjoy this mate and caña smoothie with a WD-40 float. Although "enjoy" is maybe a bit strong.
+LANA: Ugh. Conway, grab whatever you need, presumably some fresh nine-volts, and let's get this extraction going.
+CONWAY: I can't. I don't have the intel yet.
+LANA: What intel? Slater said, "extraction."
+ARCHER: When he asked us to come rescue you.
+CONWAY: From what? Your mom's antique vagina?
+ARCHER: You son of a-- Hey! Enough, you two!
+CONWAY: Tell him that!
+ARCHER: Tell him that!
+LANA: Pretty sure I just did. Now, what and where is this "intel"?
+CONWAY: It's a computer file with the real identity of every single CIA agent operating in central and South America. Argentina's using it for leverage, threatening to trade it to the Soviets.
+LANA: Wait. Isn't Argentina our ally?
+CONWAY: You'd think, right? After we threw them that lovely coup? So, the file is on the mainframe computer of the Argentine secret intelligence service. Okay.
+ARCHER: Here's what we do--
+LANA: How about maybe let him finish?
+ARCHER: Hmm. Okay. But then we go with my plan.
+CONWAY: The mainframe is a standalone in a secure vault. Hardened, keycard, and retinal scan entry. On the top floor of the intelligence building itself, which is heavily guarded at all times, by Argentine special ops on standing orders to shoot to kill any and all unauthorized personnel.
+LANA: You mentioned something about a plan?
+ARCHER: I mean, he obviously thinks he has a plan, so whatever. Let's hear it.
+|scene|participants:cheryl,malory,pam|deaths:0|tags:|
+MALORY: Where is it?
+CHERYL: Where's what? What are you-- I flushed it!
+MALORY: I will kill you! Where you stand!
+PAM: Hey! Is it too much to ask, during the goddamn work day, for two separate sessions of 80 uninterrupted minutes each of quality dump time?
+CHERYL: I mean, I'm not a labor attorney.
+MALORY: Yes, it is entirely too much to ask!
+PAM: I thought so, yeah. So I'll pass that on to who or whomever asked.
+MALORY: And if you harmed one single hair on her little brown head, I will--
+CHERYL: Whose head? Wait, do what?
+MALORY: Baby A.J.! She's missing!
+CHERYL: Oh, my God!
+PAM: Oh, thank God!
+MALORY: And since you are the only one around here who hates babies--
+CHERYL: Just baby people.
+PAM: Whoa, whoa, whoa! Come on! I'm sure-- wait. Did you murder the baby?
+CHERYL: Uh-uh.
+PAM: No, but like "swearsie-realsies"?
+CHERYL: Swearsie-realsies.
+PAM: And that's pretty sacred to us, so... we'll go help you look for baby A.J. In, like, five-teen, 40 minutes.
+|scene|participants:lana,archer,conway|deaths:0|tags:|
+LANA: And so Conway's plan doesn't strike you as unnecessarily complicated?
+ARCHER: No, Lana, it doesn't.
+LANA: And it doesn't strike you as "Brazilian minstrel show meets Trading Places"?
+ARCHER: No, Lana, it doesn't.
+LANA: And that's not just because you get to wear that ri-dork-ulous facerug.
+ARCHER: No, Lana, it-- look. If I have to pull this car over, we're all gonna be murdered, so...
+CONWAY: Just get us in the damn garage, man.
+ARCHER: Hey! You're not the boss of me!
+LANA: Archer, just--
+ARCHER: Or you! I don't care if you are the president and first lady of Brazil on a pan-American goodwill tour of intelligence headquarters-es. Coronel Lando Calrissiano, de Las Fuerzas Especiales, doesn't work for you! Although he has nailed his backstory.
+LANA: Lando Cal--?
+ARCHER: Por qué no te callas?
+|scene|participants:pam,malory|deaths:0|tags:drinking|
+MALORY: Will you shut up? I need to think!
+PAM: Don't yell at me, I didn't lose her. Now just try to retrace your steps.
+MALORY: Well, I wasn't in the sofa cushions.
+CHERYL: Agh! Well, you could have said that!
+MALORY: I did.
+CHERYL: I thought you were being sarcastic!
+PAM: It is kinda hard to tell with you.
+|scene|participants:lana,archer,conway,argentinian soldier,argentinian officer|deaths:0|tags:|
+ARCHER: Okay, here we go. Conway, shut up and try to look semi-presidential. And Lana, try to look-- actually, yeah. Matronly. You nailed it.
+LANA: You know...
+ARGENTINIAN SOLDIER: So anyways-- Ay! Coronel!
+ARCHER: Um, okay.
+ARGENTINIAN SOLDIER: Su carat, Coronel, por favor.
+ARCHER: Uh, bueno. Conmigo estan El Presidente de Brasil y su... Esposa Grande.
+ARGENTINIAN SOLDIER: Por supuesto, Coronel Cal... Espere. Lando? Calrissiano?!
+ARCHER: Okay, so here's the thing with that. Boring conversation anyway.
+LANA: God damn it, Archer!
+ARCHER: That's Coronel Calrissiano to you!
+CONWAY: Archer!
+LANA: Don't drive angry! What the hell are you doing?
+ARCHER: I'm archer-izing this plan!
+LANA: What? No, no! Uh-uh. You cannot make yourself a verb! I will not allow it.
+ARCHER: I'm a verb now, Lana. Deal with it! And then, also, cover me, please. Idiotas! Um... Hijos de puta! Conmigo estan El Presidente de Brasil y su esposa! Y mira! Mira aquí! Sucia! Sucia! Todos! Todos las armas on the ground!
+ARGENTINIAN OFFICER: Uh, perdón?
+ARCHER: On the ground, Pyle! What are you-- Oh. Uh, see how I switched to English? Uh, I was testing him. Good work, Pyle.
+ARGENTINIAN OFFICER: Su carta, Coronel, por favor.
+ARCHER: How about a big hand for Pyle, gang? Lana!
+LANA: Archer!
+ARCHER: Lana! Lana! What are you, jealous I'm a verb?
+ARGENTINIAN OFFICER: Su carta, Coronel! Por favor.
+ARCHER: Jesus Christ, Pyle! I heard you.
+LANA: Archer!
+CONWAY: What are you doing?
+LANA: Shooting out the glass.
+CONWAY: No, no, no! Don't! It's-- Bulletproof.
+LANA: Archer!
+CONWAY: So, uh, how come you and I didn't hook up last time we worked together?
+LANA: Well, "A", you were too busy banging Cheryl or Carol or Cristal--
+CONWAY: Oh, right. Yeah, yeah, yeah. The crazy Jew-Santa chick.
+LANA: And "B" through "Z", because you're a large-diameter dickhole.
+CONWAY: Mm-hmm. Well, you're looking good, girl. Lot curvier than I remember.
+LANA: I had a baby.
+CONWAY: Oh. Sorry. Never mind.
+LANA: Never mind what?
+CONWAY: Like, name it. You know...
+ARCHER: Oh.
+LANA: So, you done archer-izing?
+|scene|participants:lana,archer,conway,argentinian soldier,argentinian officer|deaths:0|tags:|
+LANA: Because, you jackass, to recap, you locked us in the stupid limo!
+ARCHER: Well, I still don't see why that means I'm the one who has to carry Pyle.
+CONWAY: Well, then slice out his retinas, okay?
+ARCHER: I can't. It would kill Lou-Ann. Oh, and speaking of-- God damn it! ARGENTINIAN SOLDIER: Ay!
+LANA: Speaking of what?
+ARCHER: If something happens to both of us, who's gonna take care of the baby?
+CONWAY: Her baby's yours?
+LANA: Can we please put a pin in this?
+ARCHER: No, Lana, we can't! I want to know why you don't want it to be mother.
+|scene|participants:malory,cheryl,cyril,pam,ray|deaths:0|tags:drinking|
+CYRIL: Because, how did you lose a baby?
+MALORY: She was right there in the pram. I made a drink, my furrier called. Spoiler alert, he's robbing me blind. I called immigration, tried to get his father deported. I made another drink, but I was out of ice, so I--
+EVERYBODY: What?
+CYRIL: What is it?
+MALORY: Krieger! He was skulking around out there while I went out to get ice. Come on, to that Nazi freak's lab!
+RAY: Hey, whoa! Are guns really necessary? 'Cause I'm seriously asking.
+|scene|participants:lana,archer,conway,argentinian officer|deaths:0|tags:|
+LANA: Seriously?
+ARCHER: Yes, Lana, seriously. Why isn't my mother good enough to raise A.J.?
+|scene|participants:krieger,abbiejean,malory,cheryl,cyril,pam,ray,teddly|deaths:0|tags:|
+KRIEGER: No! Don't shoot! There's a baby!
+MALORY: And why? Why do you have the baby?
+PAM: Oh, my God!
+KRIEGER: Okay. So, here's the thing with that.
+CYRIL: That is...a nightmare.
+PAM: Seriously?
+RAY: Goddamn, dude.
+MALORY: You were going to make her a robot?
+KRIEGER: I wish. I mean, no! No. I was doing market research for the TB-800 A.K.A. Cyberneddly Teddly.
+MALORY: Oh, please! That's a baby skeleton.
+KRIEGER: No, but-- once I figure out how to grow actual bear tissue to cover it--
+RAY: Goddamn, dude!
+CHERYL: Dude!
+CYRIL: Damn!
+PAM: How creepy!
+KRIEGER: No, wait! Teddly's here...somewhere. Or was. I swear! He-- Teddly? Teddly?!
+MALORY: Cyril, secure the child. And the rest of you, I can't see any benefit in telling Lana what happened here today. Understood?
+RAY: Yeah.
+CHERYL: Aw!
+PAM: I'm not saying nothing.
+CYRIL: I'm on board for that.
+MALORY: And Krieger... I swear to God, if I catch you near this child again
+KRIEGER: But--
+MALORY: And the implied threat here is that I will shoot you in the genitals, and then sit here sipping amontillado sherry while you bleed to death.
+KRIEGER: Mee-beep.
+TEDDLY: Ta-da! Oh.
+KRIEGER: Yeah, thanks, Mr. Bear-jangles.
+|scene|participants:lana,archer,conway,argentinian officer|deaths:0|tags:|
+LANA: Wait, you already knew the code?
+ARCHER: Of course he did. He's a cyborg. It was probably Gaius Baltar's--
+LANA: Archer? You double-crossing son of a bitch!
+ARCHER: Called it.
+CONWAY: Well, yeah. Come on. We all saw this coming. Now, drop them.
+ARCHER: I was gonna say "zip code," guys--
+CONWAY: Okay, idiots, thanks for helping me get the disk. The Soviets are going to pay out the zadnitsa for this thing.
+LANA: But you could have gotten the disk yourself. Why drag us into it?
+CONWAY: Well, I knew dick van head over there could pass for a Latino to get us in.
+ARCHER: Nailed it.
+CONWAY: But mostly for revenge. Remember how you ripped off my hand, woman?!
+LANA: Yeah, vaguely, but if it's revenge you want, why don't you shoot me?
+CONWAY: I was going to, but come on. I'm not a monster. You just had a kid.
+ARCHER: Me too, though. And what are you doing in the window?
+CONWAY: Base! Jumping. This is a parachute.
+LANA: Well, Conway... you win this round.
+ARCHER: Who are you? Wait. Hang on.
+CONWAY: Horatio Kane.
+ARCHER: God damn it.
+CONWAY: But "Kane" obviously spelled-- I got it. Oh, and hey, give me a call if things don't work out with the kid.
+LANA: Wh--
+CONWAY: And you lose the baby weight. Are...you...kidding me?
+LANA: Yeah! Lose that weight, Conway Stern! Or whatever your real name is!
+CONWAY: I lied! That is my real name!
+|scene|participants:lana,archer,slater|deaths:0|tags:|
+ARCHER: Ma, they got ol' Lando this time. I'm done for.
+LANA: Archer, shut up. You're gonna be okay.
+ARCHER: You really think so?
+LANA: I mean, maybe. Although that can't bode well.
+SLATER: You get the disk?
+LANA: Slater?
+ARCHER: Did you get the disk?
+ARCHER: Yes, idiot. And, also, several bullets, so--
+SLATER: Then come on, get in the back. I got a plane waiting at an airstrip.
+ARCHER: So, hey, about this blowjob--
+LANA: Shut up! Conway was a traitor. He was gonna sell the disk to the Soviets.
+SLATER: Yeah, yeah. We kinda suspected that.
+LANA: "Kinda"? So you sent us into a-- Wait. So you followed us down here?
+SLATER: Come on. We're not gonna put a couple of untested rookies in the starting line-up of game seven... ...of the world--
+ARCHER: Seriously, okay, as I was saying--
+LANA: God damn it, Archer! I am not giving you a blowjob!
+ARCHER: Not that. A.J. If something happens to us.
+LANA: I really don't think that this is the time to talk about that.
+ARCHER: When then? Why don't you want to talk about it, Lana?
+LANA: Because I'm afraid it'll hurt your feelings. Because, if anything happens to me, and-- just me, Archer-- then A.J. would live with my parents.
+ARCHER: Oh. Yeah. Uh, I-I-I guess that makes sense. They're probably pretty old, though, right?
+LANA: And if anything happened to them, then A.J. would live with my sister.
+ARCHER: You have a sister?
+LANA: Yes, Archer, I have a sister.
+ARCHER: She younger?

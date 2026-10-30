@@ -2,6 +2,7 @@ import { readFile, writeFile, mkdir, readdir, copyFile } from 'node:fs/promises'
 import { createRequire } from 'node:module';
 import MarkdownIt from 'markdown-it';
 import { buildWriting } from './build-writing.mjs';
+import { buildProjects } from './build-projects.mjs';
 const require = createRequire(import.meta.url);
 const md = new MarkdownIt({ html: true, linkify: true });
 const esc = value => String(value).replace(/[&<>"']/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[c]));
@@ -64,6 +65,8 @@ await writeFile('dist/404.html',shell('Page not found — Elijah Meeks','<div cl
 await writeFile('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.filter(p=>p!=='404.html').map(p=>`<url><loc>https://elijahmeeks.com/${esc(p)}</loc></url>`).join('')}</urlset>`);
 await writeFile('dist/robots.txt','User-agent: *\nAllow: /\nSitemap: https://elijahmeeks.com/sitemap.xml\n');
 await buildWriting(shell);
+await buildProjects();
+urls.push('archer/', 'wars/');
 await writeFile('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.filter(p=>p!=='404.html').map(p=>`<url><loc>https://elijahmeeks.com/${esc(p)}</loc></url>`).join('')}</urlset>`);
 await writeFile('dist/.nojekyll','');
 console.log(`Built homepage, archive, and ${Object.values(lists).flat().length} historical articles.`);

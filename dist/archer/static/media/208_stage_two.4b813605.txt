@@ -1,0 +1,492 @@
+|episode|2|208|Stage Two|
+|scene|participants:cheryl,malory|deaths:0|tags:|
+[THUNDER RUMBLING]
+CHERYL: Ugh, a rainy day and a Monday. Talk about a downer double whammy, huh? [CHUCKLING] Do anything fun this weekend? Because I sure did. Friday night was Cornhole League, then on Saturday--
+MALORY: If I cared about what you do on the weekend, I'd stick a shotgun in my mouth and pull the trigger with my toes.
+[ELEVATOR BELL DINGS]
+CHERYL: (whispers) Saturday, I watched a building burn down.
+|scene|participants:cyril,malory|deaths:0|tags:|
+CYRIL: Morning, Ms. Archer. It took all weekend, but I finally got that payroll glitch sorted out.
+MALORY: I said by 5 on Friday.
+CYRIL: Yeah, sorry, the computer was down, so over the weekend, I had to punch all these cards by hand, and then-- Carefully put them in order.
+|scene|participants:malory,pam,lana|deaths:0|tags:|
+PAM: Careful, it's pretty delicate.
+LANA: Wow, and this is all marzipan?
+PAM: Except for the barn. That's just graham crackers and icing.
+LANA: Well, your dad is gonna love it.
+PAM: I hope so. I mean, it's probably not the best birthday present for a diabetic, but--
+MALORY: Pam, those quarterly reports better be on my desk when I walk in there.
+PAM: Are you walking in there right now?
+MALORY: What did I tell you on Friday?
+PAM: I know, I was gonna come in this weekend, but I had to finish this so I could get it in the mail today.
+MALORY: Wrong answer.
+PAM: [GASPS]
+LANA: What the shit?
+PAM: [SOBBING]
+LANA: Hey, hey, now, come on, honey, it's--
+PAM: It's just like when the farm flooded in real life. Only tiny and sweet.
+|scene|participants:lana,malory,pam|deaths:0|tags:|
+MALORY: Idiots. Surrounded by nothing but--
+LANA: What the hell is your problem?
+MALORY: Finding your replacement, missy, if you don't watch your tone.
+LANA: My tone? You watch your tone. Don't speak to me like I'm some--
+MALORY: Some what? Balloon-breasted bimbo?
+LANA: Hey.
+MALORY: Always prancing around in those clingy little whatever the hell they are, mini-sweater dresses, and your double-D push-up bras so that all anyone can see for miles around are your gigantic breasts.
+MALORY: [SOBBING]
+LANA: So...you wanna tell me what's going on?
+MALORY: No. I want you to get out.
+LANA: Malory.
+MALORY: I'm sorry, dear.
+LANA: Hey.
+MALORY: I had a mammogram on Friday and they found something.
+LANA: Oh, my God.
+MALORY: Yeah.
+[*** Reveal Pam in doorway]
+PAM: So... Is that why you're being such a bitch?
+|scene|participants:lana,malory,pam,cheryl,cyril,krieger|deaths:0|tags:drinking|
+MALORY: You both have to swear you won't breathe a word of this to anyone.
+LANA: Totally, yes.
+MALORY: Especially Sterling. If he found out I might have breast cancer, he'd be devastated, so this information cannot leave this-- Pam, what the hell?
+PAM: What? Nothing.
+MALORY: If you're texting about my--
+PAM: I'm not, I swear. This is about--
+[*** Cheryl runs in ***]
+CHERYL: Breast cancer? Oh, you poor thing.
+MALORY: Pam!
+PAM: What?
+MALORY: What is wrong with you?
+PAM: I can't help it, it's like a disease.
+MALORY: Pam!
+PAM: Do you not know what "disease" means? Oh, sorry, I forgot you might have--
+[*** Cyril and Krieger walk in ***]
+CYRIL: Breast cancer?
+MALORY: Oh, for the love-- And would you get off? Breath?
+CYRIL: Malory, if there's anything we can do, you just say the word.
+KRIEGER: My entire laboratory is at your disposal.
+MALORY: Thanks. I'll let you know if I need a hybrid pigboy.
+KRIEGER: A what? That-- What are you--? I don't have one of those.
+|scene|participants:pigboy,krieger|deaths:0|tags:flashback|
+[PIG SQUEALING AND KRIEGER GRUNTING]
+KRIEGER: That'll do, Pigley. That'll do.
+[GUNSHOT]
+|scene|participants:krieger,malory,lana,archer,cheryl,cyril,pam|deaths:0|tags:|
+KRIEGER: Anymore? What are we talking about?
+MALORY: Nothing, because no one is to speak of this ever, and especially not to--
+[*** Archer enters ***]
+MALORY: Sterling. Good morning, dear.
+ARCHER: Good morning. What's the big non-me-telling secret?
+CHERYL: What?
+LANA: Is there one?
+CYRIL: At a spy agency?
+MALORY: There's no secret, dear. We were just--
+ARCHER: Mother, pardon me, sorry, one second. Pam...
+MALORY; No, you don't. Pam!
+ARCHER: Pam.
+MALORY: Pam.
+ARCHER: Pam.
+MALORY: Pam.
+ARCHER: Pam.
+MALORY: Pam.
+PAM: I'm okay, I'm okay. I'm good. Ahh, I'm good. [BREATHING DEEPLY]
+ARCHER: Pam.
+PAM: Your mom's got breast cancer.
+ARCHER: She what?
+[*** Pam runs out of Malory's office ***]
+CHERYL: Pam.
+CYRIL: Nice work, Pam.
+LANA: Jesus, Pam.
+MALORY: Damn her piggy little eyes.
+KRIEGER: Aww, Pigley.
+ARCHER: Mother? Is this--? Do you--?
+[GROANS AND CRASHES]
+MALORY: Good God! You'd think he was half fainting goat.
+KRIEGER: Aww, Goatley.
+|scene|participants:doctor,archer,malory|deaths:0|tags:drinking|
+DOCTOR: Well, actually, men can develop breast cancer, although it's extremely rare.
+ARCHER: Yeah, and also hereditary. So thank you, Mother, for that.
+DOCTOR: There's a good chance your mother's first mammogram was a false-positive. I'll know for sure after I get the results of her diagnostic exam, but I've got a good feeling about her.
+MALORY: And the feeling is mutual, doctor.
+ARCHER: Hey, can you not? Right now?
+DOCTOR: There are several other risk factors for male breast cancer.
+ARCHER: Such as...
+DOCTOR: Any history of alcoholism?
+ARCHER: You know, I mean, I drink socially, but--
+MALORY: Ha! I didn't have breakfast.
+DOCTOR: Any unusual exposure to radiation?
+ARCHER: Uh...
+|scene|participants:archer,ray|deaths:0|tags:flashback|
+ARCHER: Wait, seriously don't open it?
+GILLETTE: (over radio) Yes.
+ARCHER: Oh, I thought you were being sarcastic.
+[MUTTERING IN RUSSIAN]
+|scene|participants:archer,woman|deaths:0|tags:flashback|
+ARCHER: Looking for this? Or perhaps the lead container I probably should've left it in?
+|scene|participants:archer,nurse|deaths:0|tags:flashback,sex|
+ARCHER: So wait. Wait, wait, wait, there's good cholesterol?
+|scene|participants:archer,doctor,nurse,malory|deaths:0|tags:drinking|
+ARCHER: Mm, nope.
+DOCTOR: Well, then a little dose won't hurt.
+[DOOR OPENS]
+NURSE: Doctor, I have Ms. Archer's results.
+MALORY: [GASP]
+NURSE: [GASP] Well, if it isn't Chet Manley.
+ARCHER: Yeah. And is-- I wanna say Peggy?
+NURSE: Rita. And you said you'd call me.
+ARCHER: Really? To both statements?
+MALORY: Hello? If it's not too much trouble, I'd like to know if I have cancer.
+DOCTOR: The first test was a false-positive. You're totally fine.
+MALORY: Oh, thank God.
+ARCHER: Yeah, good. Uh, hey, you wanna grab a drink later?
+[DOOR OPENS AND CLOSES]
+ARCHER: Peggy?
+MALORY: I can't believe it, it's such a relief. I don't have breast cancer.
+ARCHER: So guess we can skip all this, huh?
+DOCTOR: Well, we're here, machine's on, may as well take a look. So if you could?
+ARCHER: Oh, sorry.
+DOCTOR: Wow.
+ARCHER: "Wow" what? What is "wow"? What is that?
+DOCTOR: That's, um. Yup. That's breast cancer.
+ARCHER: What?
+MALORY: What?
+DOCTOR: Yeah. So listen, uh... Wanna grab a drink later?
+|scene|participants:archer,lana,pam,ray,cyril,cheryl,brett|deaths:0|tags:|
+ARCHER: Yup. Stage II breast cancer.
+CHERYL: What?
+LANA: Archer, no.
+ARCHER: Yeah, I mean, it's not as bad as stage III or IV, but it's not, you know, obviously, not as good as no cancer.
+LANA: God, I should definitely get checked. I am so bad about doing the self-exam.
+PAM: Hey, how about we check each other?
+LANA: So, what's next? Do you--
+PAM: Boop.
+LANA: --do chemo or--?
+ARCHER: A lumpectomy. I go in for surgery next week, and they'll try to cut it all out.
+RAY: Oh!
+CYRIL: Oh, God.
+ARCHER: If they can't get it all or if it spreads to my lymph nodes, then, they'll do chemo, but I'm trying to stay positive because I can beat this.
+PAM: That's a good attitude.
+CYRIL: Totally.
+LANA: Wow, you seem kind of different.
+ARCHER: Yeah, did I mention I have cancer?
+LANA: Not that, dick. Your whole outlook. All this positivity and whatever.
+ARCHER: Well, I have to be positive, Lana. I gotta stay strong. So here, show some support.
+[ALL CHATTERING]
+[*** Brett crutches over ***]
+ARCHER: Here, Brett, take a ribbon, buddy.
+BRETT: What is this?
+ARCHER: It's a pink ribbon. I have breast cancer.
+BRETT: Ha, ha! Seriously? Breast cancer?
+ARCHER: Yes.
+BRETT: Sure it's not lady vagina cancer?
+ARCHER: Heh, heh. Uh... Huh? Excuse me.
+BRETT: Oh!
+ARCHER: I'm trying to stay positive. Both mentally and spiritually, Brett.
+CYRIL: He certainly doesn't have cancer in his fist.
+RAY: He is beating his ass.
+ARCHER: Now, if you will all excuse me again, I'm going to spend some quality time with those who are dear to me. Brett.
+BRETT: [SPEAKING INDISTINCTLY]
+[*** Archer exits ***]
+CHERYL: Yeah, hey, it's got a safety pin.
+|scene|participants:trinette,archer,seamus|deaths:0|tags:|
+TRINETTE: What?
+ARCHER: Breast cancer. And, yes, seriously. And I don't know how it's gonna turn out, so I wanted to, you know, spend some time with the wee baby Seamus.
+TRINETTE: He's not even your real kid.
+ARCHER: So?
+TRINETTE: So it's weird.
+ARCHER: So is me paying you child support, Trinette, but you keep cashing the checks. Hey. I'm sorry. Come on, Trinette, Seamus may not be my son, but he's probably as close as I'm ever gonna get.
+TRINETTE: [SIGHS] Where are you taking him?
+ARCHER: I don't know. What's he into?
+|scene|participants:cheryl,malory,pam|deaths:0|tags:classic|
+MALORY: Oh, that is just classic him. I mean, my God, I was the one who--
+CHERYL: Was getting all the attention?
+MALORY: Who thought I had breast cancer. Shut up. And now he has it, so it's all Sterling this and ribbons that.
+PAM: Well, he does actually have cancer.
+MALORY: Well, he didn't get it from me.
+CHERYL: It's contagious?
+|scene|participants:trinette,archer,seamus|deaths:0|tags:|
+TRINETTE: What the shit?
+ARCHER: I know. I'm not normally a tattoo guy, but--
+TRINETTE: Not yours, shitbrain. His.
+SEAMUS: [BABBLES]
+ARCHER: Yeah, it's like we've got each other's backs. Heh-heh-heh. Right?
+TRINETTE: You can't tattoo a freaking baby.
+ARCHER: That's what the tattoo guy said. Had to slip him an extra 100 bucks.
+TRINETTE: How about I slip somebody 100 bucks to throw acid in your face?
+ARCHER: Costs more than that, I bet.
+TRINETTE: You--
+ARCHER: To buy acid, Trinette.
+TRINETTE: Come on, Seamus. I hope your stupid cancer kills you.
+ARCHER: Oh, yeah? Well, I hope-- [DOOR SLAMS] I hope it doesn't.
+|scene|participants:archer,woodhouse|deaths:0|tags:|
+ARCHER: And to that end, Woodhouse, macrobiotic food. Find out what that is and start cooking it. Oh, and smoothies and, uh... Why are you dressed like a tout?
+WOODHOUSE: My vacation starts today, sir.
+ARCHER: What? I'm riddled with cancer, Woodhouse, and you wanna take a vacation?
+WOODHOUSE: No. But I asked for the time off a year ago, and Dicky and I have been planning this trip ever since, and--
+ARCHER: Who's Dicky?
+WOODHOUSE: My brother.
+ARCHER: What?
+WOODHOUSE: He's younger.
+ARCHER: Obviously.
+WOODHOUSE: And we've always dreamed of someday going to Las Vegas together. So we saved up and got a lovely package, and it's prepaid, you see, so--
+ARCHER: Prepaid, huh?
+WOODHOUSE: Yes, sir.
+ARCHER: Did I mention I have cancer?
+WOODHOUSE: [GROANS]
+|scene|participants:dicky,archer|deaths:1|tags:sex,drinking|
+|scene|participants:woodhouse,archer|deaths:0|tags:|
+ARCHER: God, what a trip. Barely got back in time for surgery tomorrow. You should've been there.
+WOODHOUSE: Yes. God knows when I'll be able to see Dicky again. Or where.
+ARCHER: Yeah, Mexico's pretty big. And so is your heart, Woodhouse.
+WOODHOUSE: Sir?
+ARCHER: That's probably the nicest thing anyone's ever done for me.
+WOODHOUSE: Oh, well.
+ARCHER: I'm serious. You showed me how important family is. And you're kind of family, and I know I'm not always as nice to you as I could be, so I'm gonna work on that, okay?
+WOODHOUSE: I-- Yes, sir. Thank you, sir.
+ARCHER: Thank you. Toilet's clogged.
+|scene|participants:pam,archer,cheryl|deaths:0|tags:|
+ARCHER: And so I wanted to say I'm sorry, Pam, if there were ever any times when I was less than nice to you.
+PAM: Heh.
+|scene|participants:pam,archer,lana|deaths:0|tags:flashback|
+ARCHER: Fuck your dolphin, Pam.
+LANA: Archer, she's down.
+|scene|participants:pam,cheryl|deaths:0|tags:|
+ARCHER: And I definitely could've been nicer to you, Ca-- Cheryl.
+|scene|participants:archer,cheryl|deaths:0|tags:flashback|
+|scene|participants:archer,pam,cheryl,brett,cyril,cop|deaths:0|tags:|
+CHERYL: Yeah.
+ARCHER: Here, take two. And, uh, Brett! Where's that ribbon, buddy?
+BRETT: Gonna go put it on right now!
+ARCHER: Okay. Then come see me. I got some mid-range Scotch for you, you nut. Oh, hey, where's Cyril?
+CYRIL: Extradited? Ow. But I've never even been to Las Vegas.
+ARCHER: Oh, you gotta go. It's amazing, I hear. But I've never been. Here.
+COP: What're you doing? He can't have booze, he's going to jail.
+ARCHER: Come on. I have cancer.
+PAM: Of the tits.
+COP: I-- Okay, give him the booze. Jesus, I should get checked.
+[*** Cops take away Cyril ***]
+CYRIL: Hey, can somebody water my plants?
+CHERYL: Yes. Heh. No.
+|scene|participants:archer,malory|deaths:0|tags:drinking|
+ARCHER: Yes. Mother, come on, they said I could eat and drink till midnight.
+MALORY: Alcohol?
+ARCHER: The stuff they use to sterilize hospitals? Pretty sure it's okay. So here's to, uh, family, I guess.
+MALORY: I'm sorry if I've been a bit selfish about your breast cancer.
+ARCHER: I'm sorry if I haven't always been, uh, you know... Whatever.
+MALORY: Well, you do the best you can. [SIPPING DRINKS LOUDLY]
+ARCHER: Eh.
+MALORY: Are you scared?
+ARCHER: I am, actually.
+MALORY; Me too. Sterling, I-- Well.
+ARCHER: Yeah. Me too, Mother. Wow, it's kind of weird opening up like this, huh?
+MALORY: Yeah. Give me another belt.
+|scene|participants:archer,malory,lana|deaths:0|tags:drinking|
+ARCHER: [SOBBING] There's so much I still wanna do.
+MALORY: Oh, now, you're gonna be fine.
+ARCHER: Like, I've never been to Rome.
+MALORY: What? Yes, you have.
+ARCHER: For work, Mother.
+MALORY: Sterling Malory Archer, this surgery is going to work and you-- Look at me. You are going to beat cancer.
+ARCHER: But what if I don't?
+[*** Lana enters ***]
+LANA: So how's this going?
+MALORY: Not great.
+ARCHER: Lana. Lana, what if I don't?
+LANA: Um.
+MALORY: Can you take him home?
+LANA: Can you not?
+MALORY: No. If I don't get something to eat, I'm literally going to die.
+|scene|participants:archer,lana|deaths:0|tags:|
+ARCHER: I seriously might, though.
+LANA: You're gonna be fine.
+ARCHER: What if I'm not? What if I die, and then I have to live with the fact I was a dick to you like a jillion times?
+LANA: Look, don't worry about it, just--
+ARCHER: Lana, I'm in love with you.
+LANA: You are also shitfaced.
+ARCHER: I can be both.
+LANA: Archer--
+ARCHER: I might die tomorrow so I really don't think I should be alone tonight.
+LANA: Nope.
+ARCHER: Lana.
+LANA: Nope.
+ARCHER: Did I mention I have cancer?
+LANA: [SIGHS]
+ARCHER: Awesome. [BURPS]
+|scene|participants:archer,lana|deaths:0|tags:sex|
+[ALARM BEEPING]
+ARCHER: [SNORING]
+LANA: Archer. Archer.
+[ARCHER YELLS]
+ARCHER: What? What the shit, Lana? Wait, Lana?
+LANA: Yeah.
+ARCHER: Why are you in my--? Oh, shit. My cancer surgery.
+LANA: Yeah.
+|scene|participants:archer,lana,malory,pam,cheryl,ray,cyril|deaths:0|tags:|
+ARCHER: So, uh, listen, about last night--
+LANA: Don't worry about it, just--
+ARCHER: Wait, we should talk about-- Whatever's in this IV, which I love.
+ARCHER: Right?
+LANA: We can talk after your surgery.
+ARCHER: Mm-hm. Mm-hm.
+LANA: Or never, probably, knowing you.
+ARCHER: Where's Mother?
+[*** Roll Archer away for surgery ***]
+MALORY: Sterling? Was that him?
+LANA: Yeah, where were you?
+MALORY: The cafeteria.
+PAM: Bear claws. Rowr.
+MALORY: I've been here since 6.
+PAM: Rowr.
+MALORY: He was four hours late to his own surgery.
+LANA: Yeah. Kind of a late night. And speaking of...
+[*** Cyril, Cheryl, Ray walk in ***]
+CYRIL: I spent last night in the Tombs getting worked over by the cops.
+ALL: [IN UNISON] What?
+RAY: Fun! Oh, you mean literally.
+CYRIL: Yeah. Until the Las Vegas police faxed over this little gem.
+PAM: [LAUGHING] Too soon?
+|scene|participants:cheryl,malory,lana,pam,cyril,doctor|deaths:0|tags:|
+CHERYL: Oh, my God. How much cancer was in him? This is so boring and forever-taking.
+MALORY: Well, then, for the 50th time, shut up and go back to the office.
+CHERYL: No. I wanna be here, in case he--
+LANA: Don't.
+CHERYL: Dies.
+PAM: Real numbnuts.
+LANA: Why would you say that?
+CHERYL: What? We're all thinking it.
+MALORY: No, we're not. This surgery is going to be a complete success, and Sterling is going to be completely cured.
+CYRIL: Hooray.
+MALORY: Oh, shut up.
+LANA: Although he has been a lot nicer ever since he was diagnosed.
+CYRIL: Oh, really?
+PAM: [LAUGHING] [COUGHS] Still too soon.
+[*** Doctor enters waiting room ***]
+DOCTOR: Not too soon for good news, I hope. Oh, and also some very bad news.
+MALORY: [GASPS] What's the bad news?
+DOCTOR: I have to take a raincheck on that drink. I'm on call this weekend.
+MALORY: What about Sterling?
+DOCTOR: Oh, right.
+MALORY: Ass.
+DOCTOR: That's the good news.
+LANA: What are you, hourly?
+DOCTOR: Thanks to me, the surgery was totally successful.
+MALORY: God, thank you.
+DOCTOR: And now Mr. Archer is...
+|scene|participants:archer,cyril,pam,cheryl,ray,lana,woodhouse,doctor|deaths:0|tags:|
+ARCHER: Totally cancer-free!
+[ALL CHEERING]
+ARCHER: I beat cancer, everybody!
+MALORY: Oh, Sterling, I knew you could do it.
+ARCHER: Is that why you didn't even bother to see me off to surgery?
+MALORY: You were four hours late. We grabbed a bear claw.
+PAM: Rowr.
+ARCHER: No, it's fine, Mother, whatever. Hey, how you doing? I beat cancer.
+[*** Archer walks off ***]
+MALORY: Wha-
+PAM: Looks like he's back to his old self.
+WOODHOUSE: Oh. Let's hope not.
+ARCHER: Hello? There's this great new thing called "coasters."
+MALORY: [SIGHS]
+CHERYL: Jeez, sorry.
+ARCHER: Don't apologize to me, apologize to the Brazilian rosewood.
+[PHONE RINGING]
+LANA: So, listen, about last night--
+ARCHER: Lana, hey, I know you probably think it was just because I was drunk--
+LANA: Well, and scared.
+ARCHER: Well, more drunk.
+LANA: And super scared.
+ARCHER: Not really scared. But the thing is-- Woodhouse, answer the damn phone.
+WOODHOUSE: Archer residence.
+ARCHER: So the thing is, Lana-- Here's the thing--
+WOODHOUSE: It's for you, sir.
+ARCHER: Duh. One sec. Talk to me.
+DOCTOR: Mr. Archer?
+ARCHER: Duh.
+DOCTOR: Hi, it's Dr. Spelts.
+ARCHER: Who?
+DOCTOR: Dr. Spelts?
+ARCHER: Uh...
+DOCTOR: I did your cancer surgery like two hours ago?
+ARCHER: Oh, right, listen, I'm kind of celebrating right now, so--
+DOCTOR: You may want to hold off on that.
+ARCHER: What?
+DOCTOR: I should've waited until your post-op results came in.
+ARCHER: What?
+DOCTOR: But I could tell your mom was already crushed about the raincheck thing--
+ARCHER: So, what are you saying?
+LANA: Archer?
+MALORY: Sterling?
+DOCTOR: What was I saying? Oh, yeah, the cancer has spread to your lymph nodes.
+ARCHER: What does that mean?
+DOCTOR: Well, it's not good, obviously, so--
+MALORY: Sterling, what did he say?
+ARCHER: The cancer...it spread to my lymph nodes.
+PAM: Holy shitsnacks.
+CHERYL: What's cancer?
+ARCHER: Yeah, so I guess this party was a little premature, huh?
+LANA: Hey, now.
+MALORY: Sterling, there's radiation treatment, there's chemotherapy, there's--
+ARCHER: Oh!
+MALORY: I think just those two things, but--
+LANA: But you can still be cured. This isn't, you know, um, good, but--
+ARCHER: Excuse me.
+MALORY: That was the best you could do?
+LANA: Shut up.
+ARCHER: What did I expect? Jesus, look at how I've treated all of you. Carol and Pam and Cyril. Oh, my God, listen, I'm gonna clear up this Vegas thing.
+CYRIL: Great. All you have to do is go down to the police station and confess.
+ARCHER: Or something maybe else--
+CYRIL: That's actually the only thing...
+ARCHER: Woodhouse.
+CYRIL: ...that you can do.
+ARCHER: Woodhouse, salt of the earth, who basically raised me.
+MALORY: Well--
+ARCHER: And you helped, Mother. I know that. And, Lana. Lana, I want you to know that what I said last--
+[PHONE RINGING]
+ARCHER: Woodhouse, seriously, a little help.
+WOODHOUSE: Archer residence. For you, sir.
+ARCHER: Was that so hard? Lana, sorry, give me one second. Because I really want you to hear what I have to say. Hello?
+DOCTOR: Mr. Archer. Hi, Dr. Spelts again.
+ARCHER: Yeah, listen, doctor, I'm kind of making peace with my loved ones right now, plus some other people, so--
+DOCTOR: You may want to hold off on that.
+ARCHER: What?
+DOCTOR: Boy, did I pull a boner said the urologist. Ba-dum-bum. Anyhoo, turns out I mixed up your chart with another patient's.
+ARCHER: Wait, are you sure?
+DOCTOR: Of course I'm sure, I'm a doctor. And I can say positively you are...
+|scene|participants:archer,cyril,woodhouse,malory,lana,pam,nurse,doctor|deaths:0|tags:|
+ARCHER: Totally cancer-free! Again!
+[ALL CHEERING]
+ARCHER: Suck it, cancer!
+CYRIL: Hooray.
+ARCHER: Cyril, I don't wanna see you with an empty glass.
+CYRIL: Yeah. So about my Vegas problem--
+ARCHER: Yes. The Vegas problem. I've been giving that a lot of thought. I'm pretty sure-- Mother, feel free to chime in here. But I'm pretty sure ISIS can get you a whole new identity, Cyril. Wait, no-- You can use one of my old ones.
+CYRIL: I don't wanna use one--
+ARCHER: Yes. You're Chet Manley now. How about that?
+CYRIL: I don't wanna be Chet Manley.
+ARCHER: Everybody, say hello to my friend, Chet Manley.
+CHERYL: Hi.
+PAM: Not a new person.
+CHERYL: Shut up, I saw him first!
+LANA: Speaking of being a new person, or not, did you wanna tell me something?
+ARCHER: Did I?
+LANA: Like four minutes ago? When you thought you were dying? Oh, right. Lana, so here's the thing--
+[PHONE RINGING]
+ARCHER: I got it! Hello?
+NURSE: May I speak to Chet?
+ARCHER: Oh, my God. Heh, heh. Uh-- Yeah, hang on, he's right-- Wait, who is this?
+NURSE: Rita.
+ARCHER: Who?
+NURSE: The nurse? Redhead?
+ARCHER: Uh...
+NURSE: Peggy?
+ARCHER: Oh, yeah, yeah. Hey, this is Chet.
+[PHONE BEEPS]
+ARCHER: Hang on, Peggy, I got another call. Talk to me.
+DOCTOR: Mr. Archer? Dr. Spelts--
+ARCHER: I know! What, doctor?
+DOCTOR: Well, you are just gonna kill me, but turns out I was right the first time.
+ARCHER: The first time you said I was cured!
+DOCTOR: Wait. Now I'm confused--
+ARCHER: At the hospital, doctor! You said--
+DOCTOR: Oh, no. I meant, the first phone call. When I said the cancer had spread to your lymph nodes. So, yeah, we're gonna wanna start a round of chemo ASAP, but in the meantime, is your mother there?
+PAM: Are you here?
+MALORY: Eh. What? Too soon?

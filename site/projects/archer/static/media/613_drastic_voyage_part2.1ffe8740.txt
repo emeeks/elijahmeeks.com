@@ -1,0 +1,447 @@
+|episode|6|613|Drastic Voyage Part II|
+|scene|participants:slater,archer,lana,ray|deaths:0|tags:drinking|
+SLATER: Nereus to Mission Control, over!
+SKLO: Because look around! Does this look like the brain to you? No!
+ARCHER: Oh. I was gonna say "yes."
+SKLO: We are clearly not in the brain! Look around, we are surrounded by--
+EVERYBODY: Whoa!
+PAM: What the shit?
+LANA: What the hell?
+SKLO: Ooh! Sorry! Surrounded by muscle fiber...
+ARCHER: Just think if I ever worked out.
+LANA: Ya done?
+SKLO: Hm? Oh! Well, I was saying that look at all that muscle fiber, out there, so we're obviously not in the brain, so--
+LANA: so where are we, and follow up--
+SLATER: Nereus to mission control--
+LANA: What is with the rubbing alcohol?
+ARCHER: Uh, I'm making room for Tang.
+SLATER: Nereus to-- What? What Tang?
+SKLO: The Tang on which I've got dibs, so--
+SLATER: Why would there be Tang?
+ARCHER: Goofy Grape then, whatever! Lefty Lemon? Lana, this is serious. If our electrolytes get out of balance--
+LANA: Archer, we've only got 57 minutes until the sub reverts back to normal size--
+SKLO: Killing Dr. Kovacs--
+SLATER: and permanently ending your checkered careers as intelligence agents.
+LANA: We get it. So your electrolytes can wait.
+ARCHER: Well, you say that...
+LANA: So tell us what to do, how can we help you find out where we are?
+SKLO: Well for starters, he can quit futzing around with the radio and get--
+HAWLEY: This is Mission Control, over.
+SLATER: You were saying?
+ARCHER: Goosebumps...
+LANA: Really wish you'd quit dicking around.
+ARCHER: I know.
+SLATER: Mission Control, what is our twenty?
+HAWLEY: The injection was botched... Krieger... asshole...
+EVERYBODY: Ew! Shh! No! Ew!
+SLATER: Say again, Control, what is our twenty?
+HAWLEY:It appears you're in Kovacs' left foot.
+LANA: His left foot?
+ARCHER: Oh, well that's good, right?
+SLATER: How is that possibly good?
+ARCHER: Well, relative to Krieger's asshole. And to this. Seriously, where do you keep the fruity drink powder? I'd even take Rootin' Tootin' Raspberry.
+LANA: How noble.
+ARCHER: Well, no, I'd still bitch about it. And I think I've earned that right.
+|scene|participants:malory,hawley,abbiejean|deaths:0|tags:drinking|
+MALORY: What's wrong, why aren't they moving?
+Who knows? Their radio's damaged. Maybe the propulsion system is, too. Nereus, this is Mission Control--
+MALORY: Oh, for the-- they know who it is!
+HAWLEY: If I were to make a list of things I'm not in the mood for right now-- That would be second on said list. What is it, does she need to be fed?
+MALORY: Wants, maybe. I wouldn't say "need." She's about to pop out of that onesie.
+HAWLEY: She seems like a normal baby weight.
+MALORY: Oh, yes, and everyone deserves a trophy just for showing up, and everyone's Kickstarter has merit. Pff.
+|scene|participants:slater,sklo,lana,archer|deaths:0|tags:drinking|
+SLATER: Okay people, listen up!
+ARCHER: We're bailing!
+SLATER: What're you-- Archer, if you bail on this mission, your career is over!
+ARCHER: Oh, eat several dicks, Slater! Your people shot us in this guy's foot, not us!
+|scene|participants:cyril,ray,sklo,archer|deaths:0|tags:|
+CYRIL: Well? Are we bailing or not?
+ARCHER: Yes!
+SKLO: No!
+RAY: Oh, my God...
+|scene|participants:cheryl,pam|deaths:0|tags:|
+CHERYL: Seriously, shit or get off the pot.
+PAM: Ya know, on the farm it was actually a pot, like...it was literally a pot.
+CHERYL: I have absolutely no response to that.
+|scene|participants:sklo,slater,archer,lana|deaths:0|tags:drinking|
+SKLO: Because forgetting, for the moment, that Dr. Kovacs will die if we don't laser that blood clot, how--
+ARCHER: With the laser, we cut a hole in his foot, zrrp, and slide on out, flrrp. It's basically the old zrrp-and-flrrp.
+LANA: Archer, we're the size of a bacteria--
+SKLO: Bacterium.
+LANA: Thanks, Jill Nye--
+ARCHER: Zrrp.
+LANA: So no one could see us--
+SLATER: until 48 minutes from now, when the sub reverts back to normal--
+LANA: Killing not only Dr. Kovacs, but everybody else in the room.
+SKLO: And we can reach the clot in time!
+ARCHER: How? To get from his foot all the way to his brain would take, like--
+SKLO: literally one minute.
+ARCHER: I'm sorry, I think you mean figur--
+SKLO: Literally. That's how long it takes blood to cycle through the body, so--
+SLATER: Seriously?
+ARCHER: What?
+LANA: Yeah, that doesn't sound right.
+SKLO: Well, we could ask Wikipedia...
+ARCHER: Good luck, I've got negative one bars.
+SKLO: Or we could just ask me, the woman who graduated from Harvard Medical School summa cum laude.
+ARCHER: With a minor in Spanish bragging...
+SKLO: A-- that was Latin.
+LANA: He knows.
+SKLO: And B-- we just have to laser our way into one of these veins here.
+ARCHER: Flurp! Wait, no; zurp!
+SKLO: Then the blood flow will take us into the inferior vena cava, then up through the right atrium, tricuspid valve, right ventricle, pulmonic valve, pulmonary artery, into the lungs, pulmonary veins, left atrium, mitral valve, left ventricle, aortic valve, aorta, common carotid artery... Internal carotid artery, and then... I can probably find it from there.
+LANA: So if the blood flow will take us right to the clot, what's the catch?
+SKLO: The catch is that we'll be going between three and four miles an hour.
+ARCHER: Big whoop? No? Nobody?
+LANA: Oh, shit...
+SLATER: If we're the size of a tiny germ...
+SKLO: Yes, to us it will seem like--
+ARCHER: Making the jump to hyperspace?
+SKLO: If by "hyperspace" you're referring to the film "Star Wars" and not bosonic string theory, then--
+ARCHER: Shh. There's enough room in the world for science and miracles.
+|scene|participants:archer,slater|deaths:0|tags:|
+SLATER: Okay people, listen up! When we go into that vein we're gonna get hit with about ten G's. Buckle up!
+ARCHER: No!
+|scene|participants:archer,lana|deaths:0|tags:|
+ARCHER: Just kidding. That's a lot of G's.
+LANA: Oh, so suddenly you don't have a death wish?
+ARCHER: Lana, I've never had a death wish. It's just that I don't believe that I personally... even can die.
+LANA: Wow...
+ARCHER: Although I do believe in ghosts. Not sure if that's related, or...
+|scene|participants:archer,slater|deaths:0|tags:|
+CHERYL: Guess I better put these away since they're tungsten, and insanely sharp.
+PAM: Yeah... Should you even have those?
+CHERYL: I shouldn't even have yarn.
+|scene|participants:ray,cyril|deaths:0|tags:|
+CYRIL: And I should not have volunteered for this.
+|scene|participants:slater,sklo,archer|deaths:0|tags:|
+SLATER: So, I saw you coming on to Archer--
+SKLO: Look, I'm a sexual being. If that is shocking to you, then so be it.
+SLATER: It's not, I was just gonna tell you he's had the clap so many times it's more like applause.
+ARCHER: Uh, what was that?
+SLATER: I said, ready on that laser?
+|scene|participants:slater,archer|deaths:0|tags:|
+ARCHER: Duh.
+SLATER: Then fire at-- ...will. Great. Okay, Gillette, now just slip it in nice and easy...
+ARCHER: I mean...
+|scene|participants:sklo,archer,cyril,ray|deaths:0|tags:|
+ARCHER: what about "That's what she said"? Can we at least do that?
+SKLO: Hush! Here we go, people!
+RAY: God, I will be glad when this is over.
+CYRIL: Yeah, and when it is, I think you really should apologize to Lana.
+RAY: For what?
+CYRIL: For being so racist about your hand!
+RAY: Wh--? Racist?
+CYRIL: Yeah, all that Driving Miss Daisy stuff, and the piggly wiggly, and the--
+RAY: Oh, my God! I was mad because it's a robot hand, not because it's black!
+|scene|participants:slater|deaths:0|tags:|
+SLATER: Hang on!
+|scene|participants:cyril,ray|deaths:0|tags:|
+CYRIL: Oh. Because it totally seemed like--
+RAY: I gotta go tell her!
+CYRIL: No, no, no! Waa!
+|scene|participants:lana,archer|deaths:0|tags:|
+|scene|participants:slater,ray,sklo|deaths:0|tags:|
+|scene|participants:cyril,ray|deaths:0|tags:|
+|scene|participants:ray|deaths:0|tags:|
+|scene|participants:ray,cheryl,pam|deaths:0|tags:|
+CHERYL: Ugh, are you crippled again?
+RAY: Yep.
+PAM: Well, cheer up, buddy. Maybe Krieger can get you some black bionic legs.
+CHERYL: Just like Jesse Owens! Who may or may not have been a robot. Although I might be thinking of the Jetsons' maid. Wait, was she black?
+|scene|participants:slater|deaths:0|tags:|
+SLATER: What do you mean, he's crippled?
+|scene|participants:ray,pam,cheryl|deaths:0|tags:|
+CHERYL: Differently-abled, whatever!
+RAY: No, we can just go with crippled...
+|scene|participants:sklo|deaths:0|tags:|
+SKLO: Then who's steering the ship?
+|scene|participants:cyril,sklo|deaths:0|tags:|
+CYRIL: I am! Now's the perfect time... Not like you haven't dreamed about it... Just crash the sub and kill them, Cyril.
+SKLO: Okay, Cyril?
+CYRIL: Hm? Yes? Over?
+|scene|participants:sklo,slater|deaths:0|tags:|
+SKLO: We're through the heart now, and we need to get to the carotid artery, so on my mark, turn hard to starboard.
+|scene|participants:cyril,sklo,archer|deaths:0|tags:|
+CYRIL: And refresh my memory, starboard is--
+SKLO: Mark! Now on my mark, hard to port!
+CYRIL: And that's--?
+SKLO: Mark!
+CYRIL: Ah! Okay, this is it...
+ARCHER: Wow, guess it does just take a minute.
+|scene|participants:malory,hawley,abbiejean|deaths:0|tags:drinking|
+MALORY: So they're in the brain now?
+HAWLEY: Well, we're assuming they are. We have to wait for them to tell us their location. The sub is too small to track with our current technology.
+MALORY: Maybe the CIA should do a Kickstarter.
+HAWLEY: Can someone please get that child some food!
+MALORY: Oh, all right, she can have... One cocktail onion.
+|scene|participants:sklo,archer|deaths:0|tags:|
+SKLO: Okay, there's the blood clot. Fascinating.
+ARCHER: Ugh! People's bodies are so gross.
+|scene|participants:ray,cheryl,pam,archer|deaths:0|tags:|
+PAM: Well, some people can't help it!
+ARCHER: Wh--? Not you, Pam.
+PAM: I was talking about Ray.
+CHERYL: Seriously, you're like filet o' man.
+RAY: Ya know...
+|scene|participants:lana,archer,mission control,sklo|deaths:0|tags:|
+MISSION CONTROL: Time to deminiaturization-- 40 minutes.
+LANA: So hey, if you've got this...
+ARCHER: I've always got everything.
+LANA: Then I'm gonna go check on Ray.
+ARCHER: Oh, tell him-- no, never mind.
+LANA: No? You don't have a pun-based little zinger about walking, or--
+ARCHER: No, I'm actually... kinda worried he's gonna kill himself.
+SKLO: Laser turret, prepare for thrombolysis.
+ARCHER: Uh... is there a knob for that, or--
+SKLO: It means destruction of the thrombus.
+ARCHER: Uh...
+SKLO: The thrombus is the blood clot!
+ARCHER: Oh, duh...
+LANA: Yes, obviously you've got this.
+|scene|participants:sklo,archer,lana,slater,michael gray|deaths:0|tags:|
+SKLO: All right, Archer, you have to be sure not to let the laser detach the thrombus from the artery wall. The last thing we want is an embolism.
+ARCHER: No shit, that's my third biggest fear.
+LANA: That's an aneurysm.
+ARCHER: Okay, fourth biggest, whatever.
+SKLO: Archer, focus. We've got less than 40 minutes to deminiaturization!
+SLATER: Oh, shit. And even less than that until we're out of oxygen.
+SKLO: Wait, what?
+SLATER: O2 consumption's about 12 percent higher than it should be...
+SKLO: 12 percent? That's like an entire... Extra person.
+MICHAEL GRAY: A person called...
+SLATER: What the--?
+SKLO: God damn it, Michael!
+MICHAEL GRAY: TV's Michael Gray. You ruined it. And also please let me out.
+SKLO: No!
+|scene|participants:archer,slater,lana|deaths:0|tags:|
+ARCHER: Uh, what's going on?
+SLATER: Well, TV's Michael Gray is on board, for some reason.
+LANA: What?
+ARCHER: Mikey Mike!
+|scene|participants:lana,cheryl,pam,ray|deaths:0|tags:|
+LANA: And where are you two going?
+PAM: Up there, to gawk at TV's Michael Gray.
+CHERYL: And, we're taking these razor sharp tungsten knitting needles with us.
+LANA: What about Ray?
+PAM: He can't come, he's crippled.
+RAY: Lana!
+CHERYL: And also physically. What the--? Wh--?
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: Cyril! Can you see where we're going with your head up your ass?
+|scene|participants:cyril|deaths:0|tags:|
+CYRIL: That wasn't me, we're not even moving!
+|scene|participants:sklo|deaths:0|tags:|
+SKLO: It's leukocytes! White blood cells! Agh, they must think we're bacterium!
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: Well, let's see how they like having a laser beam blasted up... whichever part of the leukocyte is the asshole. Um, Alex, I think my buzzer's broken.
+|scene|participants:slater,sklo,pam,cheryl|deaths:0|tags:|
+SLATER: Goddammit! The laser capacitors are damaged!
+CHERYL: Is that bad?
+SKLO: What do you think?
+CHERYL: That you'd better watch your tone?
+|scene|participants:ray,lana|deaths:0|tags:|
+RAY: I'm... so... sah-hah-hah-hah-reee...
+LANA: And I accept your apology, but, honey, I need to go see what's going on...
+RAY: It's God's wrath! For lettin' my self-loathing about my ever-increasing bionics make you think I'm a racist!
+LANA: Well, I don't know about God's wrath, but--
+RAY: Oh but you will, Miss Unwed Mother.
+LANA: Okay.
+RAY: Ow!
+|scene|participants:cyril,cheryl,pam,slater,sklo,archer,michael gray,lana,mission control|deaths:0|tags:|
+CYRIL: Hey, one of those leukocyte things just blobbed all over the windshield--
+ARCHER: Cyril, shut up. What're we doing?
+MICHAEL GRAY: Suffocating!
+ARCHER: Oh, sorry, Mikey Mike...
+SKLO: No no no, don't let him--
+MICHAEL GRAY: Ta-da!
+ARCHER: I think sometimes you oversell it, buddy.
+SKLO: Great, now we can all suffocate.
+LANA: Excuse me?
+SLATER: We only had enough oxygen for eight crew, not nine, so thanks to TV's Michael Gray, we're low on oxygen.
+CHERYL: Why is he here?
+PAM: What?
+CYRIL: Are you kidding me?
+ARCHER: Dammit, Michael Gray, it's bad enough we're getting devoured by leukocytes!
+MICHAEL GRAY: Well, what do you want me to do, transform into Captain Marvel and save the day?
+ARCHER: I'd be happy if you could transform into Jackson Bostwick!
+CYRIL: Nice!
+ARCHER: S-sorry. I guess I had that coming, huh?
+CHERYL: Will you explain that to me later?
+PAM: I was gonna ask you to.
+MISSION CONTROL: Time until miniaturization--
+ARCHER: Okay, so we've got--
+MISSION CONTROL: 30 minutes.
+ARCHER: Thanks, and since the laser's all jibbered up...
+SKLO: Someone will just have to go out there in scuba gear and use this portable laser to destroy the clot and fend off attacking leukocytes.
+ARCHER: And I guess that someone is me.
+MICHAEL GRAY: Us. I'm going with you.
+SKLO: Oh my God, Michael, it's over. Stop trying to impress me!
+ARCHER: And also no offense, but you're tiny.
+LANA: But, Archer, somebody has to watch your back.
+ARCHER: Well that somebody's not gonna be A.J.'s mother, so... Slater.
+SLATER: No way, you're just gonna frag me!
+ARCHER: I totally was. Okay, so... Pam.
+PAM: Yay!
+ARCHER: Well don't rub it in TV's Michael Gray's face!
+PAM: Sorry.
+MICHAEL GRAY: Oh, fuck you.
+|scene|participants:mission control|deaths:0|tags:|
+MISSION CONTROL: Time to deminiaturization-- 15 minutes.
+|scene|participants:archer,pam,sklo,cheryl,lana|deaths:0|tags:|
+ARCHER: Because who takes 15 minutes to put on a damn wetsuit?
+PAM: Who has an entire submarine with no damn talcum powder on board?
+SKLO: And Archer, remember, do not let the leukocytes touch you. They're--
+ARCHER: Macrophages. Yeah, got it.
+PAM: What's that mean?
+SKLO: It means they'll slowly turn your entire body inside out and devour every single cell you're made of.
+PAM: Holy snacrophages.
+ARCHER: Oh. I thought it was a type of wizard.
+CHERYL: Hey, you guys wanna take my needles?
+ARCHER: What? No, why would we want those?
+CHERYL: They're tungsten.
+LANA: Move. Archer, listen to me, I know you think you're invincible.
+ARCHER: Plus now I have a laser backpack.
+LANA: But you're a father now--
+ARCHER: With a laser backpack.
+LANA: Shut up. And please... be careful.
+ARCHER: No. To both. Woo-hoo!
+|scene|participants:hawley,archer,pam|deaths:0|tags:|
+ARCHER: Leukocytes!
+HAWLEY: Thirteen minutes to go...
+|scene|participants:hawley,malory,abbiejean|deaths:0|tags:|
+HAWLEY: And just to reiterate, if your people fail-- We'll never work in espionage again.
+MALORY: Yes, you've made that perfectly clear. Maybe we can live on all the prize money she wins as a competitive eater.
+|scene|participants:lana,cyril|deaths:0|tags:|
+LANA: So, how are they doing out there?
+CYRIL: About like you'd expect, from Archer.
+|scene|participants:archer,pam,slater|deaths:0|tags:|
+ARCHER: Woo! Eat that, you stupid macrophage!
+PAM: There's another one, nine o'clock!
+ARCHER: Oh, my God, I could do this all day.
+SLATER: Well since we don't have all day...
+ARCHER: Shut up!
+|scene|participants:slater,sklo,michael gray|deaths:0|tags:|
+SLATER: Coming up on 12 minutes. Will we have enough time to reach the extraction point on his tear duct?
+SKLO: We should. From here via the optic nerve should only take 90 seconds, then another 60 to the tear duct. So we even have time... to make love.
+SLATER: What?
+SKLO: Sex. Inside my lover's own body. It would be the ultimate cuckold.
+SLATER: Ew, no! Lady, you've got problems. Plus TV's Michael Gray is staring right at us.
+|scene|participants:archer,pam,sklo|deaths:0|tags:|
+ARCHER: Okay, that was the last one for now. Keep a lookout while I zrrp the clot.
+SKLO: And remember, you have to make sure it doesn't break free from the--
+ARCHER: What was that? Sorry, I couldn't hear you over the sound of me thrombolyzing the shit out of that thrombus.
+|scene|participants:lana,cyril,archer,slater|deaths:0|tags:|
+LANA: Well? Are you just gonna stand there and gloat?
+ARCHER: Technically, Lana, I'm floating. It's basically the old float-and-gloat--
+SLATER: Get back to the ship, you asshole!
+|scene|participants:archer,pam|deaths:0|tags:|
+ARCHER: Okay, but only because I choose to.
+PAM: Archer, look out!
+ARCHER: Wh--? And also because it seems like the prudent course of action.
+|scene|participants:hawley,malory,abbiejean,cia doctor,mission control|deaths:0|tags:|
+MISSION CONTROL: Time to deminiaturization-- 10 minutes.
+HAWLEY: Dammit. Okay, get ready for the extraction.
+CIA DOCTOR: Get ready how? We don't even know if the sub is in his tear duct yet!
+HAWLEY: So go get an eyedropper, and for the next 10 minutes just keep eyedroppering out his tears and moving them into the hangar! Scoop out his whole damn eyeball if you have to! Oh no-no-no-no, we wouldn't do dat, would we? No, dat's a meanie-bo-beanie...
+|scene|participants:pam,archer,slater,sklo,mission control|deaths:0|tags:|
+PAM: Okay, door's closed! Hit it!
+ARCHER: Alright, we're in, purging airloc--
+SKLO: No, no, no, no, no!
+ARCHER: I'm sorry, what was that?
+SKLO: The ship cannot move while the airlock is purging.
+ARCHER: Oh. Uh, kinda seems like a design flaw...
+PAM: We could start drinking it.
+SLATER: That would save like, two seconds!
+PAM: Well, plus I'm pretty thirsty.
+ARCHER: Pam, it's blood.
+PAM: I'm pretty thirsty.
+MISSION CONTROL: Time to deminiaturization-- eight minutes.
+SKLO: Okay, Cyril! You have to be ready to go the second that the airlock is clear! Clear?
+|scene|participants:lana,cyril|deaths:0|tags:|
+CYRIL: Yes! Yes?
+LANA: Yeah, what could possibly go wrong...
+|scene|participants:cia doctor|deaths:0|tags:|
+CIA DOCTOR: Okay, this eyedropper's full! Here! Go! Move! Dammit, gimme another eyedropper!
+|scene|participants:mission control,pam,archer|deaths:0|tags:|
+MISSION CONTROL: Time to deminiaturization-- seven minutes. 6 minutes. 5 minutes. 4 minutes. Three minutes to deminiaturization. Airlock purged.
+ARCHER: What're we doing?
+|scene|participants:sklo,slater|deaths:0|tags:|
+SKLO: Go, go, go, go!
+|scene|participants:cyril,lana|deaths:0|tags:|
+CYRIL: Ah!
+|scene|participants:archer,pam|deaths:0|tags:|
+|scene|participants:cia doctor|deaths:0|tags:|
+CIA DOCTOR: Eyedropper!
+|scene|participants:sklo|deaths:0|tags:|
+SKLO: Okay Cyril, here comes the optic nerve! Now hard to starboard!
+|scene|participants:cyril,lana|deaths:0|tags:|
+CYRIL: Hard to starboard!
+|scene|participants:archer,pam|deaths:0|tags:|
+ARCHER: Ah!
+PAM: Ah!
+|scene|participants:cheryl,ray,mission control|deaths:0|tags:|
+MISSION CONTROL: Two minutes.
+CHERYL: Exciting, huh?
+RAY: Yeah. Shut up!
+CHERYL: Oh, right.
+|scene|participants:sklo|deaths:0|tags:|
+SKLO: There's the tear duct! Hard to port!
+|scene|participants:cyril|deaths:0|tags:|
+CYRIL: Hard to port!
+|scene|participants:cia doctor|deaths:0|tags:|
+CIA DOCTOR: Eyedropper!
+MISSION CONTROL: One minute.
+|scene|participants:cyril,lana|deaths:0|tags:|
+LANA: Holy shit, we're gonna make it! Wait, are we gonna make it?
+|scene|participants:michael gray,sklo,archer|deaths:0|tags:|
+MICHAEL GRAY: Or are "we" just...too broken?
+SKLO: Michael...
+ARCHER: Seriously.
+|scene|participants:cyril,lana,sklo,mission control|deaths:0|tags:|
+CYRIL: Look look, there's a bright light!
+SKLO: Yes! We're approaching the eyeball!
+MISSION CONTROL: Thirty seconds.
+|scene|participants:cia doctor|deaths:0|tags:|
+CIA DOCTOR: Eyedropper!
+|scene|participants:archer,pam,mission control|deaths:0|tags:|
+ARCHER: So yeah, we shower it up, and then wherever the town is, we go find a sizzler or whatever-- me, Lana, you and TV's Michael Gray, double-date-- and the flrrp-- get shitty on rib eyes and scotch.
+PAM: Mmkay.
+MISSION CONTROL: 10 seconds.
+|scene|participants:cia doctor,mission control|deaths:4|tags:|
+MISSION CONTROL: Nine, eight, seven...
+CIA DOCTOR: Okay, that's it.
+MISSION CONTROL: Six, five...
+CIA DOCTOR: Go, go, go-- get out of here!
+MISSION CONTROL: Four, three, two, one. Begin deminiatur--
+|scene|participants:archer,abbiejean,malory,hawley,krieger|deaths:0|tags:drinking|
+ARCHER: Huh. Guess we didn't make it... But-- so, is there a steakhouse around? Oh, and do they have flowerpot bread?
+MALORY: All right, so now listen--
+HAWLEY: No, no, no, no, I will not listen, because you no longer exist in my world. So take this unlucky baby... while I focus on the two positive aspects of this debacle, the first being that you people will no longer be a stain on the escutcheon of the clandestine services, and--
+MALORY: No, please! You can't blacklist us. This is all I've ever known, it's-- Shh!
+HAWLEY: The second positive is that even though Dr. Kovacs is dead, his miniaturization process lives on in the memory banks of the supercomputer...
+KRIEGER: Woo! Shrinky-dink that! Krieger out!
+HAWLEY: Which... Dr. Kovacs conceived and built the magnum opus of what was surely the greatest mind of his generation.
+MALORY: And so you work your whole life for something, for a cause, and in the end what do you have to show for it? No parade, no statue, no medal of freedom, no songs of heroic deeds... Just an ulcer and you, dear... Who I honestly think just gave me a hernia.
+|scene|participants:archer,cheryl,pam,ray,krieger,cyril,abbiejean,lana,malory|deaths:0|tags:drinking|
+LANA: Well, if you fed her, like you said you did, why is she still hungry?
+MALORY: Who knows with her? A tapeworm? And after that disaster, you'd all better get used to being hungry. At least until I can find a way to get us back in with the CIA.
+LANA: Why bother?
+MALORY: Excuse me?
+LANA: Well, look, I can't speak for Archer--
+ARCHER: And yet--
+LANA: but I don't want to risk my life on shady missions for those assholes at the CIA. I have a child to raise.
+MALORY: So do I! Well, not...
+LANA: And besides, they obviously set us up. They've always wanted us to fail.
+MALORY: Why would they--
+ARCHER: Why would you wanna work for those Ivy League white-shoe D.C. pricks? That's not who we are! We're the outsiders, the scrappy underdogs! We're Delta House, the Dirty Dozen, The Rebel Alliance. The Commitments!
+CHERYL: Yeah!
+PAM: Woo-hoo!
+ARCHER: We're the Bad News Frickin' Bears, and our Lupus is an openly gay cyborg dying of sepsis in a wheelbarrow!
+EVERYBODY: Woo!
+CYRIL: That's us!
+KRIEGER: I do think he's actually dying, though.
+ARCHER: So why would you want to go back to being the CIA's-- sorry, but-- bitch?
+MALORY: Because, you peawit, what are we going to do for money?
+ARCHER: Well... I actually have some thoughts on that.

@@ -1,0 +1,384 @@
+|episode|8|801|No Good Deed|
+|scene|participants:priest|deaths:0|tags:|
+PRIEST: Oh death, where is thy sting? Oh grave, where is thy victory? For man that is born of woman hath but a short time to live, and is full of misery. He cometh up and is cut down like a flower. He fleeth as it were a shadow. In the midst of life, we are in death. In the midst of death, we are in life.
+|scene|participants:lana,malory|deaths:0|tags:|
+LANA: It was a nice service.
+MALORY: Hmm.
+LANA: And he had a good, long life.
+MALORY: He did, for a heroin addict.
+LANA: Sad Archer wasn't there.
+MALORY: Or here.
+LANA: It's been a long couple of months.
+MALORY: Three, next week.
+LANA: You should go sleep in a real bed.
+MALORY: I'm fine. I want to be here if... When he wakes up.
+LANA: Yeah. Did the doctor...?
+MALORY: The same. Could be tomorrow, could be another three months. Could be...
+LANA: Yeah. Well, I guess I'll go. I'll try to bring A.J. By tomorrow. Or Friday.
+MALORY: We'll be here.
+LANA: At least he doesn't know Woodhouse died. That would break his heart.
+MALORY: Mm-hmm. Although there's no telling what he knows. Or what he's thinking about. Well, dreaming about, I suppose.
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: No. No, no, no! No! No! No ooo!
+|scene|participants:archer,pam,cyril|deaths:0|tags:|
+ARCHER: Let me go, goddammit. Come on!
+PAM: Go easy, Archer.
+ARCHER: Poovey, I swear to Christ, I will punch you right in the... genitals.
+CYRIL: It's okay. Let him go.
+ARCHER: You big lummox.
+[* Archer goes to Woodhouse's corpse *]
+ARCHER: Oh, Jesus. Woodhouse. So, where are you, Figgis? You got any leads? What do you think happened?
+CYRIL: I think he got too far behind on his dope tab, so sometime last night his dealer punched his ticket for him.
+ARCHER: Yeah, and wouldn't that be convenient?
+CYRIL: Not for him.
+ARCHER: You little rat fu...
+CYRIL: [whistles]
+ARCHER: Oh!
+CYRIL: Now, scram, Archer!
+ARCHER: Ow. Son of a... I mean, just ow.
+CYRIL: You can claim the body at the morgue. But that better be the last time I smell you anywhere near this case.
+ARCHER: Yeah, we'll see about that.
+CYRIL: Yeah? And we'll see how you like it when I yank your P.I. License.
+ARCHER: See you around, Poovey.
+PAM: Take it easy, Archer.
+CYRIL: Oh, hey, and Archer? Come to think of it, where were you last night?
+ARCHER: Ask your wife.
+PAM: Ah, you know his wife left him. For you, Archer, 'cause you screwed her tits off at the precinct cookout. So then she thought the two of you would get married and live happily ever after, but then you were like, "what?" Exactly. That face right there.
+ARCHER: I...
+[* Archer walks away *]
+CYRIL: How does that help?
+PAM: Mm, humanizes you?
+|scene|participants:krieger,archer,zerk|deaths:0|tags:|
+KRIEGER: [whistling]
+ARCHER: Hey, pal. You got a second?
+KRIEGER: I do not, actually, and I am not, come to think of it, so screw.
+ARCHER: Hm. I'm sorry. Let me rephrase that.
+KRIEGER: What...? Do you know who I work for?
+ARCHER: Do you know how much I don't care?
+KRIEGER: About what? Living out the week? 'Cause we're both out of luck, friend. I left all my cash at the track. But if maybe you wanted some dope...?
+ARCHER: Do I look like a junkie to you?
+KRIEGER: I don't know. I try not to judge.
+ARCHER: You used to sell to this guy.
+KRIEGER: Yeah, Woodhouse. He... Wait. Used to?
+ARCHER: He's dead.
+KRIEGER: What? Oh, for the love of... He was one of... No, he was my best customer.
+ARCHER: So, he was paid up?
+KRIEGER: Paid up? He paid in advance.
+ARCHER: Yeah. He was not great with money.
+KRIEGER: Right? I mean, who tips their dope dealer? So, I guess we're done here?
+ARCHER: We're done when I say we're done.
+KRIEGER: I'm sorry. Let me rephrase that.
+[* Zerk enters behind Archer *]
+ZERK: [growls]
+ARCHER: Okay. So, one of two things is gonna happen here.
+[* Zerk punches archer in face *]
+ARCHER: Oh!
+KRIEGER: Hm. Wonder what the other thing was?
+|scene|participants:ray,cliff|deaths:0|tags:|
+[* Trumpet playing *]
+RAY: Goddamn. Is it your feeding time already?
+CLIFF: I wish you wouldn't antagonize him.
+RAY: Well, I wish you could hold a tempo.
+CLIFF: Which, clearly, sarcastic.
+RAY: No, it wasn't.
+|scene|participants:malory,archer|deaths:0|tags:|
+MALORY: No, thank you, Zerk, that will suffice.
+ARCHER: Huh? Wha... what's... what...
+MALORY: Ah, there he is. The infamous Sterling Archer, private eye. And I trust you know who I am?
+ARCHER: I do. But what do I call you?
+MALORY: Mother will do. And so, you do know who I am, but you don't care?
+ARCHER: What? No, I...
+MALORY: That's what you told my bartender when you stuck a gun in his ribs.
+ARCHER: I... well, first of all, your bartender sells heroin.
+MALORY: Gasp.
+ARCHER: And I pulled my gun because I'm trying to find out who killed my partner.
+MALORY: That would be Woodhouse.
+ARCHER: Yeah. He... how'd you know that?
+MALORY: It's my business to know a great many things, Mr. Archer. What would you say if I offered you a drink?
+ARCHER: I'd probably say bourbon. Old buncombe, if you've got it.
+MALORY: Oh, I have a bit of everything.
+ARCHER: So I hear.
+MALORY: Hmm. How do you take it?
+ARCHER: Usually alone.
+MALORY: Thank you for making an exception.
+ARCHER: Please.
+[* Scene fades into glass *]
+MALORY: And so, I do hope you'll forgive Mr. Zerk for his hands-on approach.
+ARCHER: Maybe. But I sure won't forget it.
+MALORY: Yes. I believe that was the point.
+ARCHER: I meant...
+MALORY: I know what you meant. Cigarette?
+ARCHER: No, thanks. Never took it up.
+MALORY: Really? But I thought they loaded all you G.I.S down with cartons of them on your way up the gangplank.
+ARCHER: They did.
+MALORY: Supposed to help keep you alert.
+ARCHER: I guess I found it all stimulating enough.
+MALORY: Hm. Normandy?
+ARCHER: Yeah.
+MALORY: Omaha beach. By way of north Africa and Sicily. And after Normandy, through France and Belgium, all the way to Berlin.
+ARCHER: Well, I had to get to Berlin. I'd sent all my clean shirts ahead.
+MALORY: Mm-hmm. Speak any German?
+ARCHER: You know. "Don't shoot," "I surrender," "Hitler's the tops," stuff like that.
+MALORY: Mm hmm. Bronze star with two oak leaves and "V" device. Legion of merit. Croix de guerre with palm. Silver star with two oak leaves. Distinguished service cross with one oak leaf and "V" device. Three purple hearts. It goes on, Mr. Archer.
+ARCHER: Yeah, senior year, I was voted class flirt.
+MALORY: And yet, you turned down a battlefield commission to second lieutenant.
+ARCHER: Well, after class flirt, I mean...
+MALORY: In fact, you left the army at the same rank you went in. Buck private. And do you know what that tells me?
+ARCHER: I need a new lock on my diary?
+MALORY: That you don't like taking orders.
+ARCHER: Yeah, or having my time wasted. So, if you'll excuse me...
+MALORY: Oh, no. I will not.
+ARCHER: Excuse me?
+MALORY: No. I just said.
+ARCHER: Sorry?
+MALORY: Me too.
+ARCHER: I... wait. No. I meant...
+MALORY: I know what you meant.
+ARCHER: I... look, I'm just trying to find the bastard who killed my partner.
+MALORY: With which, perhaps, I can help you.
+ARCHER: With which... hang on. Wait, really?
+MALORY: Perhaps. But before I could help you, I would need you to help me.
+ARCHER: I'll do anything to find Woodhouse's killer. And then avenge his death.
+MALORY: Well then, Mr. Archer, what would you say if I offered you a job?
+ARCHER: I'd probably say yes. And also bourbon.
+|scene|participants:malory,archer|deaths:0|tags:|
+MALORY: Len Trexler. I assume you're familiar with him?
+ARCHER: Ha. Who isn't? He's the biggest mobster in L.A.
+MALORY: Well, maybe not for much longer.
+ARCHER: Why, is he sick?
+MALORY: Wh... no, you ass. Although you could say that his time has come.
+ARCHER: Wait. You want me to help you make a move against Len Trexler? Whose hobby is dissolving people in acid?
+MALORY: Oh, now, Trexler doesn't do the actual dissolving. That would be his enforcer, Dutch Dylan.
+ARCHER: I don't care who does the dissolving.
+MALORY: But if you help me, I can help you.
+ARCHER: Perhaps. You made that very clear.
+MALORY: Look, all I need you to do is go down to Pier 9 in Long Beach tonight and simply observe and report back.
+ARCHER: No.
+MALORY: Oh, come on. I thought you had guts.
+ARCHER: And I'd like to keep them in their current location, I.E., inside me, not melting in a 50-gallon drum of acid with my shoes and feet and face.
+[* singing off screen *]
+|scene|participants:lana|deaths:0|tags:|
+LANA: * Never know how much I love you *
+LANA: * Never know how much I care *
+LANA: * When you put your arms around me *
+LANA: * I get a fever that's so hard to bear *
+LANA: * You give me fever when you kiss me *
+LANA: * Fever when you hold me tight *
+LANA: * Fever in the morning *
+LANA: * Fever all through the night *
+|scene|participants:lana,archer,malory|deaths:0|tags:|
+LANA: (o.s.) * You give me fever *
+ARCHER: I'm in.
+MALORY: Excellent.
+ARCHER: Then find killer, uh, revenge do.
+MALORY: Careful what you wish for. You just might get it
+[* pan to Lana singing *]
+LANA: * Fever til you sizzle, what a lovely way to burn *
+|scene|participants:archer,lana,ray,krieger|deaths:0|tags:|
+ARCHER: That's some set you got on you. I mean, not your... I... I meant...
+LANA: I know what you meant.
+ARCHER: Uh, yeah. Uh, let me start over. My name's Archer.
+LANA: Lana Kane.
+ARCHER: And, I'm sorry, but have we met?
+LANA: If we had, you'd remember.
+[* drum high hat hit *]
+RAY: (o.s.) Stop it.
+ARCHER: And so, um, you're the singer here.
+LANA: Wow. And you must be an old gypsy woman.
+ARCHER: Close. I'm a private investigator. I'm doing some work for your boss.
+LANA: And apparently doing it with a fresh new take on the word "private."
+ARCHER: Can I buy you a drink?
+LANA: Hmm. Bottle of PBR.
+ARCHER: PBR. Wow. I-I would have thought your tastes were a little more, um...
+LANA: Pierre Beauvais. Rouge.
+ARCHER: Ah.
+LANA: Problem?
+ARCHER: No. Not-not when you're 25 bucks a day plus expenses.
+LANA: And what sort of daily expenses does a semi-private investigator incur?
+ARCHER: Bullets?
+LANA: Daily.
+ARCHER: Or, I don't know, maybe a surf-and-turf dinner at the Polo Lounge?
+LANA: Un-huh.
+ARCHER: And then maybe a room upstairs, at the Beverly Hills Hotel.
+LANA: Uh-huh.
+ARCHER: And then, maybe...
+LANA: I'm gonna leave you here. Between hope and despair.
+[Lana Exits]
+ARCHER: What the hell does that mean?
+KRIEGER: Before you shoot a big, salty load in your pants.
+ARCHER: Shut up. How much for the champagne?
+KRIEGER: 26 dollars.
+ARCHER: Wha... I'm not paying 26 bucks for a bottle of frustration.
+ZERK: [growls]
+ARCHER: You're lucky my ear hurts. There.
+KRIEGER: Plus tip.
+ARCHER: How about the tip of my cock?
+[* drum high hat hit *]
+RAY: (o.s.) Stop it!
+KRIEGER: So, in that scenario, would I take your penis in my hand? My mouth?
+ARCHER: Asshole. Wait, no. I mean... not... goddammit.
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: Pierre Beauvais Rouge. Hardy har har. Hey, 1933 called. They want their gold digger back. Meanwhile, I have to dip into my rainy day fund, which is barely enough to buy an extremely nice umbrella.
+[* finds Woodhouse envelope inside safe *]
+ARCHER: Wait. What the... Holy shit. Leave it to Woodhouse. Now I can find his killer and take revenge. Although... I better get moving if I'm going to make it to Long Beach in time. Okay. So, first thing tomorrow morning. Well, or probably after breakfast. After which, I just remembered I'm getting a haircut. But after that, vengeance will be mine.
+[* Archer turns back to lock the safe *]
+ARCHER: Oh, duh. Just like you always said, Woodhouse, "lock the safe, Archer, you dumb twat."
+|scene|participants:archer,dog|deaths:0|tags:drinking|
+ARCHER: I wanted to get mixed up with mobsters like Mother and Len Trexler about as much as I wanted a new hole in my head. But I meant it when I said I'd do anything to find Woodhouse's killer. Although, truth be told, I'd also do anything just to see Lana Kane again.
+[* drinks bourbon *]
+ARCHER: So here I am, headed straight into the belly of the beast. Nothing between me and death but my wits and the cold, blue steel of my .45. Ha.
+[* pans out to reveal dog *]
+ARCHER: I have no idea why I'm telling you all this. Or why I picked you up. I don't even know where you're going.
+DOG: [whines]
+ARCHER: Hopefully Long Beach.
+DOG: [barks]
+ARCHER: Well, too bad.
+|scene|participants:archer,dog|deaths:0|tags:|
+ARCHER: Because I don't need a spirit animal, and if I did, he'd be an ocelot.
+DOG: [whines]
+|scene|participants:archer|deaths:0|tags:|
+ARCHER: Okay. Observe and report. So easy, even a cop could... wait. What the...
+[* sees bugged car *]
+ARCHER: Hm. Now, what's a nice, unmarked LAPD girl like you doing in a place like this?
+[* watches guys unloading shipment *]
+ARCHER: So, what's Trexler importing? Some new, improved people-melting acid? Dammit, they're in defilade, I can't see what they're doing. I gotta get higher. That ought to do.
+[* flashbacks in and out to WWII *]
+|scene|participants:archer,trexler goon,|deaths:0|tags:|
+ARCHER: Now, that is a lovely parting gift. And who's our lucky contestant, Bob? Come on, you bent prick, look up. Dammit.
+TREXLER GOON: (o.s.) Come on, move it.
+[* sees Chinese women through binoculars *]
+ARCHER: Huh.
+TREXLER GOON: (o.s.) Let's go, let's go. Come on.
+ARCHER: Guess Trexler's not opening a Chinese restaurant. I mean, in this economy? A whorehouse, though, bet that's pretty much recession-proof.
+TREXLER GOON: Move, goddammit.
+|scene|participants:archer,pam|deaths:0|tags:|
+ARCHER: Okay, Archer, just stay calm.
+[* gun appears at Archer's head *]
+PAM: Yeah, good advice.
+ARCHER: Ow!
+PAM: Oh. Still tender, huh?
+ARCHER: What the hell are you doing here?
+PAM: Asking you the same thing.
+ARCHER: None of your damn business.
+PAM: Everything is my business.
+ARCHER: Oh. Including white slavery?
+PAM: Yes, incl... wait. What?
+ARCHER: Those girls are tied up, asshole.
+PAM: No, they're not, they're just...
+[* sees Chinese women through binocs *]
+PAM: Ah, dog dicks.
+ARCHER: Yeah, so...
+PAM: But wouldn't it be yellow slavery?
+ARCHER: Wh... I don't know, racist.
+PAM: White slavery's just as racist.
+ARCHER: What?
+PAM: No. You know, if you differentiate between, like, cotton-picking slavery...
+ARCHER: Jesus Christ...
+PAM: And then white slavery, that's...
+ARCHER: Sexual slavery, then.
+PAM: Okay.
+ARCHER: Goddammit.
+PAM: My point is I think we're both anti-slavery.
+ARCHER: Yeah, you're a regular Granville Sharp. But since I'm guessing that was your boss taking the payoff...
+PAM: But he didn't know about this part. Or any part, 'cause he wasn't here.
+ARCHER: Wow. Well, I'm sold.
+PAM: Really?
+ARCHER: No, dickhead. And neither are they.
+[* Archer pulls gun out *]
+PAM: Whoa. Look, I don't know what the hell you think you're gonna do.
+ARCHER: Well then, that makes two of us.
+PAM: What are you...
+|scene|participants:archer,pam,trexler goon|deaths:0|tags:|
+ARCHER: Oof. Well?
+PAM: Goddammit. Son of a bitch!
+ARCHER: Well, I mean...
+[* Goons pull guns *]
+PAM: So, funny story.
+TREXLER GOON: Jesus, it's the cop, Poovey.
+PAM: So, yeah. So...
+ARCHER: [yells]
+[* flashbacks in and out of WWII *]
+ARCHER: Okay. One of two things is gonna...
+[* Pam shoots three goons *]
+ARCHER: Wh-what...
+PAM: What?
+ARCHER: ...The shit?
+PAM: They knew me from work.
+ARCHEr: Ugh.
+PAM: What? You think they heard that?
+|scene|participants:barry,barry goon,pam,archer|deaths:0|tags:|
+BARRY: Because, just so I understand you, your theory is the truck backfired, whereas your theory is fireworks.
+BARRY GOON: They are Chinese.
+BARRY: What in Christ foo Yung could they possibly be celebrating?
+BARRY GOON: Who knows? They got their own calendar.
+BARRY: Go back there, you team of oxen, and...
+[* Pam appears at door *]
+BARRY: Can I help you?
+PAM: Out of the truck.
+BARRY: [laughing] Do you know whose truck this is?
+[* Archer appears at other door *]
+ARCHER: Do you know how much I don't care?
+BARRY: That's cute. No, seriously. You're making a...
+|scene|participants:archer,barry,pam|deaths:0|tags:|
+[* Barry thrown to ground *]
+BARRY: huge mistake. Huge! Do you hear me?
+ARCHER: Yes. We're right here.
+BARRY: Well, you better just kill me.
+PAM: [laughing] That's... That's what I said.
+BARRY: Because when, not if, I find out who you are, I'm going to liquefy you.
+ARCHER: Okay.
+BARRY: Same goes for those Chinese whores. So I'm serious. You better kill me.
+ARCHER: So, you're saying when I drive this truck out of here, you'd prefer I drove over your head, not your ankles.
+BARRY: Wait, what? No, no. No, I meant...
+ARCHER: I know what you meant.
+|scene|participants:barry,archer,pam|deaths:0|tags:|
+BARRY: [yelling]
+ARCHER: What?
+PAM: Nothing.
+|scene|participants:pam,archer,chinese woman|deaths:0|tags:|
+PAM: I mean, I feel like I already know the answer, but are you crazy? How are they my responsibility?
+ARCHER: Because your crooked boss took a payoff to let them off that boat.
+PAM: What am I supposed to do with them?
+ARCHER: Get 'em jobs. There are plenty of Chinese restaurants, laundries...
+PAM: Now who's racist?
+ARCHER: No. Because those are places where other Chinese people already work. They don't speak English, dumb-ass.
+CHINESE WOMAN: I do little bit.
+ARCHER: Then shut up. I'm so sorry. I can't even imagine the day you've had. God, the week.
+PAM: The life.
+ARCHER: Shut up.
+CHINESE WOMAN: Seriously.
+ARCHER: Sorry about the laundry thing. You're doing this, end of story.
+PAM: I...
+ARCHER: A story in which a Los Angeles police detective murdered three people.
+PAM: Dick
+|scene|participants:archer,chinese women|deaths:0|tags:|
+CHINESE WOMEN: Thank you very much! Thank you!
+ARCHER: Super. Now I get to go report what I observed. Then drove a truck over. So, first, maybe a drink. Or 12.
+|scene|participants:archer,malory|deaths:0|tags:|
+ARCHER: Goddammit! Goddammit. Goddammit!
+[* phone ringing *]
+ARCHER: Who the hell is this?
+MALORY: (on phone) Guess.
+ARCHER: I-I was just coming to see you.
+MALORY: Oh, goody. Because I am just on pins and needles...
+ARCHER: well...
+[* change to Malory on phone *]
+MALORY: to hear how you turned a stakeout into three dead, one crippled, and Len Trexler ready to go to war.
+ARCHER: How do you already know that?
+MALORY: And I swear to god, I've got half a mind to just kill you myself.
+ARCHER: I...
+MALORY: But the other half says you're slightly more use to me alive.
+[* Malory sees Archer through window *]
+ARCHER: If...
+MALORY: for now.
+ARCHER: I...
+MALORY: because now you owe me.
+ARCHER: My office, Archer. First thing tomorrow morning.
+|scene|participants:archer,cheryl|deaths:0|tags:|
+ARCHER: [sighs]
+CHERYL: Ahem. Mr. Archer?
+ARCHER: Depends. Who's asking?
+CHERYL: Charlotte Vandertunt, heiress to the vast Vandertunt publishing fortune. And I would like to hire you... To murder me.
+ARCHER: Okay.
+[* Archer pulls gun *]
+CHERYL: [gasps]

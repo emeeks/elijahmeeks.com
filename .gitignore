@@ -10,3 +10,6 @@ rss.xml
 !dist/images/**
 !dist/rss.xml
 !dist/misc/bluesky.swf
+!site/projects/**
+!dist/archer/**
+!dist/wars/**

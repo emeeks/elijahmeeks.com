@@ -1,0 +1,406 @@
+|episode|2|209|Placebo Effect|
+|scene|participants:krieger,archer|deaths:0|tags:drugs|
+KRIEGER: So there's your breast-cancer tumor, and the portacath, through which you take cyclophosphamate intravenously.
+ARCHER: [SPEAKS IN PORTUGUESE]
+KRIEGER: And you're taking tetraphenol orally, right?
+ARCHER: [SPEAKING IN PORTUGUESE]
+KRIEGER: [SPEAKS IN PORTUGUESE]
+ARCHER: [SPEAKS IN PORTUGUESE] I don't know, maybe it's just because I'm a badass, but chemotherapy, it's kind of a breeze.
+KRIEGER: Yeah, that's my point. Two weeks of chemo with no hair loss, and you're not experiencing any nausea?
+ARCHER: [SPEAKING IN PORTUGUESE] Which, I gotta tell you, huge fan.
+KRIEGER: Oh, yeah?
+ARCHER: Yeah, and I advocate its use. As a potential role model, I advocate it.
+KRIEGER: To combat chemotherapy-related nausea or for cannabidiol's clinically-proven ability to inhibit cancer cell growth?
+ARCHER: It does that?
+KRIEGER: Yep, and if you need more, let me know. I got a guy.
+ARCHER: Me too, Krieger. He's called a pharmacist. Yeah, and is he the same pharmacist who gave you all these chemo drugs?
+ARCHER: Well, he damn sure didn't give it to me. I mean, you would not believe how much cancer medicine costs. Those pills are like 80 bucks each, and the IV stuff is literally two grand a bag, so why the hell are you poking a hole in my bag, Krieger?
+KRIEGER: Because I want to run a few tests. And so, if the reagent turns blue...
+ARCHER: But what does that mean, is that good?
+KRIEGER: No. It means this $80 pill is 100 percent sucrose.
+ARCHER: What?
+KRIEGER: Sugar?
+ARCHER: I know what sucrose is, idiot. But there's medicine in there too, right?
+KRIEGER: Uh, no, not a trace.
+ARCHER: What--? Wait, so I've been treating my breast cancer with sugar pills?
+KRIEGER: You didn't think it was weird your chemo drugs were chewable?
+ARCHER: No, little kids get cancer.
+KRIEGER: Oh, they do.
+ARCHER: Well, what about the intravenous drug?
+KRIEGER: Right, yes, the cyclophosphamate. Hmmm.
+ARCHER: Hmm, what, Krieger?
+KRIEGER: Hmm, no, this isn't cyclophosphamate.
+ARCHER: Well, what the--? Krieger. What the hell is it?
+KRIEGER: Well, this is just an educated guess, but, um...Zima?
+ARCHER: What--?
+|scene|participants:lana,malory,archer|deaths:0|tags:|
+LANA: Oh, my God, are you serious?
+MALORY: Counterfeit cancer drugs?
+ARCHER: Yeah, basically candy corn and Zima.
+LANA: Jesus!
+ARCHER: Which is probably why I've been in a great mood.
+MALORY: But, Sterling, your tumor. All this time, it's been--
+ARCHER: Growing, I guess.
+MALORY: Oh, Sterling.
+LANA: Plus, God knows how many other cancer patients have been taking that stuff.
+ARCHER: Huh, like Ruth.
+|scene|participants:ruth,archer,pharmacist|deaths:0|tags:flashback|
+PHARMACIST: Here you go, folks. A week's supply of breast cancer chemotherapy drugs, and, uh, of course, your medical marijuana.
+RUTH: Oh, you poor thing. Does someone you love have breast cancer?
+ARCHER: Yeah. Me. Um, name's Archer.
+RUTH: Ruth. And don't you worry, dear. We can beat cancer with this medicine. Even if I can barely pay for it.
+|scene|participants:lana,malory,archer|deaths:0|tags:|
+ARCHER: Don't you worry, Ruth. I'm gonna make them pay for it.
+MALORY: What are you--? Sterling, no, you're not well. What are you going to do?
+ARCHER: Cry havoc, and let slip the hogs of war.
+LANA: Dogs of war.
+ARCHER: Whatever farm animal of war, Lana. Shut up.
+|scene|participants:lana,pharmacist,archer|deaths:0|tags:|
+PHARMACIST: [WHIMPERING]
+PHARMACIST: Oh, God.
+LANA: I think he gets it.
+ARCHER: Just film the confessions, Lana, don't editorialize. Do you get it?
+PHARMACIST: Yes. Look, please.
+ARCHER: Because I swear to God, I will strip back down and show you all over again.
+PHARMACIST: No, I get it. I get it. You have a lot of guns. And a knife.
+ARCHER: Which I'm going to push, very slowly, into your urethra.
+LANA: Ew.
+ARCHER: If you don't answer my questions. Number one.
+|scene|participants:lana,archer|deaths:3|tags:|
+ARCHER: Wow, what a pussy. I could barely even keep up, he was spilling the beans so fast.
+LANA: Well, you threatened to shove a knife up his dick hole. Which, again, ick.
+ARCHER: Well, excuse me, Lana. It's a rampage.
+LANA: Still, though. You really wanna take on the Irish mob?
+ARCHER: No, I don't. They're the ones switching out life-saving cancer drugs with candy and Zima. And why couldn't it be the Brazilian mob? [SPEAKING IN PORTUGUESE]
+[GUNSHOTS AND MEN GRUNTING]
+ARCHER: Plus, I can only assume a Brazilian mob would be a jillion times sexier.
+|scene|participants:lana,archer,paddy,mikey,tommy|deaths:2|tags:racism|
+ARCHER: Seriously, these potato heads have to be the unsexiest mob of all time.
+PADDY: You know who you're messing with, boyo? You have any idea who our boss is?
+ARCHER: Nope, but a hundred people surveyed, number one answer's on the board. Name the douchebag who's in charge.
+PADDY: Vincent Van Go fuck yourself.
+ARCHER: Hm, Vincent Van Go fuck myself. Survey says... [GUNSHOT] Ahh!
+MIKEY: Oh, Christ.
+LANA: Good Jesus, Archer.
+ARCHER: What, Lana? I said it was a rampage.
+LANA: Still, though.
+PADDY: Unh, unh. Oh, you son of a whore.
+ARCHER: Save it for the fast money round, Paddy. Hundred people surveyed, number one answer's still on the board. Name the douchebag who's in charge. Eh-ehh! Need an answer.
+TOMMY: [SPITS]
+ARCHER: Mm. Cock-flavored spit. Well, you never know what's gonna be on the board. Let me see cock-flavored spit.
+[GUNSHOT AND TOMMY SCREAMING]
+ARCHER: Guys, that's two strikes. One more and the innocent Honduran janitors get a chance to steal the bank. I'm just assuming you guys don't know what actually goes on here. I hope that doesn't sound racist. Okay, kid.
+LANA: He is a kid, Archer.
+ARCHER: Lana, you're in the isolation booth. Looking for the douchebag who's--
+PADDY: Mikey Hannity, you say one word and I'll cut your yellow heart out--
+ARCHER: Uh-uh.
+MIKEY: Oh, Christ!
+LANA: Ugh.
+ARCHER: Mikey, you gotta listen to me. I have breast cancer.
+TOMMY: Ha, ha. Breast cancer.
+ARCHER: So you'll forgive my impatience because I and a lot of other people have been trying to fight cancer with your boss' fake chemo drugs.
+MIKEY: Chemo? They just told me it was cream for male pattern baldness.
+ARCHER: Do I look like I need bald guy cream?
+MIKEY: No--
+ARCHER: Mikey, I can barely get a comb through this. It's so thick my barber charges me double. I love my hair. As I'm sure you love your kneecap.
+MIKEY: Franny Delaney. He runs everything here in Brooklyn. Numbers, protection, dope, prostitution.
+ARCHER: Victimless crimes, Mikey. Tell me about the counterfeit chemo drugs.
+MIKEY: They make the pharmacist buy the real stuff. Delaney sells it to I swear I don't know who, but they switch it with the fake stuff here. And those pricks do all the packing.
+ARCHER: What? You guys are in on this? And I was worried about sounding racist.
+LANA: Were you?
+MIKEY: They don't know what goes on here. They can't even read English. All those beaners care about is taking American jobs.
+ARCHER: Hey, relax, Hannity. It wasn't all that long ago that everybody hated the Irish for swarming over here in their potato boats and taking all the jobs.
+MIKEY: Yeah, they-- Wait, what?
+ARCHER: And I'm pretty sure-- Guys, feel free to correct me. --that "beaner" is a pejorative term for a Mexican. [ARCHER SPEAKING IN PORTUGUESE]
+ARCHER: Huh. Thought there'd be an overlap with the Portuguese.
+LANA: Well, plus, they're gagged.
+ARCHER: Still though. And third, is this the real stuff?
+MIKEY: Yeah, this is all real. Why?
+ARCHER: Because I'm way behind on my treatment.
+LANA: Wait, Archer, what are you doing?
+ARCHER: I'm sorry, Lana, did I mention I have cancer?
+LANA: I know, but now, in mid-rampage? You really think that's a good idea?
+ARCHER: Hmm. Let me see, to take my prescribed chemotherapy for my said aforementioned cancer? Yes, idiot, I do.
+|scene|participants:lana,archer|deaths:0|tags:vomit,drugs|
+ARCHER: [VOMITING] Oh, I'm sorry I called you an idiot, Lana.
+LANA: Ha, ha. Yeah?
+ARCHER: Yeah, you were totally right. Unh. Not a smart mid-rampage move.
+LANA: Ha! And you think that is?
+ARCHER: Yes, idiot. I do. Sorry. Again. I'm not myself. But you are kind of being a bitch.
+|scene|participants:lana,archer|deaths:0|tags:vomit|
+LANA: Okay, so day two of the chemo-fueled rampage, and, wow, how you holding up?
+ARCHER: Not great. As you can see, I've got wine coolers on my feet because my toenails are popping off like pogs. Fair amount of gastric distress, and, uh, scarf.
+LANA: Yeah? Well, suck it up. I tracked Delaney to an all-night poker game.
+ARCHER: Great, one second? [VOMITING]
+LANA: Ew. Unh.
+ARCHER: Ugh, I never thought I'd say this, but I really miss the Zima.
+|scene|participants:malory,ray|deaths:0|tags:drinking|
+MALORY: I mean, was I there for every single recital and lacrosse game? No. Is our adult relationship perfect? No. But I just can't even imagine life without my precious Sterling.
+RAY: And have you ever told him that?
+MALORY: What, are you kidding? No.
+RAY: Wow, really? My momma told me how much she loved me all the time.
+MALORY: Exactly. Look how you turned out.
+RAY: Uh, with high self-esteem?
+|scene|participants:pam,krieger,cyril,cheryl|deaths:0|tags:|
+PAM: What you doing, Krieger?
+KRIEGER: Well, I feel bad for Archer, so I'm making him some Portuguese flash cards.
+CYRIL: Portuguese? But isn't--? I thought Krieger was a German name.
+KRIEGER: Uber German. It means "warrior."
+CYRIL: How come you know Portuguese?
+KRIEGER: Because I grew up in Braz-- Bristol County, Rhode Island. Lot of Portuguese in Rhode Island.
+CYRIL: Where you're from.
+KRIEGER: Born and raised.
+CYRIL: Uh-huh. What's the state capital?
+KRIEGER: Of?
+CYRIL: Rhode Island.
+KRIEGER: Dallas?
+CYRIL: Aha.
+PAM: "Aha" what?
+CHERYL: It's Austin, duh.
+CYRIL: It's Providence. But I bet he knows the capital of Brazil, don't you?
+KRIEGER: I don't have to answer that. Who do you--?
+CYRIL: [SPEAKING IN GERMAN]
+KRIEGER: [SHOUTING IN GERMAN] Scheisse
+[*** Krieger runs out ***]
+CYRIL: Oh, my God.
+PAM: What the heck was that all about?
+CHERYL: Duh. I actually have no idea.
+PAM: No shit.
+CHERYL: Yeah, I don't know why I do that.
+|scene|participants:lana,archer,woman|deaths:0|tags:drugs|
+LANA: Because I don't want it in my car.
+ARCHER: What do you want me to do, Lana, just throw it out the window?
+LANA: Obviously.
+ARCHER: Oh.
+WOMAN: Aah!
+ARCHER: Ha-ha-ha. Oh. I'm gonna be sick again.
+LANA: Not in here, you're not.
+ARCHER: Then pull over, Lana.
+LANA: No, we're late. You might've missed your shot at Delaney, as it is.
+ARCHER: Well, then now, this is happening.
+LANA: Wh--? Ugh.
+ARCHER: Lana, did you see my scarf?
+LANA: Yes, Archer, I saw your scarf.
+ARCHER: All my hair fell out.
+LANA: I'm sorry.
+ARCHER: Me too. It was my fifth best feature.
+|scene|participants:ruth,archer,nurse|deaths:0|tags:flashback,drugs|
+RUTH: Oh, I think it's your sweetness.
+ARCHER: Heh, heh. Nobody's ever called me sweet before.
+RUTH: Well, you're sweet enough to come and see a sick old lady in the hospital.
+ARCHER: What? I didn't come by to see you, I'm trying to bang a candy striper.
+[BOTH LAUGH]
+ARCHER: But, uh, it's not good, huh?
+RUTH: No, dear. Afraid it's just not responding to those chemo drugs.
+NURSE: Hey, you two can't smoke in here.
+RUTH: Oh, unwad your panties.
+[BOTH LAUGHING]
+ARCHER: Yeah.
+|scene|participants:archer,lana|deaths:0|tags:|
+LANA: Archer.
+ARCHER: Ha, ha. What?
+LANA: Archer. We're here.
+ARCHER: Oh. Right.
+LANA: You good?
+ARCHER: [BREATHES DEEPLY] [PANTING] Rampage!
+LANA: [GROANS]
+ARCHER: Little help?
+|scene|participants:krieger,cyril|deaths:0|tags:|
+KRIEGER: Leave me alone. I am not a Nazi.
+CYRIL: Yeah, well, what about your father?
+KRIEGER: No, he was a scientist.
+CYRIL: Pretty sure the Nazis had scientists.
+KRIEGER: No, they didn't. That's why we-- Ahem. They lost the war. Lack of science.
+CYRIL: Well, we'll just see what Ms. Archer has to say about this Nazi beeswax.
+KRIEGER: Fine. Or, you know, not fine.
+|scene|participants:lana,archer|deaths:0|tags:|
+LANA: Because, between the cancer and the chemo, and the just shit-tons of weed--
+ARCHER: Oh, actually, yeah, good idea. Let's hang back a sec and burn one down.
+LANA: No. And I know it's not my business, but I think you might have a problem.
+ARCHER: Yeah, Lana, it's called cancer.
+LANA: And also drug abuse.
+ARCHER: Thanks, Woodsy. The Drug Owl. Now shut up and kick in the door for me. And do it badass like I would if I still had toenails.
+|scene|participants:lana,archer,whitey|deaths:4|tags:tinnitus|
+WHITEY: Shite, Joey, you call this a hand? More like a foot. A great big--
+ARCHER: Franny Delaney. Stand your ass up.
+WHITEY: Oh, you just missed him. Shame, too, because he just loves the E Street Band.
+[ALL LAUGHING]
+ARCHER: Did he just crack on my scarf?
+LANA: I think he did.
+[GUNSHOT]
+LANA: Ow! What the shit, Archer?
+ARCHER: Oh. Uh-oh.
+LANA: You idiot asshole.
+ARCHER: Sorry. Now we're even, Lana, from the time you did that to me. I am sorry, though. I know that hurts.
+LANA: Argh!
+WHITEY: Speaking of hurt, boy, you're stepping into a great big world of it. So I suggest you take your bull dyke--
+LANA: [YELLS]
+[SHOOTING]
+ARCHER: Lana! Lana!
+LANA: Aah! What?
+ARCHER: First of all, you don't have to yell, Lana. I don't have ear cancer. And second, until I find out where Delaney is, please stop shooting people.
+WHITEY: Go ahead and shoot me. Because ain't nothing in the world can make me talk.
+ARCHER: Well, heh, you say that.
+|scene|participants:lana,archer,whitey|deaths:0|tags:lanahands|
+WHITEY: [GROANING] What are you doing back there?
+ARCHER: Don't worry about what I'm doing, concentrate on what you're doing.
+WHITEY: What am I doing?
+ARCHER: Well, for starters, you can apologize to my friend for your homophobic remarks.
+WHITEY: I'm sorry, darling. I had no idea you were a gay.
+LANA: What?
+ARCHER: She's not gay, she just has big hands.
+LANA: What?
+ARCHER: Nothing. Shut up! I'm gonna assume you know the difference between an M26 and a Mark 2 fragmentation grenade.
+WHITEY: What?
+LANA: What?
+ARCHER: Oh, sorry, do you not? Heh, heh, okay. All right, the Mark 2 has kind of nubbly ridges. Do you feel those? Different circumstances, might actually feel good.
+WHITEY: Wait, son. Now, just wait a second.
+ARCHER: Another key difference is the pin.
+WHITEY: Oh, Jesus.
+ARCHER: See? The striking lever's the same, though. It's spring-loaded. Which reminds me, did you know that men can also benefit from doing Kegel exercises?
+WHITEY: [WHIMPERING]
+ARCHER: Case in point, huh? Now, where's your cancer-patient-killing boss?
+|scene|participants:lana,archer,whitey|deaths:1|tags:tinnitus|
+ARCHER: Okay, I got it, let's go.
+LANA: You're just gonna leave him with a grenade stuck up his ass?
+ARCHER: Yes, Lana, I'm on a rampage. And also kidding, it's a smoke grenade.
+WHITEY: Oh, thank--
+[LOUD BLAST AND HIGH-PITCHED BUZZING]
+LANA: Asshole.
+ARCHER: What?
+LANA: What?
+ARCHER: What? What, Lana?
+|scene|participants:lana,archer|deaths:0|tags:|
+ARCHER: What? I thought it was a smoke grenade.
+LANA: They look exactly nothing alike.
+ARCHER: What?
+[TIRES SCREECH]
+ARCHER: What are you doing? Delaney's not here.
+LANA: No, but my ENT doctor is.
+ARCHER: Do you like him?
+|scene|participants:nurse,archer|deaths:0|tags:|
+ARCHER: Because I sure do. Good bedside manner, knows all the parts of the ear. What was his name again?
+NURSE: Mr. Archer? I guess you heard about Ruth.
+ARCHER: What?
+NURSE: About Ruth. I guess you heard.
+ARCHER: What?
+NURSE: Ruth. Your friend is dead.
+ARCHER: What?
+|scene|participants:ruth,archer|deaths:0|tags:flashback,drugs|
+RUTH: Regis. I wake up early every morning and watch Regis. And that smile of his, it gets me through the day.
+ARCHER: You know what, I'm gonna start doing that, Ruth.
+RUTH: Oh, you must. Regis is the best.
+ARCHER: No, Ruth, you're the best.
+|scene|participants:lana,archer,delaney|deaths:0|tags:drugs|
+LANA: Archer.
+ARCHER: Hm?
+LANA: Archer.
+ARCHER: What? Oh.
+ARCHER: Heh. Oh, man, what have I been doing?
+LANA: Chain-smoking joints the size of tampons.
+ARCHER: Ew.
+LANA: Figure of speech.
+ARCHER: Still, though. Ew.
+LANA: You're not rampaging? I thought you were rampaging.
+ARCHER: Right, yes, here we go. All right. I got this. Franny Delaney. Let's take a walk.
+DELANEY: A walk? Is that some sort of a joke?
+ARCHER: A roll, then. Whatever.
+|scene|participants:cyril,malory,krieger|deaths:0|tags:drinking|
+CYRIL: Are you not listening to me?
+MALORY: Well, obviously not. My God, how is there not one picture of us together?
+CYRIL: Krieger's father was a Nazi scientist.
+MALORY: And JFK's father was a bootlegger.
+CYRIL: What? That's like comparing apples to Nazi oranges.
+MALORY: Oranges, exactly. Do you like powdered orange breakfast drink?
+CYRIL: No, not really.
+MALORY: How about microwave ovens, Neil Armstrong, hook-and-loop fasteners?
+CYRIL: Okay, you lost me.
+MALORY: None of those things would have been possible without the Nazi scientists we brought back after World War II.
+CYRIL: The Nazis invented Neil Armstrong?
+MALORY: Rockets. Which put him on the moon. After the war ended, we were snatching up Kraut scientists like hotcakes. You don't believe me? Walk into NASA sometime and yell, "Heil Hitler." Whoop. They all jump straight up.
+CYRIL: But--
+MALORY: Cyril, I know all about Dr. Krieger's origins. And I also know that nobody likes a tattletale.
+KRIEGER: Yeah, Cyril.
+MALORY: And if it's one thing I've learned in all my years as a spy master, it's that you keep your friends close.
+KRIEGER: Yeah, Cyril.
+MALORY: And possible genetic clones of Adolf Hitler closer.
+KRIEGER: Yeah, Cy-- Wait, what?
+CYRIL: Yeah, what?
+MALORY: Hm?
+KRIEGER: Oh, my God, it was you. My 15th birthday, you were at the compound.
+|scene|participants:malory|deaths:0|tags:flashback|
+[DOGS BARKING AND MAN SCREAMS]
+MALORY: When they finish, bring me the boy.
+[MAN SCREAMING]
+|scene|participants:krieger,malory|deaths:0|tags:|
+KRIEGER: The day my pet Dobermans accidentally ate my father.
+MALORY: Oh, Krieger.
+|scene|participants:pam,malory,cheryl|deaths:0|tags:|
+MALORY: (over intercom)  Nothing's an accident.
+PAM: Holy shit snacks. Krieger's one of the boys from Brazil.
+CHERYL: Duh! Oh, my God, seriously, I'm sorry. I think I need help or something.
+PAM: No shit.
+|scene|participants:lana,badguys|deaths:0|tags:lanahands,classic|
+LANA: One more crack about monster hands, and I promise you, I will shoot your fat Irish faces off-- I'm sorry, was that racist? I'm not mad at you, sorry, I'm mad at Archer. Thanks to him, I've got two perforated eardrums and I guess I've just been-- [GASPS] --getting hotboxed all day in my car. Shit. Which I'm trying to sell, but fat chance now. I bet it smells like weed and rampage. Damn it, that is classic him. Ooh, do you guys have any snacks?
+|scene|participants:delaney,archer|deaths:1|tags:vomit|
+ARCHER: Here. This is good, right here.
+DELANEY: For what, boyo? We having a picnic?
+ARCHER: Oh, my God, do you have snacks?
+DELANEY: No. What I have is a plane to catch.
+ARCHER: Yeah? To where? Some bigger mansion somewhere else you bought with the profits from your fake chemo drugs?
+DELANEY: Pretty much, yeah. So if you're gonna shoot me--
+ARCHER: Oh, don't worry, I'm gonna shoot you.
+DELANEY: Ha, ha. No, you're not. You're an ISIS agent. You got a sense of honor, fair play. 
+ARCHERL Ha-ha-ha.
+DELANEY: What?
+ARCHER: You obviously haven't seen my movie, uh, Terms of Enrampagement. Hang on, that was lame.
+DELANEY: You killed my men, sure. But they were armed. I'm just a sick old man in a wheelchair. You can't do it, boy. I know you.
+ARCHER: You don't know me.
+DELANEY: Ha-ha-ha. I know you better than your mother. Who I had for three days at Duc Quay.
+ARCHER: Can you, uh, go ahead and repeat that?
+DELANEY: I said, I had your mother for three days at Duc Quay.
+ARCHER: And was that, hopefully, some sort of Vietcong prison camp?
+DELANEY: Singles resort. Phuket, Thailand. Whole place ran on beads. But let me tell you, boyo, that mother of yours found a whole new way to use them.
+ARCHER: To use the beads?
+DELANEY: Oh, yeah. Boop.
+ARCHER: Ugh!
+DELANEY: And then, zing. Like an SSP racer.
+ARCHER: [VOMITS]
+DELANEY: Good times. Good-bye, Archer. Tell your mother to give me a call sometime.
+ARCHER: Delaney?
+DELANEY: Yes?
+ARCHER: Did you see Regis this morning?
+DELANEY: Yeah. Why?
+|scene|participants:lana,malory,archer,delaney,pam,krieger,cyril,cheryl|deaths:0|tags:drinking|
+DELANEY: Yeah. Why?
+MALORY: Oh, for the love of--
+ARCHER: Shut up. Shut up, here it comes. Oh, booyakasha! Right in the face. I swear to God, I could watch this, like, a million times.
+MALORY: I'd swear to God we already have.
+ARCHER: Well, that's too bad, Mother.
+MALORY: Booyakasha, booyakasha.
+ARCHER: Hey, just because he was your boyfriend--
+MALORY: What boyfriend? It was two weeks in Phuket, anything goes over there.
+PAM: Zing! Ahem. Wildly inappropriate.
+KRIEGER: Seriously, Pam.
+PAM: Okay, Clone Wars.
+KRIEGER: Zing.
+ARCHER: And, Mother, we had a deal. I supply the mimosas and the bagels and lox, and you people shut up and ingest them and watch Terms of Enrampagement.
+LANA: [GROANS]
+ARCHER: Obviously, a working title.
+LANA: We have watched it.
+CYRIL: Yeah, every Friday for the past three months.
+PAM: I'm not complaining.
+ARCHER: See? Twelve straight weeks, and Pam's still on Team Live Badass.
+LANA: Yeah, and Team Live Badass? That's the best you could come up with?
+ARCHER: Well, Lana, since you already had dibs on Team I Have An Oversized Vagina--
+LANA: Hey, shut up.
+ARCHER: You shut up. And everybody else shut up and watch Terms of Enrampagement.
+[ALL GROAN AND MUTTER]
+CHERYL: Hey, come on.
+CYRIL: Why don't you call it Magnum, P.U.?
+ARCHER: It's a working title. Idiots.
+MALORY: Liked him better when he had cancer.
+ARCHER: First of all, what the shit, Mother? And second of all, too bad, because the doctor says my cancer is in remission.
+CHERYL: Seriously, what is cancer?
+ARCHER: So I'll probably never get any sort of cancer again, ever. So shut up and watch my movie. For which I really need a better title.
+CHERYL: Oh. How about Citizen Dickbag? Snark Victory? Wait, I got it. Casablumpkin.

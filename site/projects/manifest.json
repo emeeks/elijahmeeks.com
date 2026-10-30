@@ -1,0 +1,790 @@
+{
+  "recoveredAt": "2026-10-30T05:41:38.056Z",
+  "origin": "Bluehost origin 162.241.24.62, accessed with the original hostname",
+  "archerAssets": "emeeks/archervisualization assets directory; source commit b716670cc137e96c552c022ac172f6704eb1b863",
+  "routes": [
+    "/archer/phrasing",
+    "/archer/show",
+    "/archer/guest",
+    "/archer/about",
+    "/archer/exploration",
+    "/archer/episode/101_mole_hunt",
+    "/archer/episode/102_training_day",
+    "/archer/episode/103_diversity_hire",
+    "/archer/episode/104_killing_utne",
+    "/archer/episode/105_honeypot",
+    "/archer/episode/106_skorpio",
+    "/archer/episode/107_skytanic",
+    "/archer/episode/108_the_rock",
+    "/archer/episode/109_burn_notice",
+    "/archer/episode/110_dial_m_for_mother",
+    "/archer/episode/201_swiss_miss",
+    "/archer/episode/202_a_going_concern",
+    "/archer/episode/203_blood_test",
+    "/archer/episode/204_pipeline_fever",
+    "/archer/episode/205_the_double_deuce",
+    "/archer/episode/206_tragical_history",
+    "/archer/episode/207_movie_star",
+    "/archer/episode/208_stage_two",
+    "/archer/episode/209_placebo_effect",
+    "/archer/episode/210_el_sequestro",
+    "/archer/episode/211_jeu_monegasque",
+    "/archer/episode/212_white_nights",
+    "/archer/episode/213_double_trouble",
+    "/archer/episode/301_heart_of_archness_part1",
+    "/archer/episode/302_heart_of_archness_part2",
+    "/archer/episode/303_heart_of_archness_part3",
+    "/archer/episode/304_man_from_jupiter",
+    "/archer/episode/305_el_contador",
+    "/archer/episode/306_the_limited",
+    "/archer/episode/307_drift_problem",
+    "/archer/episode/308_lo_scandalo",
+    "/archer/episode/309_bloody_ferlin",
+    "/archer/episode/310_crossing_over",
+    "/archer/episode/311_skin_game",
+    "/archer/episode/312_space_race_part1",
+    "/archer/episode/313_space_race_part2",
+    "/archer/episode/401_fugue_and_riffs",
+    "/archer/episode/402_the_wind_cries_mary",
+    "/archer/episode/403_legs",
+    "/archer/episode/404_midnight_ron",
+    "/archer/episode/405_viscous_coupling",
+    "/archer/episode/406_once_bitten",
+    "/archer/episode/407_live_and_let_dine",
+    "/archer/episode/408_coyote_lovely",
+    "/archer/episode/409_the_honeymooners",
+    "/archer/episode/410_un_chien_tangerine",
+    "/archer/episode/411_the_papal_chase",
+    "/archer/episode/412_sea_tunt_part1",
+    "/archer/episode/413_sea_tunt_part2",
+    "/archer/episode/501_white_elephant",
+    "/archer/episode/502_a_kiss_while_dying",
+    "/archer/episode/503_debt_of_honor",
+    "/archer/episode/504_house_call",
+    "/archer/episode/505_southbound_and_down",
+    "/archer/episode/506_baby_shower",
+    "/archer/episode/507_smugglers_blues",
+    "/archer/episode/508_rules_of_extraction",
+    "/archer/episode/509_on_the_carpet",
+    "/archer/episode/510_palace_intrigue_part1",
+    "/archer/episode/511_palace_intrigue_part2",
+    "/archer/episode/512_filibuster",
+    "/archer/episode/513_arrivals_departures",
+    "/archer/episode/601_the_holdout",
+    "/archer/episode/602_three_to_tango",
+    "/archer/episode/603_the_archer_sanction",
+    "/archer/episode/604_edies_wedding",
+    "/archer/episode/605_vision_quest",
+    "/archer/episode/606_sitting",
+    "/archer/episode/607_nellis",
+    "/archer/episode/608_the_kanes",
+    "/archer/episode/609_pocket_listing",
+    "/archer/episode/610_reignition_sequence",
+    "/archer/episode/611_achub_y_morfilod",
+    "/archer/episode/612_drastic_voyage_part1",
+    "/archer/episode/613_drastic_voyage_part2",
+    "/archer/episode/701_the_figgis_agency",
+    "/archer/episode/702_the_handoff",
+    "/archer/episode/703_deadly_prep",
+    "/archer/episode/704_motherless_child",
+    "/archer/episode/705_bel_panto_part1",
+    "/archer/episode/706_bel_panto_part2",
+    "/archer/episode/707_double_indecency",
+    "/archer/episode/708_liquid_lunch",
+    "/archer/episode/709_deadly_velvet_part1",
+    "/archer/episode/710_deadly_velvet_part2",
+    "/archer/episode/801_no_good_deed",
+    "/archer/episode/802_bernice",
+    "/archer/episode/803_jane_doe",
+    "/archer/episode/804_ladyfingers",
+    "/archer/episode/805_sleepers_wake",
+    "/archer/episode/806_waxing_gibbous",
+    "/archer/episode/807_gramercy_halberd",
+    "/archer/episode/808_auflosung",
+    "/archer/season/1",
+    "/archer/season/2",
+    "/archer/season/3",
+    "/archer/season/4",
+    "/archer/season/5",
+    "/archer/season/6",
+    "/archer/season/7",
+    "/archer/season/8",
+    "/archer/character/archer",
+    "/archer/character/pam",
+    "/archer/character/anka",
+    "/archer/character/barry",
+    "/archer/character/cheryl",
+    "/archer/character/conway",
+    "/archer/character/cyril",
+    "/archer/character/spelvin",
+    "/archer/character/katya",
+    "/archer/character/krieger",
+    "/archer/character/kriegers_girlfriend",
+    "/archer/character/lana",
+    "/archer/character/malory",
+    "/archer/character/ray",
+    "/archer/character/ramon",
+    "/archer/character/ron",
+    "/archer/character/seamus",
+    "/archer/character/badguys",
+    "/archer/character/bilbo",
+    "/archer/character/boris",
+    "/archer/character/brett",
+    "/archer/character/charles",
+    "/archer/character/rudi",
+    "/archer/character/framboise",
+    "/archer/character/drone",
+    "/archer/character/drones",
+    "/archer/character/trexler",
+    "/archer/character/calzado",
+    "/archer/character/jane",
+    "/archer/character/skorpio",
+    "/archer/character/woodhouse",
+    "/archer/character/veronica",
+    "/archer/character/jakov",
+    "/archer/character/rodney",
+    "/archer/character/abelard",
+    "/archer/character/crenshaw",
+    "/archer/character/launderer",
+    "/archer/character/receptionist",
+    "/archer/character/stewardess",
+    "/archer/character/irish_terrorist",
+    "/archer/character/french_woman",
+    "/archer/character/feltchley",
+    "/archer/character/captain",
+    "/archer/character/claudio",
+    "/archer/character/cleaning_ladies",
+    "/archer/character/danny",
+    "/archer/character/dealer",
+    "/archer/character/krauss",
+    "/archer/character/pita",
+    "/archer/character/ruiz",
+    "/archer/character/schmeck",
+    "/archer/character/singh",
+    "/archer/character/nadel",
+    "/archer/character/torvald",
+    "/archer/character/uta",
+    "/archer/character/mani",
+    "/archer/character/trinette",
+    "/archer/character/carlos",
+    "/archer/character/javi",
+    "/archer/character/lawyer",
+    "/archer/character/popeye",
+    "/archer/character/schlotz",
+    "/archer/character/sia",
+    "/archer/character/alligator",
+    "/archer/character/backus",
+    "/archer/character/doctor",
+    "/archer/character/gray",
+    "/archer/character/marshal",
+    "/archer/character/nurse",
+    "/archer/character/remy",
+    "/archer/character/twins",
+    "/archer/character/bishop",
+    "/archer/character/delaney",
+    "/archer/character/luke",
+    "/archer/character/mikey",
+    "/archer/character/paddy",
+    "/archer/character/pharmacist",
+    "/archer/character/reggie",
+    "/archer/character/rona",
+    "/archer/character/ruth",
+    "/archer/character/scripes",
+    "/archer/character/tommy",
+    "/archer/character/whitey",
+    "/archer/character/airman",
+    "/archer/character/benoit",
+    "/archer/character/kidnapper_one",
+    "/archer/character/kidnapper_two",
+    "/archer/character/kidnapper_boss",
+    "/archer/character/lachouffe",
+    "/archer/character/russian_mp",
+    "/archer/character/soldier_1",
+    "/archer/character/jeannie",
+    "/archer/character/babou",
+    "/archer/character/captain_archer_301",
+    "/archer/character/george",
+    "/archer/character/mounties",
+    "/archer/character/mounty_one",
+    "/archer/character/mounty_two",
+    "/archer/character/riley",
+    "/archer/character/bucky",
+    "/archer/character/burt",
+    "/archer/character/cuban_one",
+    "/archer/character/cuban_two",
+    "/archer/character/noah",
+    "/archer/character/ponder",
+    "/archer/character/janelle",
+    "/archer/character/randy",
+    "/archer/character/lt_murphy",
+    "/archer/character/mascalzone",
+    "/archer/character/moto",
+    "/archer/character/super",
+    "/archer/character/liam",
+    "/archer/character/yakuza_dudes"
+  ],
+  "files": [
+    {
+      "source": "https://elijahmeeks.com/archer/",
+      "file": "archer/index.html",
+      "sha256": "dbf8faaef45f96a6e1f1a66e0176d7332acc4b4b6f5c7bb933c517121678f753"
+    },
+    {
+      "source": "https://elijahmeeks.com/wars/",
+      "file": "wars/index.html",
+      "sha256": "242b8c8511086206ab7484697be3aedb3b3d605d7133d3fd9bd16d150aeaa6f5"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/favicon.ico",
+      "file": "archer/favicon.ico",
+      "sha256": "08854f5bde7b4886670f4e9d361e3cd199703b212ce5180e80525b8b3f4f7eb1"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/css/main.11053a75.css",
+      "file": "archer/static/css/main.11053a75.css",
+      "sha256": "c2f82c7e3b43f61b3f4e2a6be122359eaa609dd1a4d1531f786f0088bbf55a77"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/stylesheet.css",
+      "file": "archer/stylesheet.css",
+      "sha256": "ff3cf4f9b1c9164bee14bf8c074a30868c96ad1cd5ce1d1a8912278235a43724"
+    },
+    {
+      "source": "https://elijahmeeks.com/wars/d3.layout.timeline.js",
+      "file": "wars/d3.layout.timeline.js",
+      "sha256": "fb966042c543a9d0c4eb3b97e03ce36bf1caa69acc9717baef83a398fdbe7f85"
+    },
+    {
+      "source": "https://elijahmeeks.com/wars/d3.js",
+      "file": "wars/d3.js",
+      "sha256": "66f2408175cad713260337bbd61be7e4fd010b0b7b559a0a361e67533e1cf0a5"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/js/main.9640d98f.js",
+      "file": "archer/static/js/main.9640d98f.js",
+      "sha256": "c1e2cb918729d68ba91691081231d5ee652eed71b768a8400549d754d04af239"
+    },
+    {
+      "source": "https://elijahmeeks.com/wars/simple_statistics.js",
+      "file": "wars/simple_statistics.js",
+      "sha256": "3b1f3867f690c1759795f41cb9a81fb1b134f78d7b47825e05ea3bfb5a25bfe1"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/baveuse-webfont.eot",
+      "file": "archer/baveuse-webfont.eot",
+      "sha256": "7a694a50ecf79875256e6788775f07ffcdcc60d90a6e37fd8efdf9484b51f26a"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/baveuse-webfont.woff2",
+      "file": "archer/baveuse-webfont.woff2",
+      "sha256": "ab2329dd134864a0edcecf37dab420e03c114cc3e093fcc4fb59bcdbeedc79d5"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/baveuse-webfont.woff",
+      "file": "archer/baveuse-webfont.woff",
+      "sha256": "a4a210e405a28e586c7f1595d55b51f0c29fd8e27a23e807ee97238ff62be705"
+    },
+    {
+      "source": "https://elijahmeeks.com/wars/wars.csv",
+      "file": "wars/wars.csv",
+      "sha256": "902c2319c2c1205b33888ec071bce7d57deacda3f25999150fef07fa262979ff"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/baveuse-webfont.ttf",
+      "file": "archer/baveuse-webfont.ttf",
+      "sha256": "09b28b6a03003910c1b27fa6ada9beb1307d562b22bc4c9e87eef7231d1556d4"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/skull.b99b9c3c.svg",
+      "file": "archer/static/media/skull.b99b9c3c.svg",
+      "sha256": "ba5bd1ddedadbe55e022ebd039b8c4b4b5b99671b279e74b0c25abb5d5e22a78"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/baveuse-webfont.svg",
+      "file": "archer/baveuse-webfont.svg",
+      "sha256": "5b00caad09c0cf9a67fdfce2e1e715a51e83fca56824b734014a868288fb3883"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/101_mole_hunt.01aeee2f.txt",
+      "file": "archer/static/media/101_mole_hunt.01aeee2f.txt",
+      "sha256": "58b37336d2e64bb9fe09cd1016e141390c756fbbfe2295f9c073274851dbe539"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/102_training_day.6edcbc0b.txt",
+      "file": "archer/static/media/102_training_day.6edcbc0b.txt",
+      "sha256": "6b06e3a33335106f7a5263d74e954ebfe2db1a7517b9be943d92bdd4bb15b31d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/103_diversity_hire.144423cd.txt",
+      "file": "archer/static/media/103_diversity_hire.144423cd.txt",
+      "sha256": "e24114dce4d7d799e9f97bcbe74b66683cc34087ca78efefc37d8a25c1621cc1"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/104_killing_utne.d3310388.txt",
+      "file": "archer/static/media/104_killing_utne.d3310388.txt",
+      "sha256": "4173eafb5141dea922188ac1134e05b3b4fe560e57cc191ee2a495afd9d579cc"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/105_honeypot.7ca606ed.txt",
+      "file": "archer/static/media/105_honeypot.7ca606ed.txt",
+      "sha256": "4114a5a172ea2f124e1cc17410d3cbbd5fd50c8dc921f37492c87db741c84955"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/107_skytanic.a169c94e.txt",
+      "file": "archer/static/media/107_skytanic.a169c94e.txt",
+      "sha256": "1bca286e1a62f39939387185db8793cf2045423d6f4b903f0c45a13c0205f070"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/108_the_rock.54876308.txt",
+      "file": "archer/static/media/108_the_rock.54876308.txt",
+      "sha256": "b00b62abc6bdb25f11b3e8d985b4965a2f1ae37ea05db5a6ea062afd39bde18d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/106_skorpio.cb331f9f.txt",
+      "file": "archer/static/media/106_skorpio.cb331f9f.txt",
+      "sha256": "a81c13f96dbf5aac5524ea2365678f33c33d9778a474246ba2ae5fc0a9a22dbe"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/110_dial_m_for_mother.6250524a.txt",
+      "file": "archer/static/media/110_dial_m_for_mother.6250524a.txt",
+      "sha256": "bbd010a54971bd346f1a43d2dd0fa980ecceb9ec2c4ec71fb0d3d2f02573d738"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/109_burn_notice.628f485c.txt",
+      "file": "archer/static/media/109_burn_notice.628f485c.txt",
+      "sha256": "32afa3ad1127e9367a0773c0dd435b361fa4b0cf643e5bd2c0e579e5fa5eb1b3"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/201_swiss_miss.b18119fc.txt",
+      "file": "archer/static/media/201_swiss_miss.b18119fc.txt",
+      "sha256": "7656de67564b53b5f95619ed276011559a1e60a34cb1a699b9878aeb1a46dbc3"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/202_a_going_concern.3f31a303.txt",
+      "file": "archer/static/media/202_a_going_concern.3f31a303.txt",
+      "sha256": "d2576afec14947d9a122185d98d98cc4be685184c8784166e483f4f249bb9d17"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/204_pipeline_fever.5c65efee.txt",
+      "file": "archer/static/media/204_pipeline_fever.5c65efee.txt",
+      "sha256": "c7ea0f3df2453dbf62c3b5675a8491ed112420e39d6e6fed467abe55b957ad74"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/205_the_double_deuce.77eb1b3f.txt",
+      "file": "archer/static/media/205_the_double_deuce.77eb1b3f.txt",
+      "sha256": "6a38c7e2310599f15725cb07cf68e4ebf89534a2397957a5cada5a9640dbcbf0"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/203_blood_test.0817ad86.txt",
+      "file": "archer/static/media/203_blood_test.0817ad86.txt",
+      "sha256": "cfb80bd0008403f0ce39fdd5df6eb3cb4b28b01d8060127b71b78e251d1763b9"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/206_tragical_history.65bfa41f.txt",
+      "file": "archer/static/media/206_tragical_history.65bfa41f.txt",
+      "sha256": "71b5f37164d6b6eb5e5dcf8e36867edf372f00a3fc33e0e8eaa709615dcb3df4"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/207_movie_star.ed9049c1.txt",
+      "file": "archer/static/media/207_movie_star.ed9049c1.txt",
+      "sha256": "013dbf5c38b55009ebf64b5411d81c5d409a3a5bf0ef4fff74ce33a3bbf8717c"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/208_stage_two.4b813605.txt",
+      "file": "archer/static/media/208_stage_two.4b813605.txt",
+      "sha256": "629dcc5bb80c2f596d71c13c9beda290223c53edb072e675b741ea4c47affb5d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/209_placebo_effect.dfdb01b3.txt",
+      "file": "archer/static/media/209_placebo_effect.dfdb01b3.txt",
+      "sha256": "baa88a26240df6236d115a3a2348ba3a2f79ddc49f5322c14b80b4dd2aecb857"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/211_jeu_monegasque.045cb1e2.txt",
+      "file": "archer/static/media/211_jeu_monegasque.045cb1e2.txt",
+      "sha256": "28eeb573bf2fc037340a4329025103a47c6a504776a3b2c2587805ca05f1261d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/212_white_nights.8075fa94.txt",
+      "file": "archer/static/media/212_white_nights.8075fa94.txt",
+      "sha256": "b3b4be6e9bae1d3029af7c61497abfee316d7f56b85475e5eb5e1f2bfb09aa63"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/210_el_sequestro.ba1d2117.txt",
+      "file": "archer/static/media/210_el_sequestro.ba1d2117.txt",
+      "sha256": "3596c43d41888393c9e74ce1447ad7c35b250fe8762597c89614028a440fd48a"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/213_double_trouble.d16acbb7.txt",
+      "file": "archer/static/media/213_double_trouble.d16acbb7.txt",
+      "sha256": "fd5d2caa5623343d3e46e3431d4c9fde2706d4d1f905349928187a057f3eb30e"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/301_heart_of_archness_part1.176b0780.txt",
+      "file": "archer/static/media/301_heart_of_archness_part1.176b0780.txt",
+      "sha256": "01d004c66cbcdd9a447680aecc304e6653792f9c9d55f2fad1f3dd44566ae45e"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/303_heart_of_archness_part3.8511f085.txt",
+      "file": "archer/static/media/303_heart_of_archness_part3.8511f085.txt",
+      "sha256": "bb36904eb82700db82f6034b7987f314795de8b65be5841c6e6e325552cb954c"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/302_heart_of_archness_part2.9debc00d.txt",
+      "file": "archer/static/media/302_heart_of_archness_part2.9debc00d.txt",
+      "sha256": "93399c08da4d40df7e91c9ca2edf84e1d5ecf5829d0e3365092567f30085e790"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/304_man_from_jupiter.49bbb6bb.txt",
+      "file": "archer/static/media/304_man_from_jupiter.49bbb6bb.txt",
+      "sha256": "69ece45289354ba6280fb13c83d7e9445d75b070dbd8c09bedb5d28cd5ad36a2"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/305_el_contador.77fb9a19.txt",
+      "file": "archer/static/media/305_el_contador.77fb9a19.txt",
+      "sha256": "3cb584c1f2fa752be07e82287350a355e9a0484e4830d1c5d92184bde89d3049"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/306_the_limited.dff52d52.txt",
+      "file": "archer/static/media/306_the_limited.dff52d52.txt",
+      "sha256": "e09f06ae2d8a153bfcdaff4c934270182b17e87d650ba6cd29a6add24902ec7f"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/307_drift_problem.2a31bf9c.txt",
+      "file": "archer/static/media/307_drift_problem.2a31bf9c.txt",
+      "sha256": "8fc417b76b584b9a3bd30f20c6a8c9a3f7f944345da7c6e8e9c62a653651f1d7"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/309_bloody_ferlin.91aa1d26.txt",
+      "file": "archer/static/media/309_bloody_ferlin.91aa1d26.txt",
+      "sha256": "ae20340d58548483825844ede9fca77df054ed8c254c7af7f411f5fe10976965"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/308_lo_scandalo.4fa6be7f.txt",
+      "file": "archer/static/media/308_lo_scandalo.4fa6be7f.txt",
+      "sha256": "a1df69fb94dbcac8bfda00959fca8640382f407136acefc4908aa62051a5c5c7"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/310_crossing_over.a1875d7f.txt",
+      "file": "archer/static/media/310_crossing_over.a1875d7f.txt",
+      "sha256": "1df6885aac5c539c31798a0bf0111b11f45dcb5ba49c1de901658a869a07e699"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/311_skin_game.182190ed.txt",
+      "file": "archer/static/media/311_skin_game.182190ed.txt",
+      "sha256": "7bd3b4989d8f85b08c48f9f6d1c593e3bbd0d646b2429805bf73f852f251d9a9"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/312_space_race_part1.031fa436.txt",
+      "file": "archer/static/media/312_space_race_part1.031fa436.txt",
+      "sha256": "5c0bb05fb37d9d85436dd643519e9a3d6d70cf955f57f63344b8809701504606"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/313_space_race_part2.4f8b5633.txt",
+      "file": "archer/static/media/313_space_race_part2.4f8b5633.txt",
+      "sha256": "eea554d158d0d3077edc1c1b097af99316a3640cd4940dc6881d3b502b64ec84"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/401_fugue_and_riffs.f6b72a3b.txt",
+      "file": "archer/static/media/401_fugue_and_riffs.f6b72a3b.txt",
+      "sha256": "0a4b784b1b3919655057eb5016e855fba59a49f3e8d0dcf1dd24fa5b26bcc20a"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/402_the_wind_cries_mary.f6cfa703.txt",
+      "file": "archer/static/media/402_the_wind_cries_mary.f6cfa703.txt",
+      "sha256": "0bf31554b5be2f39da1aa9758a1ee0029a008627b49c7d036efacb5b4e847ff5"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/403_legs.d8384309.txt",
+      "file": "archer/static/media/403_legs.d8384309.txt",
+      "sha256": "5180de6dd0d74fab35f9fbb4d8951031b4261f647959acfb01a074fc35589983"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/404_midnight_ron.f2d1d05e.txt",
+      "file": "archer/static/media/404_midnight_ron.f2d1d05e.txt",
+      "sha256": "20d07c820ded07aeb0679faecdc95b5bd3d8f526d017fc5f85609cdb2b4bd57b"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/405_viscous_coupling.632dbd67.txt",
+      "file": "archer/static/media/405_viscous_coupling.632dbd67.txt",
+      "sha256": "559912e4630a9c607ac9218846c82a9df33625658269df2041702c605125b0a1"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/406_once_bitten.478a643e.txt",
+      "file": "archer/static/media/406_once_bitten.478a643e.txt",
+      "sha256": "e6cee61a56e928cfb2a995e13c3bbd07838b35929be9828be5ad39ec5bb04d05"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/407_live_and_let_dine.b64789d0.txt",
+      "file": "archer/static/media/407_live_and_let_dine.b64789d0.txt",
+      "sha256": "2af8572996f3180e7cecb662cea5d001fb4715fb651892d6bbe4a26b138d7332"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/408_coyote_lovely.a3d3b320.txt",
+      "file": "archer/static/media/408_coyote_lovely.a3d3b320.txt",
+      "sha256": "b72965497237d952e86c35267609c0a8dfa9634a28c9145d32c51c27365c2bba"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/409_the_honeymooners.842bf4b6.txt",
+      "file": "archer/static/media/409_the_honeymooners.842bf4b6.txt",
+      "sha256": "e6f62190824ff02056849a6db976cdd3e1a8ce0ef4de97804d330830e2c87fed"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/410_un_chien_tangerine.125b3de4.txt",
+      "file": "archer/static/media/410_un_chien_tangerine.125b3de4.txt",
+      "sha256": "add4a5e3ba7244d218f886b7f8cf89f9ed6cc54bd0fe60f834cf2f1ab3a7ee23"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/411_the_papal_chase.9564b4a3.txt",
+      "file": "archer/static/media/411_the_papal_chase.9564b4a3.txt",
+      "sha256": "494cc02053c945a077c18beaa17cd4cd600a3ac9e303488b82789eb8277e578b"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/501_white_elephant.d236f274.txt",
+      "file": "archer/static/media/501_white_elephant.d236f274.txt",
+      "sha256": "295fabf3c70dc40530ae222a49a349b992adbdde9f59251c2f1fc288416b4a1d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/412_sea_tunt_part1.4e6e66af.txt",
+      "file": "archer/static/media/412_sea_tunt_part1.4e6e66af.txt",
+      "sha256": "cc04af0e7fcf7e3aca5ae887f0619db6587c68533a2ef3d79990881671d5a250"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/413_sea_tunt_part2.ca6e83f0.txt",
+      "file": "archer/static/media/413_sea_tunt_part2.ca6e83f0.txt",
+      "sha256": "8dba7bf4a2f721e4d1a3b42f1179097248ded1594c018dcc2da8b29e4868b842"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/503_debt_of_honor.502d61bf.txt",
+      "file": "archer/static/media/503_debt_of_honor.502d61bf.txt",
+      "sha256": "9b35cb1e5562d94cedae070e6afd304550601631632a274d777c8e1b7e60ecaa"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/502_a_kiss_while_dying.9b77bfaf.txt",
+      "file": "archer/static/media/502_a_kiss_while_dying.9b77bfaf.txt",
+      "sha256": "6d154176b67567e1febbf5f252d73eba64dbcf81b4659618d81a17bee8b99d6c"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/504_house_call.17d8279a.txt",
+      "file": "archer/static/media/504_house_call.17d8279a.txt",
+      "sha256": "a1ba39798ce9028c62530ac7f198adb2f9bb60454ccbba7ff9d52ca7eee466f2"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/506_baby_shower.dbf14b1c.txt",
+      "file": "archer/static/media/506_baby_shower.dbf14b1c.txt",
+      "sha256": "54252524d84a45ebb26c0b1adfa456f9cfd2189473b8e6afcc9e5a912200e625"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/505_southbound_and_down.daa845d5.txt",
+      "file": "archer/static/media/505_southbound_and_down.daa845d5.txt",
+      "sha256": "ba117dc0acacba0700a8d3dc7af552af0d388292fb88e60a4656e6f48bdc8bd1"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/507_smugglers_blues.f99843de.txt",
+      "file": "archer/static/media/507_smugglers_blues.f99843de.txt",
+      "sha256": "1446160cb9c3b8b3d6e644e8c6bd9739440b9cabd2a3bcda8ccb886b85310b10"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/508_rules_of_extraction.d31e3266.txt",
+      "file": "archer/static/media/508_rules_of_extraction.d31e3266.txt",
+      "sha256": "57dc921d1832829a38d665e499f510b5282d1d63251b576eb27f5ba83f28399b"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/509_on_the_carpet.ab980b10.txt",
+      "file": "archer/static/media/509_on_the_carpet.ab980b10.txt",
+      "sha256": "3c2baee963a560eb648f594fb73f5961acd97a22372a8d6bf2289abc7db658af"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/510_palace_intrigue_part1.2c880e76.txt",
+      "file": "archer/static/media/510_palace_intrigue_part1.2c880e76.txt",
+      "sha256": "0f747d10db9a8db2af527ac1f901cd3371ceddbc3e7faabb287ebffdba631ed0"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/511_palace_intrigue_part2.a4e3f5d1.txt",
+      "file": "archer/static/media/511_palace_intrigue_part2.a4e3f5d1.txt",
+      "sha256": "b38a7ab6ea5225cf4262606d0cbe94cc9c18880a7b6ad76cc05c511680866204"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/512_filibuster.bafa9c05.txt",
+      "file": "archer/static/media/512_filibuster.bafa9c05.txt",
+      "sha256": "1a3c9ee49a181dcf3ffb5006165efd9379f033be9abf1d78164d875ac76b9ac2"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/513_arrivals_departures.eec5f745.txt",
+      "file": "archer/static/media/513_arrivals_departures.eec5f745.txt",
+      "sha256": "7660fc6e9c6af563f76f327ca8893bc1ddfadb62c585067361d1f4a63aea2098"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/601_the_holdout.fa8ebc45.txt",
+      "file": "archer/static/media/601_the_holdout.fa8ebc45.txt",
+      "sha256": "b0806b734de4f5ae108529a11907b394b0dca7383eea2bd2427ed954cfff5d40"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/602_three_to_tango.b20a5048.txt",
+      "file": "archer/static/media/602_three_to_tango.b20a5048.txt",
+      "sha256": "9080a7f8f97aa486d98c78952ca70775659b374b22404378c4db21d9bf889fc7"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/603_the_archer_sanction.44ec1b69.txt",
+      "file": "archer/static/media/603_the_archer_sanction.44ec1b69.txt",
+      "sha256": "548c5de9ab33c26e51fc0c8c95fcaa1ff1a0d8a2d3e8e5ece2a811807205a347"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/604_edies_wedding.494bdca1.txt",
+      "file": "archer/static/media/604_edies_wedding.494bdca1.txt",
+      "sha256": "cedf93e992db135bebdc8be3d5f49e90118116130b091ff974894803b97a5f93"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/605_vision_quest.be4541d7.txt",
+      "file": "archer/static/media/605_vision_quest.be4541d7.txt",
+      "sha256": "6f3f2a8fa1e42eebe7f83d9517f4e1c90e3fd85d988a4ca1451c939c3cada492"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/606_sitting.160f7cbd.txt",
+      "file": "archer/static/media/606_sitting.160f7cbd.txt",
+      "sha256": "1346c6f73ab582b279080547135d0b862fec51ecae3036969200a37b7ec8e7c7"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/607_nellis.60919b66.txt",
+      "file": "archer/static/media/607_nellis.60919b66.txt",
+      "sha256": "fb3e7615f0cf93cc9e5cce774925e3665246661e93f217d9e9fc11183f9ae136"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/608_the_kanes.a28c587d.txt",
+      "file": "archer/static/media/608_the_kanes.a28c587d.txt",
+      "sha256": "4278ef196a27c0f080436b1b542338c07f95e626eff27173587c8e6557746190"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/610_reignition_sequence.32ba79b6.txt",
+      "file": "archer/static/media/610_reignition_sequence.32ba79b6.txt",
+      "sha256": "d563c75c1fdfe87185de7ca38247533e743d48d109a7868d172ace0be6320227"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/611_achub_y_morfilod.78c137f0.txt",
+      "file": "archer/static/media/611_achub_y_morfilod.78c137f0.txt",
+      "sha256": "414e1271f84dc513a6eb7c4d29a17e1ecb6a1053cc81c225bb6fe6aae014b652"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/609_pocket_listing.119ff38e.txt",
+      "file": "archer/static/media/609_pocket_listing.119ff38e.txt",
+      "sha256": "2c7eb2b2b2ec9194ec19f2f7ae274b0b659f04afdd1c1fbe9f961a8fcc8c5dca"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/612_drastic_voyage_part1.792cc732.txt",
+      "file": "archer/static/media/612_drastic_voyage_part1.792cc732.txt",
+      "sha256": "97488fd3d5d4858df8e5606d47e61d009e8257937e445439aa03bd75c268b7c8"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/613_drastic_voyage_part2.1ffe8740.txt",
+      "file": "archer/static/media/613_drastic_voyage_part2.1ffe8740.txt",
+      "sha256": "becca545a4f2d7c98b324912b0744d926f2a857b7f272932bc8094768469e2a0"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/701_the_figgis_agency.eaea672d.txt",
+      "file": "archer/static/media/701_the_figgis_agency.eaea672d.txt",
+      "sha256": "87326a99f28577c177773f54f268cde796b57d7c963b01e7f2a14ceb77acd81d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/702_the_handoff.efdb78ff.txt",
+      "file": "archer/static/media/702_the_handoff.efdb78ff.txt",
+      "sha256": "72e2900b9bf2523c226c05ad0fe3d7f7b041051f4922e05a85f8c9086c4d2b2e"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/703_deadly_prep.cb989647.txt",
+      "file": "archer/static/media/703_deadly_prep.cb989647.txt",
+      "sha256": "2acd31268b7334844b3f1b6cb67a9ed3ec07f2488bab738c9d8dfcddd3c35570"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/704_motherless_child.20fae4d6.txt",
+      "file": "archer/static/media/704_motherless_child.20fae4d6.txt",
+      "sha256": "1bd530055e91169eeefc9096ce95622462a626fe2a72eb14436ded78a4bb37fb"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/705_bel_panto_part1.8d5eee60.txt",
+      "file": "archer/static/media/705_bel_panto_part1.8d5eee60.txt",
+      "sha256": "97aeca1eabe87664f9ad0c5ef7d91a21ea1e19f69ee3e29f8e239ac2f88bc11f"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/706_bel_panto_part2.db85f0b2.txt",
+      "file": "archer/static/media/706_bel_panto_part2.db85f0b2.txt",
+      "sha256": "b4d6a36c8a87c6d069be72ac27bedfd4b6c093db22ae0cf7a97df1423247d66d"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/707_double_indecency.ade8793a.txt",
+      "file": "archer/static/media/707_double_indecency.ade8793a.txt",
+      "sha256": "c7a80c35713a26d9fd2f229a7f16f2e34a849cefc4353a6bb2829ee869c76fd4"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/709_deadly_velvet_part1.c804af19.txt",
+      "file": "archer/static/media/709_deadly_velvet_part1.c804af19.txt",
+      "sha256": "10f1268e2bc10511403ba5c746c859edff2bf8296dc6c18c2a95d857b3f77b15"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/708_liquid_lunch.d6bf9dad.txt",
+      "file": "archer/static/media/708_liquid_lunch.d6bf9dad.txt",
+      "sha256": "b4cd89b1958396b3d182ff9118d5025123d5693a73c8f0bdc519a9425925e289"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/710_deadly_velvet_part2.d72bd640.txt",
+      "file": "archer/static/media/710_deadly_velvet_part2.d72bd640.txt",
+      "sha256": "2797a4c97b9d3be08df4ce2f25462717318156ff5a48ca64fc1bc695b4035b6e"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/801_no_good_deed.425bbe00.txt",
+      "file": "archer/static/media/801_no_good_deed.425bbe00.txt",
+      "sha256": "6f799807751030793cc4b13935e8e3cea8be369eb05b4e9a2609574fda917d47"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/802_bernice.0a9547d6.txt",
+      "file": "archer/static/media/802_bernice.0a9547d6.txt",
+      "sha256": "28bd7f64448f66e04dfb7258d7e145ed0879c821d0baaf34fc05125fcb7bd755"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/803_jane_doe.6a4f2b96.txt",
+      "file": "archer/static/media/803_jane_doe.6a4f2b96.txt",
+      "sha256": "7589d35286417740098e387e1e819247271f6e5d29b5c9c86b0ce373e63ae7dc"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/804_ladyfingers.fcdb37ff.txt",
+      "file": "archer/static/media/804_ladyfingers.fcdb37ff.txt",
+      "sha256": "e2c999722dffb0fb8efde80e3a3010d5cf453ac3c7ade71fab6be1e06115afae"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/806_waxing_gibbous.406f8e24.txt",
+      "file": "archer/static/media/806_waxing_gibbous.406f8e24.txt",
+      "sha256": "b6de0f0c20a748fab6a47908856cdbc6e0e36f9a798591522bae19f6140ba7c2"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/805_sleepers_wake.cca85e80.txt",
+      "file": "archer/static/media/805_sleepers_wake.cca85e80.txt",
+      "sha256": "c2b659db2d063c348cf7b7a37de77676a5e88156c98af2a0c206262d94edb709"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/807_gramercy_halberd.c5bc56c7.txt",
+      "file": "archer/static/media/807_gramercy_halberd.c5bc56c7.txt",
+      "sha256": "e0979d0622203ecb7fc066181990ac382c69a62110fe58ee67ac6e512ce40601"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/808_auflosung.8df9f7a1.txt",
+      "file": "archer/static/media/808_auflosung.8df9f7a1.txt",
+      "sha256": "8d853d6ad61dabea4b641c748df3606a2a8539a65045b010a70c8e6ece15a494"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/elijah.a2d4aa33.jpeg",
+      "file": "archer/static/media/elijah.a2d4aa33.jpeg",
+      "sha256": "68f36460e9cbee40e75edcb1b32a4db394d8c3bd516d632af3c5c884929d8e6a"
+    },
+    {
+      "source": "https://elijahmeeks.com/archer/static/media/mara.e6529458.jpg",
+      "file": "archer/static/media/mara.e6529458.jpg",
+      "sha256": "c6e6ac2b376449927b1d08b007e9cd28295c80bd227e1ff5dc444a2a2de07694"
+    }
+  ],
+  "changes": [
+    "Preserved the original deployed Archer application and episode data.",
+    "Changed GIF URLs to use the restored /archer/assets directory.",
+    "Made Archer entry asset URLs absolute so deep links work.",
+    "Added a viewport declaration and removed the unavailable Wars social thumbnail reference.",
+    "Removed the retired Universal Analytics tracker from Wars."
+  ]
+}

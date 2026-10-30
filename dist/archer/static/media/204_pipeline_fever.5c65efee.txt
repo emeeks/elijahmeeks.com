@@ -1,0 +1,451 @@
+|episode|2|204|Pipeline Fever|
+|scene|participants:archer,lana,stewardess,marshal,gray|deaths:0|tags:drinking,burt|
+[ARCHER SIGHS]
+ARCHER: Oh, man, is this great?
+LANA: No, Archer.
+ARCHER: Was that rhetorical? And also was that?
+LANA: Archer.
+ARCHER: Answer— yes. They both were, because New Orleans is my kind of town and I haven't had a vacation in forever.
+LANA: Well, that's great but--
+ARCHER: NOLA. The Crescent City, the Big--Easy.
+LANA: Our mission is to stop an eco-terrorist from blowing up the biggest natural gas pipeline in North America, so I wouldn't exactly call it a vacation.
+ARCHER: Whatever. Working vacation.
+LANAL Ugh.
+ARCHER: Because I'm not too worried about some drum-circling, hippie tree hugger.
+STEWARDESS Sir, can you find your seat for me?
+ARCHER: Uh, yeah, it's right there. Can you go find some more hurricanes for me?
+STEWARDESS: Ugh.
+LANA: Hippies aren't the only people who care. Like, I happen to care. A lot. And so does our target, Joshua Gray, a.k.a. Gandalf.
+ARCHER: His name's Gandalf? And he's not a hippie?
+LANA: Gray's an ex-Green Beret and he's attacked nuclear power plants, hydroelectric dams, whaling ships--
+ARCHER: Whaling ships? What, he's against clean-burning lamp oil? Would you relax? We know he's gonna attack the pipeline and we know where the pipeline is.
+LANA: Running through a couple hundred miles of marshy wetlands.
+ARCHER: So mobility will be key, Lana. And how will we achieve mobility? Huh?
+LANA: An airboat.
+ARCHER: An airboat, Lana. Like Burt Reynolds in White Lightning.
+LANA: Great, just--
+ARCHER: Not to mention Gator.
+LANA: Archer.
+ARCHER: Which, even though it's the sequel, I think is the stronger of the two.
+LANA: Just try to keep a low profile. We could scare off Gray if we don't maintain the element of surprise.
+ARCHER: Hey, here's a surprise. Hermès. And here's another one. Remember Jerry Reed's character in Gator?
+LANA: No.
+ARCHER: Bama McCall?
+LANA: No.
+ARCHER: Well, whatever, check this out, I sto-- Borrowed it from Woodhouse.
+LANA: Archer, what the shit?
+ARCHER: Right? It's just like in Gator.
+MARSHAL: Gun! gun!
+ARCHER: Wha--?
+MARSHAL: Drop it! drop it!
+ARCHER: You drop it.
+ARCHER: Lana, hijacking.
+LANA: Damn it, it's not a hi--
+STEWARDESS: [SCREAMING]
+ARCHER: Oh, great, there better be more of those.
+MARSHAL: Sky marshal, drop your weapon!
+ARCHER: Oh, okay, relax. It's okay, we're--
+LANA: Da, da-da-da--
+ARCHER: Sterling Archer and Lana Kane of ISIS, and we're on a mission to stop an eco-terrorist...
+LANA: Da-da-da.
+ARCHER: ...from blowing up a gas pipeline.
+LANA: [SIGHS]
+ARCHER: So for the love of God, woman, go make me a fresh batch of hurricanes!
+LANA: Great. Way to keep a low profile.
+ARCHER: Thanks. [CHUCKLES]
+|scene|participants:archer,lana,backus|deaths:0|tags:|
+BACKUS: This is the AmPetCo gas pipeline.
+ARCHER: Uh huh
+BACKUS: Runs right underneath these swamps, supplying almost 20 percent of America's liquid natural gas demand.
+ARCHER: Right.
+BACKUS: But there's a pig launcher here.
+ARCHER: Is that what it sounds like?
+BACKUS: It's a pipe inspection gauge for cleaning the pipeline.
+ARCHER: Uh huh
+BACKUS: It's the only section above ground, so if Gray wants to attack our pipeline--
+LANA: He'll have to do it there.
+ARCHER: Right.
+LANA: So we'll set up a defensive perimeter at the launcher and catch him when he tries.
+ARCHER: Well, wait, hang on a second.
+ARCHER: (on phone) Can I get the oyster po' boy and just like a side of crawfish étouffée? I'm not sure I'm gonna like it.
+LANA: Archer. Archer.
+ARCHER: Just an entrée? Okay. Uh...
+LANA: Archer.
+ARCHER: Okay, so, the po' boy, the-- Hello? Wow, speaking of disastrous--
+LANA: Speaking of shut up.
+ARCHER: I just places three quarters---
+LANA: Think about what will happen to those wetlands if that pipeline explodes.
+BACKUS: Screw the damn swamps, think of what'll happen to AmPetCo's profit margin.
+LANA: What?
+|scene|participants:malory,cyril,pam|deaths:0|tags:|
+MALORY:  Big money. Huge tax credits from that hippie Democrat Congress just for making a few simple changes around here.
+CYRIL: A lot of these aren't so simple. Replacing all the lights with high-efficiency fluorescents, putting low-flow fixtures on plumbing.
+PAM: Recycling old batteries.
+MALORY: Exactly. Don't we do that already?
+PAM: Um...
+|scene|participants:pam,cheryl|deaths:0|tags:flashback|
+[GARBAGE DISPOSAL WHIRRING]
+CHERYL: I don't even understand why we have a car battery!
+|scene|participants:malory,cyril,pam|deaths:0|tags:|
+PAM: Pretty much.
+MALORY: Good. Because I'm not leaving money on the table. So to get these freebie socialist tax credits we are going to make this place lean and green.
+|scene|participants:lana,backus,archer|deaths:0|tags:drinking|
+LANA: Typical corporate bullshit. Thirty acres of wetlands disappear every single day, but all you care about is how much gas you pump out.
+BACKUS: Hey, we're just supplying a demand.
+LANA: Yeah, AmPetCo's demand for huge profits.
+BACKUS: Well, some of those huge profits are paying ISIS to protect that pipeline.
+LANA: Which I'm only doing for the wetlands.
+BACKUS: Wetlands, profits, whatever.
+ARCHER: Yeah, sounds like a win-win.
+BACKUS: Just get out there and do your job.
+LANA: Yeah, I will. If you will excuse me.
+[DOOR SLAMS]
+ARCHER: I should go with her. I don't think room service is coming.
+|scene|participants:remy,archer,lana|deaths:0|tags:|
+REMY: Should have called first. That's the only airboat around for 50 miles, and it reserved.
+ARCHER: What do you mean?
+REMY: Is that not self-explanatory?
+LANA: Look, this is kind of an emergency. Can't we work something out?
+REMY: Maybe. If you use that money to buy a time machine, go back and be the first person to reserve that boat.
+ARCHER: You sure about that?
+REMY: Yup.
+ARCHER: That's good, because I've waited my entire life to say this exact phrase. I'm commandeering this airboat.
+|scene|participants:lana,remy,archer|deaths:1|tags:|
+LANA: Sorry.
+ARCHER: Whoo!
+LANA: It really is an emergency.
+ARCHER: Of an awesome and ass-kicky nature.
+REMY: And some damn guard dog you is. Annie? Annie. Well, that's just great. Now both my dogs is dead. [SOBS]
+|scene|participants:cheryl,pam,cyril|deaths:0|tags:|
+CHERYL: Stupid efficient Canadian light bulbs. I can barely even see what I'm doing.
+PAM: What are you doing?
+CHERYL: I need six more of these.
+PAM: Why do you need seven?
+CHERYL: One for each cat, duh.
+CYRIL: For God's sake, Pam. Have you no sense of decency? That bathroom's like a war crime.
+PAM: Don't blame me, it's those new low-flow toilets. With the old ones you could flush a dachshund puppy. I mean, not that you would, but--
+CYRIL: Next time use the--
+CHERYL: Da-da-da--
+CYRIL: Women's restroom.
+CHERYL: Da--
+PAM: The what?
+CHERYL: Thanks, Cyril.
+|scene|participants:lana,archer|deaths:0|tags:|
+ARCHER: Whoo-hoo! Airboat! Oh, man! Seriously, this must be what it's like to have sex with me.
+LANA: How can an airboat be selfish?
+ARCHER: Nope, can't hear you. I'm too happy.
+LANA: You can't hear me because you're redlining the engine.
+ARCHER: Oh, thank you, certified airboat mechanic. Now, where's this pig launcher thing?
+LANA: This heading, one mile.
+ARCHER: Whoo!
+LANA: I'm serious, Archer, if you don't slow down--
+ARCHER: I'll keep feeling this incredibly vibrant and alive?
+LANA: Yeah, until you blow the damn engine, so--
+ARCHER: Lana! I'm not gonna blow the-- [SCREAMS]
+LANA: [CLEARS THROAT] Ahem.
+ARCHER: Yeah, try clearing your throat about a jillion more times, Lana, see if that helps.
+LANA: [CLEARS THROAT]
+ARCHER: No? Nothing?
+|scene|participants:lana,archer|deaths:0|tags:|
+ARCHER: No, no, by all means, let me do this, Lana. You just sit there like the African Queen.
+LANA: The African Queen was the boat.
+ARCHER: No, it wasn't it was Audrey--
+LANA: Katharine.
+ARCHER: Whichever Hepburn. She was the queen.
+LANA: Of Africa.
+ARCHER: Yeah.
+LANA: The white queen of Africa.
+ARCHER: Yeah, back then, Hollywood was pretty weird about the whole race thing. Like Amos and Andy were white, a white guy played Charlie Chan.
+LANA: Archer.
+ARCHER: Pretty sure Tonto was a Jew.
+LANA: Stop.
+ARCHER: What? Gator?
+LANA: Talking. But I do really wish there was a gator.
+ARCHER: Hey, come on, not even as a joke, Lana.
+LANA: It so wasn't.
+ARCHER: Look I said I was sorry.
+LANA: Tell this wildlife you're sorry when the pipeline blows because we're not there to protect it.
+ARCHER: A, all this wildlife can suck it. Everything out here either wants to eat me or give me malaria. And B...
+LANA: Oh.
+ARCHER: No thanks to you, Queen Audrey.
+LANA: Would you just--?
+ARCHER: Yeah.
+[GROANS]
+LANA: Okay, let's set up a defensive perimeter.
+ARCHER: Right after I set up the grill.
+LANA: Dammit Archer! Will you just--?
+ARCHER: Hey, I just dragged this damn boat through a mile of my three biggest fears, so I think I've earned a kebab.
+|scene|participants:malory,krieger|deaths:0|tags:|
+MALORY: Well, too bad.
+KRIEGER: But--
+MALORY: Your lab uses more electricity than the rest of ISIS put together.
+KRIGER: Yes, and I need every single watt.
+MALORY: No, we all have to pitch in to make ISIS green. Look at me, chopping ice for a Tom Collins like a field hand.
+KRIEGER: But I--
+MALORY: Ooh. Or do I want a mint julep?
+KRIEGER: But the slightest reduction of power could put lives at risk.
+MALORY: Lives of what, a few lab rats?
+|scene|participants:kriegerclones|deaths:0|tags:|
+[BEEPING]
+|scene|participants:malory,krieger|deaths:0|tags:|
+KRIEGER: Also, yes.
+|scene|participants:lana,archer|deaths:0|tags:drinking|
+LANA: Yeah, good, great idea. Do the one thing that could possibly make it hotter.
+ARCHER: You gotta sear them first, it locks in the flavor. And if you're hot, and also somewhat bitchy, drink a beer.
+LANA: I don't want a beer, Archer, I want water.
+ARCHER: Your funeral. God knows what kind of parasites are swimming around in it.
+LANA: Not swamp water, you ass. Bottled. Oh, you are shitting me.
+ARCHER: I know, right? A rainbow should shoot out every time you open it.
+LANA: You didn't bring any water?
+ARCHER: Where would I put it?
+LANA: Great, I'll just wait half an hour for a cup of ice to melt.
+ARCHER: Don't. Don't...
+LANA: Ow! Shit.
+ARCHER: ...touch it.
+LANA: What the fucking shit is this?
+ARCHER: No, no, no. Lana. It's dry ice.
+LANA: Ow! [BLEEPING]
+ARCHER: Hurry, put your hands in the swamp.
+LANA: [GROANS] [WHIMPERING] [SQUEALS]
+ARCHER: How you doing, buddy?
+|scene|participants:lana,archer|deaths:0|tags:drugs|
+ARCHER: Because dry ice is something crazy, like, negative a hundred degrees.
+LANA: I need you to not talk to me.
+ARCHER: I know. And I know you're in a lot of pain, so just try to relax.
+LANA: Why are you still talk--? Ow!
+ARCHER: And say hi to Sister Morphine.
+LANA: Morphine? Damn it, I don't need... [SIGHS]
+ARCHER: Yeah?
+LANA: Yeah. That actually feels way better.
+ARCHER: Good, then get up. You're sitting on the beer.
+|scene|participants:lana,archer|deaths:0|tags:drinking|
+LANA: All right, so wait a second. What are your three biggest fears?
+ARCHER: Nope.
+LANA: Come on.
+ARCHER: No, hush, I'm trying to fish.
+LANA: No, don't shoot the fish. Come on, this is a very fragile ecosystem.
+ARCHER: Too fragile to spare one trout?
+LANA: No, but--
+ARCHER: Or bass or whatever. What's in here?
+LANA: Nothing soon, if people like you keep destroying the environment.
+ARCHER: What? It's one lousy fish.
+LANA: One lousy black rhino, one lousy Bengal tiger.
+ARCHER: One lousy Lorax. Since when are you such a radical environmentalist?
+LANA: I'm not radical. Well, I mean not anymore. But back in the day...
+|scene|participants:lana,protesters,protester,malory|deaths:0|tags:flashback|
+PROTESTERS:  Fur is murder!   Fur is murder! Fur is murder!
+PROTESTER: There's one. Get her. Go, go, go!
+LANA: How's it feel to be a murderer?
+MALORY: Shall we find out?
+PROTESTERS: [ SCREAMING]
+LANA: Lady, you don't scare me.
+MALORY: Dear, this is a .44 Magnum. You're really not scared, are you?
+LANA: No.
+MALORY: Then how would you like a job?
+|scene|participants:lana,archer,alligator|deaths:0|tags:burt|
+LANA: Three weeks later I was in Tunisia, killing a different man.
+ARCHER: Heh, heh, heh.
+LANA: And how and why is that funny?
+ARCHER: Not that. I forgot about that afro.
+LANA: You know what?
+ARCHER: You looked like Angela Davis had a lovechild with "Sweet" Lou Dunbar.
+LANA: Shut up.
+ARCHER: You shut up. I'm trying to catch us dinner.
+LANA: If you'd brought enough food--
+ARCHER: I wouldn't have beer. And since I can't catch beer--
+LANA: Or a fish.
+ARCHER: Yes, I can. Burt Reynolds is my spirit guide.
+LANA: Did you say "man crush"?
+ARCHER: I'm pretty sure it was "shut up."
+LANA: What are your three biggest fears?
+ARCHER: Getting stuck on a boat with you three times.
+LANA: Oh, come on.
+ARCHER: Oh, here we go. Come here, fishy, fishy. And while you eat humble pie with a side of crow, Lana, I will be dining on trout.
+ALLIGATOR: [HISSING]
+ARCHER: [SCREAM]
+LANA: [SCREAM] What the hell is that?
+ARCHER: What the hell does it look like, Lana?
+LANA: Shoot it, Archer! Shoot it!
+ARCHER: Oh, so now it's okay? What happened to your fragile ecosystem?
+LANA: Screw the damn ecosystem. Shoot!
+ARCHER: You are such a hypocrite. I bet you probably eat veal.
+[WATER GURGLING]
+ARCHER: Did you see that? And hear that? What is that? What is that sound?
+LANA: Oh, you are shitting me. How did you shoot the boat?
+ARCHER: Because I was bucking around like a rodeo clown in a barrel.
+LANA: Well, did you at least hit the gator?
+ARCHER: I don't know. I mean, maybe.
+LANA: Great, so maybe he's wounded.
+ARCHER: No, he's definitely wounded.
+LANA: Oh, right, I forgot he has an arrow sticking out of his head.
+ARCHER: Yeah, I think that's what enraged him.
+LANA: And so now all 20 enraged feet of him is swimming around out there.
+ARCHER: In that inky black water.
+LANA: Into which we are currently sinking.
+ARCHER: Yeah, it's not ideal. I mean, even if we had more shells.
+LANA: You only brought two shells?
+ARCHER: No, I brought shitloads, thank you.
+LANA: Well, where are they?
+ARCHER: In the gear bags. With your guns. And everything else.
+LANA: [SIGHS]
+ARCHER: Still got the cooler though, so...
+[BOAT CREAKING]
+ARCHER: Thank God for small miracles, huh? Lana. Lana. Lana!
+LANA: What?
+ARCHER: I said, thank God for small miracles.
+LANA: I heard you.
+ARCHER: I know. [CHUCKLES]
+|scene|participants:lana,archer|deaths:0|tags:drinking|
+[BOTTLE CAP POPS]
+LANA: Yeah, why don't you have another one?
+ARCHER: Well, somebody's got to. Since you refuse to help...
+LANA: You don't need help to get drunk.
+ARCHER: Oh, please, it takes more than some 3.2-- Wow, six-percent beer. --to get Sterling Archer drunk. Six percent, really?
+LANA: Yeah, so would you lay off? There is a giant wounded alligator out there, not to mention a dangerous eco-terrorist.
+ARCHER: Holy shit, totally forgot about him.
+LANA: I didn't.
+ARCHER: Yeah but that's even more reason for you to get on board with my new plan.
+LANA: Is it as idiotic as your other plan?
+ARCHER: That's how brainstorming works, Lana. It's free-form, you come up with a lot of ideas.
+LANA: Yeah, like using the pipeline to set the entire swamp on fire.
+ARCHER: Which, yes, bad idea, but it got me thinking about chemical reactions.
+LANA: Like alcohol's effect on the brain?
+ARCHER: No, like the reaction between... [BURPS] ...solid carbon dioxide, also known as dry ice, of which we have plenty, and a fun, sexy little molecule I like to call dihydrogen monoxide.
+LANA: Water?
+ARCHER: Water. Combine them in a sealed container and you've got yourself--
+LANA: Some kind of dry-ice bomb?
+ARCHER: Ugh! Yes, ruiner of explanations. I was building to that, but yes.
+LANA: Well, we got plenty of water.
+ARCHER: No, the swamp's too dirty, it's full of whatever alligators shit out, which I can only assume is people.
+LANA: They don't eat people.
+ARCHER: They eat people all the time.
+LANA: They don't--
+ARCHER: Sarasota County, Florida. Chet Willard, age 16, swimming in the Oak River Canal, killed by an 11-footer. Two years ago, Chatham County, Georgia, Ruth Baker, age 39, killed in her backyard by a 10-footer.
+LANA: Archer.
+ARCHER: Same year, Pinellas County, Florida, Walter Jakes, age 70, and his dog, killed by a 12-footer. Three years ago, Dade County--
+LANA: Archer!
+ARCHER: What?
+LANA: What are your three biggest fears? Archer?
+ARCHER: Alligators, by far the biggest.
+LANA: And so you've memorized every fatal alligator attack?
+ARCHER: Just in the U.S., I can't find any information on attacks in China. They only live here and China. Two different species. Chinese alligators are smaller, but their bellies are fully-armored so it kind of equals out. Can we change the subject?
+LANA: Okay, what's your second biggest fear?
+ARCHER: God, will you just--? It's crocodiles, okay.
+LANA: Wait, do crocodiles even live here?
+ARCHER: Not "here" here, in the Everglades.
+LANA: That's, like, a thousand miles away.
+ARCHER: Three years ago, they caught a 9-foot croc in the surf at Myrtle Beach, so, you know, shit happens.
+LANA: Wow. Not sure I wanna know what your third--
+ARCHER: Brain aneurysm.
+LANA: What? What does a brain aneurysm have to do with walking around in a swamp?
+ARCHER: Nothing. It can happen anywhere at anytime, that's why it's so terrifying.
+LANA: Oh, my God. Okay. So if the gator-poop water is too dirty--
+ARCHER: Yeah, we need distilled water.
+LANA: Your plan include finding some?
+ARCHER: Yes, but--
+LANA: But what?
+ARCHER: You're not gonna like it.
+LANA: Do we have to distill our pee?
+ARCHER: I guess you can if you want, but I was gonna use this.
+LANA: Wha--? There was bottled water in there the whole time?
+ARCHER: Yes. Sorry, I forgot.
+LANA: You forgot. Thanks, idiot.
+ARCHER: What? You still would've burned your hands reaching in here, idiot.
+LANA: I hope an alligator attacks you at the exact moment you have a brain aneurysm.
+ARCHER: How could you even say that? That's like me saying I hope you get cancer.
+LANA: What the hell is wrong with you?
+ARCHER: I obviously don't, but holy shit, Lana, I pour my heart out, and you just throw it right back in my face?
+LANA: Sorry.
+ARCHER: Well, you should be. That's-- Wait, okay, what's your biggest fear?
+LANA: Nope.
+ARCHER: Come on, I told you mine.
+LANA: I know. You lose.
+ARCHER: I think your biggest fear is intimacy.
+LANA: Ha!
+ARCHER: When what you should be afraid of is falling in love with me again because of my awesomeness. Check this out.
+LANA: Wait. How do you light it?
+ARCHER: Pressure builds until it explodes.
+LANA: How long does that take?
+ARCHER: Depends how much water. We're gonna need to dial it in.
+LANA: So you have no idea when that's gonna go off?
+ARCHER: How could I?
+[BOTTLE HISSING]
+ARCHER: Oh, shit.
+LANA: Asshole.
+ARCHER: Did it get you?
+LANA: No.
+ARCHER: Me neither. Wow. Again, small--
+LANA: Don't.
+ARCHER: Miracles.
+LANA: Argh!
+ARCHER: How long was that?
+LANA: Oh, I'm sorry, I forgot to time it.
+ARCHER: It's okay, I forgot to measure it. So we're both gonna need to do better.
+|scene|participants:malory,pam,cyril,krieger,cheryl|deaths:5|tags:|
+MALORY: Every single one. To hell with the tax credits. I want every last one of those low-flow toilets out. Dump them on the street with those ridiculous light bulbs.
+PAM: Why do I have to carry the toilets?
+MALORY: You know why.
+CYRIL: Because of the things that come out of your body.
+MALORY: Oh, shut up, Mr. Bigmouth, telling it we have a women's bathroom. Where I better never catch you again.
+PAM: Okay, jeez, hostile work environment.
+CHERYL: Yeah. So everything's back to normal.
+KRIEGER: Is it? I told you lives were at risk. Now behold the horror you have wrought. And Pam, if you're dumping stuff on the street, this can all go.
+PAM: What is it?
+KRIEGER: Shattered dreams.
+CHERYL: Smells like rotten meat.
+KRIEGER: Also, yes.
+|scene|participants:lana,archer,gray|deaths:0|tags:|
+[EXPLOSION]
+ARCHER: Yeah, there we go. Alright, I think we got this recipe figured out.
+LANA: That was actually pretty great.
+ARCHER: Duh.
+LANA: Shut up.
+ARCHER: You shut up. Ok I'll get dry ice in the rest of the bottles, you be ready with the water and we'll wait for that big, fat, stupid gator to come back.
+[*** Enter Gray in boat ***]
+GRAY: Destroying his habitat isn't enough?
+ARCHER: Wha--?
+GRAY: I would've been here sooner, but you stole my boat. Do you not understand how reservations work?
+ARCHER: Reserve this, Treebeard.
+LANA: Oh, please, it's not even loaded.
+ARCHER: Wha--? Thanks, Lana.
+LANA: Shut up. Hi, Josh.
+GRAY: Hello, Lana.
+ARCHER: You know each other?
+LANA: Josh was my Environmental Policy TA when I was in college.
+GRAY: And her lover.
+|scene|participants:gray,lana|deaths:0|tags:sex,flashback|
+|scene|participants:lana,archer,gray,alligator|deaths:0|tags:|
+LANA: Also, yes.
+ARCHER: Wait, I thought he was a Green Beret.
+GRAY: I went to grad school on the G.I. Bill. That's when I realized I had to lead the fight against the systematic rape of Mother Nature.
+LANA: But back then you just organized peaceful protests.
+GRAY: Like that day at the fur store.
+LANA: Yeah.
+GRAY: Where you disappeared without a trace.
+LANA: I guess I kind of found my calling.
+GRAY: As a hired gun for the military-industrial complex? A traitor to the cause of environmental protection?
+LANA: Me? What about you? Always running around, blowing shit up.
+ARCHER: Threatening our supply of lamp oil.
+LANA: Shut up. But, Josh, seriously, do you really think the ends justify such violent means?
+GRAY: Yes, because this is a war. And victory will only come when Americans stop destroying the earth just so they can drive bigger cars, build bigger houses and eat bigger food.
+LANA: So, like, never.
+GRAY: Yeah. Oh, my God, that's depressing.
+LANA: Sorry. And I'm also sorry we can't let you blow up this pipeline.
+GRAY: I wasn't going to.
+LANA: Well then why--
+GRAY: I mean, I was, but I saw you with this idiot yelling on the plane about working for ISIS.
+ARCHER: So technically, I saved the pipeline.
+GRAY: Yeah, you're the best.
+ARCHER: Whatever, I win. Suck it, Samwise.
+LANA: Archer.
+GRAY: So you need a lift back to land?
+ARCHER: Yeah, let me just grab my cooler and--
+GRAY: Not you, ass. Lana, maybe we can grab dinner, see some Dixieland jazz?
+LANA: That sounds lovely.
+ARCHER: Oh, come on, are you kidding me? You're really gonna leave me out here?
+LANA: Yup.
+GRAY: I like your new hairdo, by the way.
+LANA: Well, if you like the collar, you're gonna love the cuffs.
+ARCHER: Well, that's just great. She gets dinner and Dixieland and laid and I get mosquitoes and no beer and not laid. How could this get any--?
+ALLIGATOR: [ALLIGATOR GROWLING]
+ARCHER: Let me finish. --worse. Now-- Okay, see? You ruined it. You ruined the moment.

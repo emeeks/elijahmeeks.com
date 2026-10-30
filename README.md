@@ -40,3 +40,9 @@ The build uses checked-in content and images and does not contact the original s
 Original third-party scripts and interactive embeds are replaced with source links. Recovered figures are stored locally; unrecovered figures retain descriptive placeholders and source links. See the recovery record for the exact inventory and known gaps. It is not a claim that every piece ever published has been discovered.
 
 Recovery tooling is retained in `scripts/collect-writing.mjs` and `scripts/prepare-writing.mjs`. Acquisition responses are cached in ignored `.cache/writing/`. These scripts document the recovery process and expect the acquired source indexes; they are not part of routine builds. Edit `site/writing/entries.json` to correct metadata or add a future piece, then build and check normally.
+
+## Restored interactive projects
+
+`site/projects/archer/` and `site/projects/wars/` contain snapshots recovered directly from the former Bluehost origin. `scripts/build-projects.mjs` copies them into the published site, including Archer's episode data, fonts, and GIF corpus. Generated static entry pages preserve direct links to Archer episodes, seasons, characters, and navigation views on GitHub Pages. The snapshot and source hashes are documented in `site/projects/manifest.json`.
+
+These are the original deployed applications. The separate `archervisualization` repository can continue to evolve independently; updating that repository does not replace this preserved snapshot automatically. `scripts/recover-projects.mjs` documents the one-time recovery and is not run during normal builds.

@@ -1,0 +1,417 @@
+|episode|3|309|Bloody Ferlin|
+|scene|participants:archer,lana|deaths:0|tags:|
+LANA: Wait, here's an idea: you talk louder, and maybe they'll just come to us.
+ARCHER: We'd lose the element of surprise Lana.
+LANA: That was sarcasm!
+ARCHER: No way, really? Because so was that, just now.
+LANA: I pretty much insist that you shut up. Oh shit, they're in the armory.
+ARCHER: Good, then we got 'em, this is the only way out.
+LANA: Of the armory.
+ARCHER: I heard you. And I can also read, so --
+LANA: So what's in the armory?
+ARCHER: Burglars, Lana, that's why I'm here and not up to my ears in stewardess.
+LANA: What else is in the armory.
+ARCHER: Well, there's a bunch of automatic weapons, rocket launchers, um, about a jillion grenades, oh. They may have fire superiority.
+LANA: Ya think?
+ARCHER: Lana, for all we know they're building a gundam-suit with bazookas for hands.
+LANA: Really wish we had some backup.
+ARCHER: Who, Cyril? Or ooh, maybe Ray could run over them with his wheelchair! That was also sarcasm, since apparently now we're saying whenever we do it.
+LANA: Are you ready?
+ARCHER: No. Sarcasm again, yes I'm ready.
+|scene|participants:archer,lana,ray|deaths:0|tags:drinking|
+LANA: What the hell are you doing?!
+ARCHER: Nothing!
+LANA: Archer!
+ARCHER: What! The hell are you doing?
+RAY: Nothin. What're y'all doing?
+LANA: The alarm company called us because the motion sensors were going off.
+RAY: Dukes!
+LANA: Yeah, the rest of us got new keycodes Monday, but you were... where was it?
+RAY: Physical therapy.
+LANA: For your limp, useless legs.
+ARCHER: Well it's obviously working, you're on a -- wait a minute! How the hell are you walking around on ladders?!
+LANA: Because he's not paralyzed!
+RAY: And is that not the stuff of miracles?
+LANA: You lying little --
+RAY: I never said I was paralyzed! Y'all just assumed I was!
+ARCHER: Because you left the hospital in a wheelchair!
+RAY: They make you! And then I couldn't get a cab, so I just got back in the chair, and...
+LANA: Spent the last six months pretending to be handicapped.
+RAY: Handi-capable.
+ARCHER: So before I kick this ladder over in the hopes of paralyzing you for real, why are you in here stealing guns and grenades and what better not be my night vision goggles?!
+RAY: I kinda have some family problems.
+|scene|participants:archer,lana,ray|deaths:0|tags:|
+LANA: So your brother, the drug dealer --
+RAY: He's not a drug dealer! He's a drug farmer.
+LANA: Whatever, is gonna be murdered by your hometown's crooked sheriff?
+RAY: E.Z. Ponder, yeah, and he used to bully me so bad in high school...
+ARCHER: Nooo! Ray, that was sarcasm.
+RAY: Anyway, he wants Randy's dope farm for himself or he's gonna kill him, so I gotta go down there and... stop him.
+ARCHER: Count me in.
+LANA: What?! Why?!
+ARCHER: Well for one thing it's eerily similar to the plot of White Lightning. And this is Ray's brother, Lana. What's more important than family?
+LANA: Getting hammered on moonshine and trying to bang skanky trailer-chicks?
+ARCHER: Um, trying?
+RAY: Oh, that reminds me. They all think I'm married to like, a woman, so...
+LANA: Oh alright, I'll be your beard.
+RAY: What're you, insane? "Hey y'all, here's my great big ol' black wife!"
+LANA: Wh-?
+ARCHER: Lana, c'mon. You're gigantic.
+|scene|participants:malory,lana,cyril|deaths:0|tags:drinking|
+MALORY: Now what's all this nonsense about a break-in last night? I swear to God, if Krieger was doing more of his -- what's his new awful thing?
+LANA: Ultimate Bum Shockfights, and no, it looks like it was an actual break-in.
+MALORY: What?!
+CYRIL: Jeezy Petes!
+MALORY: Did they get into the mainframe?!
+LANA: I... don't know, but --
+MALORY: We need Sterling, where is he?!
+LANA: He's tracking down, um, leads. From the clues. That there were some of.
+CYRIL: What kind of clues?
+LANA: The kind I'm gonna show you, if you're not too busy shutting up to come on.
+MALORY: And put Sterling through to me the minute he calls in!
+|scene|participants:archer,ray,cheryl,ponder|deaths:0|tags:|
+ARCHER: Which I guess will be never... So, are there just no towers here? Or have we literally gone back in time?
+RAY: Both?
+CHERYL: Ow, you dumb idiot!
+ARCHER: Great...
+RAY: Great...
+CHERYL: Why am I in a, whatever, dune buggy?
+ARCHER: Remember? We picked you up last night, said we were going on a trip?
+CHERYL: No, and to where? Six Flags Over The Shittier Parts of Chernobyl?
+RAY: Ferlin, West Virginia.
+ARCHER: Yeah, and you and Ray are married.
+CHERYL: Oh my God oh my God oh my God!
+RAY: We're not actually --
+ARCHER: Actually it'll be better if she thinks --
+CHERYL: We're marrieeeeed...
+RAY: Super.
+ARCHER: Ray, look out!
+RAY: Wh-?!
+ARCHER: Two questions: is that the sheriff, and have you recently gone insane.
+RAY: Yes and no.
+ARCHER: Respectively?
+PONDER: Now I know that ain't who I think it is! No shit! Ray Gillet!
+ARCHER: Gillet?
+PONDER: How'n the hell are ya?
+RAY: Pretty good, E.Z. How you doin?
+PONDER: Aw, can't complain. And nobody'd listen if I did!
+ARCHER: I hear that.
+PONDER: You hear what.
+ARCHER: Not? That?
+PONDER: What brings you back up the holler?
+RAY: Oh you know, just wanted to show off my pretty new bride to the home folks.
+PONDER: She is that. For a minute there I's thinkin maybe you come back to help yer brother out with his... business concern.
+RAY: Naw, just back for a visit.
+PONDER: Well, make sure it's a short one. 'Cause believe me when I tell you, ain't nothin you can do to help him. Y'all drive safe now, hear?
+|scene|participants:cheryl,archer,ray|deaths:0|tags:|
+ARCHER: Man, is it me or is he super-menacing?
+CHERYL: Or super-hot?
+RAY: Hey! Remember?! We're married?!
+CHERYL: Not until it's consummated.
+ARCHER: I'll drive if you wanna hop back there and um enter her.
+|scene|participants:cyril,lana,pam,malory|deaths:0|tags:|
+CYRIL: So not only is Ray not paralyzed, but his brother is a drug dealer --
+LANA: Farmer.
+CYRIL: And he and Archer are in West Virginia doing... what the heck are they doing?
+PAM: Fighting a war on the war on drugs?
+LANA: God damn it.
+PAM: What, you shoulda looked under the stalls!
+LANA: I did! Wait, I did...
+PAM: Yeah, I usually put my feet up on the grab bars.
+LANA: Ugh, anyway, this is all obviously unauthorized, but I promised Ray we'd cover for him, so...
+CYRIL: Oh, no! I'm not getting mixed up in this, and if Ms. Archer asks me --
+MALORY: Why is it... That every time I need to use the restroom, you people are in here skulking around looking guilty?
+PAM: Uh...
+CYRIL: I'll tell you why they look guilty...
+LANA: Ahem!
+CYRIL: Because they, or we I guess, don't know how to tell you that the break-in was a lot worse than we thought.
+MALORY: How much worse?!
+CYRIL: Uh, well, it's really hard to say...
+LANA: But rest assured we are on it, and Archer is on it, and... we're on it.
+MALORY: Well I want an update in one hour! And why does it always reek of paint?
+|scene|participants:ray,cheryl,archer,randy,janelle|deaths:0|tags:|
+RAY: Well, there she is... The old homestead.
+CHERYL: Jesus, what's my dowry? Tetanus?
+RAY: Ya know what?
+ARCHER: Jesus
+RANDY: That's far enough, you sonsabitches!
+RAY: Randy, it's me! Ray! Your brother!
+RANDY: Don't you move. Don't move a inch.
+RAY: Wh-? What do you mean "don't move"?! I came home to help, you asshole!
+RANDY: Well you ain't gonna be much help with your legs blown off. There's mines all in the yard.
+ARCHER: Ray, to be honest, I'm having second thoughts about this whole thing --
+CHERYL: Get in line.
+JANELLE: Randy Gillette, where are your manners?! Get these folks the map of that damn minefield so they can come inside. I got some nice hot pie for 'em...
+ARCHER: Okay, now I'm having third thoughts.
+RAY: Oh, please don't.
+ARCHER: It would be rude not to eat her pie. Which I assume is not only hot but also moist. Although hopefully not flaky.
+|scene|participants:ray,cheryl,archer,randy,janelle|deaths:0|tags:drinking|
+RANDY: And so E.Z. gimme a choice. Give him my whole dang operation and get outta the holler by sundown, or else him and his boys'll just take it, and grind me up into fertilizer.
+RAY: Well --
+RANDY: But listen to me, just yappin. Tell me bout this pretty new wife of yours! 'Cause I'm kinda surprised to see you married. Homeboy knows what I'm talking about!
+RAY: He does?
+RANDY: A New York City interior decorator?
+ARCHER: That's what you went with?
+RANDY: Betcher up to yer eyeballs in poontang!
+RAY: Oh. Yeah, just so many vaginas.
+RANDY: No offense, darlin...
+CHERYL: None taken.
+JANELLE: Want s'more of my pie, Mr. Archer?
+RAY: No!
+ARCHER: Yes! Thank you, Janelle, I would love more of your moist and hot pie.
+JANELLE: Well then open wiiide...
+RANDY: Folks, we can't set around eatin her pie all day. We got a situation here.
+|scene|participants:lana,malory,krieger|deaths:0|tags:|
+LANA: So Krieger's running the logs to see if any files were accessed last night.
+MALORY: Who the hell could have done this?
+LANA: Who knows? ODIN, the KGB, um...
+KRIEGER: Actually --
+LANA: But this'll take hours so we'll just bring you a report when he's done!
+KRIEGER: Actually --
+LANA: Krieger! More type, less gripe.
+MALORY: And has anyone heard from Sterling?
+LANA: No, yes! He's out... on the case.
+MALORY: Well, I want some answers, and soon.
+KRIEGER: And since there's nothing in these logs, I too would like some answers.
+LANA: So, here's the thing...
+|scene|participants:randy,ray,cheryl,archer,janelle|deaths:1|tags:|
+RANDY: If I can just get what I got to my distributor, I can retire. Maybe move up to New York City with you.
+RAY: I -- what, where, do what?!
+RANDY: I'm kiddin. Last thing you want's your redneck brother hangin around...
+RAY: No, it's not that, it's --
+RANDY: Plus I'd rather kill myself. Nothin up there but a buncha you-know-whats.
+RAY: There are a lot of 'em.
+RANDY: Don't see how you stand it. Anyhow...
+ARCHER: Dude.
+CHERYL: Awesome.
+RAY: Sweet gracious God.
+RANDY: This here's what E.Z. wants.
+RAY: How did you afford all this?!
+RANDY: Farm subsidy.
+JANELLE: He told the government he's growin corn, for that high-flooktose syrup.
+RANDY: But damned if I'm gonna contribute to the obesity epidemic.
+ARCHER: A man's gotta have a code.
+RANDY: Right? I put my heart and soul into this, but now it's either roll over for that sheriff like a dog, or fight. Like a different, better dog.
+RAY: So is it just E.Z. coming, or --
+RANDY: No, the whole sheriff's department. I'd say twenty men, AR-15's, maybe grenades, uh... oh, dogs. Duh.
+ARCHER: Ray, I'm having fourth thoughts.
+RANDY: Well I got a few tricks up my sleeve. Janelle, why dontcha take Mr. Archer and show him the defensive perimeter.
+JANELLE: I'd be delighted...
+RAY: No, no, wait a second --
+ARCHER: Fifth thoughts!
+RAY: Archer!
+RANDY: Don't worry, she won't bite. But speakin of, it's about suppertime. You still partial to fried chicken?
+RAY: I --
+CHERYL: I'll cook it! If somebody shaves it or whatever.
+RANDY: What in the...? Janelle?! Janelle !
+RAY: Randy! Wait! Dukes!
+CHERYL: So is there like, special chickenshaving cream, or...?
+RAY: I -- first of all, that's a rooster!
+CHERYL: Yeah, like Kenny Rogers' Roosters --
+RAY: Roasters! Randy, wait!
+CHERYL: Bawk bawk.
+|scene|participants:archer,janelle,randy,ray|deaths:0|tags:sex|
+RANDY: And just what the hell is this?!
+ARCHER: Well, I'll tell you what it's not, which is, um, what it looks like.
+JANELLE: I got caught on the fence, then Mr. Archer tried to get me loose, and --
+RANDY: You better git yer ass in that house. Do you wanna have sex with my wife?
+ARCHER: No I swear, this was just an extremely unlikely mishap with the barbed wire.
+RANDY: 'Cause we would be amenable to that. Well? Why you look so nonplussed?
+ARCHER: Because I wasn't sure if you knew what amenable actually meant. Until you followed it up with nonplussed.
+RANDY: See, me and Janelle got us one of them open marriages? Like in France?
+ARCHER: Oh right, in Europe.
+RANDY: And I would really like that open marriage to include Ray's new wife.
+ARCHER: What?!
+RANDY: Now look, that's in the bible.
+ARCHER: Really?
+RANDY: Genesis thirty-eight, verse eight.
+ARCHER: Really?
+RANDY: But even though Ray used to be a preacher he was never big on the Old Testament --
+ARCHER: I could see that.
+RANDY: So I doubt he'd wanna reciprocate. So I just need you to keep him busy while I have sex with his wife...
+ARCHER: And then I get to have sex with --
+RANDY: My wife, you son of a bitch!
+ARCHER: Yeah, I think I got --
+RANDY: So where the hell's your damn pants?!
+ARCHER: They're on the fence.
+RAY: Goddammit, Archer!
+ARCHER: Wait, hang on --
+RAY: Archer shut up!
+RANDY: Ray, he was -- and poor Janelle -- I gotta go make sure she's okay! And you better have a talk with him!
+RAY: I will, Randy, I'm sorry.
+RANDY: A good long talk. Like, talk for about forty, forty-five minutes.
+ARCHER: Okay, so --
+RAY: Stop! I have never, in my entire life, been as disgusted as I am at this moment.
+ARCHER: Well, give it a minute...
+|scene|participants:cyril,lana,malory,krieger|deaths:0|tags:|
+MALORY: What do you mean, a cyber-attack?!
+KRIEGER: Apparently the intruders downloaded a virus into the mainframe... So this all needs to come out.
+CYRIL: The mainframe is like Krieger's baby. How'd you get him to go in on this?
+LANA: I told him I'd get Pam to fight in his Ultimate Bum Shockfights.
+CYRIL: Is it called that because paying homeless men to fight is shocking?
+LANA: Nope.
+|scene|participants:pam|deaths:0|tags:|
+PAM: Well, hello there, game-changer.
+|scene|participants:ray,archer|deaths:0|tags:|
+RAY: He what?!
+ARCHER: Yeah, apparently it's in the bible?
+RAY: No, it isn't!
+ARCHER: It did sound too cool for the bible. But why do you care? A, you're gay, and B, you and Carol aren't really married.
+RAY: But Randy thinks we are!
+ARCHER: Yeah, but -- that's actually a really good point.
+RAY: I'm gonna beat him like a rented mule!
+ARCHER: Now that sounds like something from the bible.
+|scene|participants:randy,janelle|deaths:0|tags:|
+RANDY: She in there?
+JANELLE: Yeah, where's mine at?
+RANDY: Up'n the woods with Ray. You gotta wait til later, maybe after supper.
+JANELLE: Remember, no kissing.
+RANDY: I was -- that is the wierdest rule.
+|scene|participants:cheryl,randy|deaths:0|tags:|
+CHERYL: I know, right? Some honeymoon. Oh hey, do I do the face?
+|scene|participants:malory,archer,operator|deaths:0|tags:|
+MALORY: And where the hell is Sterling when I need him?
+ARCHER: You've reached Sterling Archer's voicemail. Please leave a message.
+MALORY: Wh-? Finally, a non-idiotic greeting! Sterling, I want an update, so call me the instant you get this mess --
+OPERATOR: The voice mailbox of...
+ARCHER: Sterling Archer.
+OPERATOR: ...Is full. Good-bye.
+ARCHER: Idiot.
+|scene|participants:archer,janelle|deaths:0|tags:|
+JANELLE: C'mere, you skinny-legged sumbitch! Oh! Sorry.
+ARCHER: That's okay, they're not my best feature.
+JANELLE: No, I was --
+ARCHER: Not important. What is important is that Randy gave me a bible lesson?
+JANELLE: Yeah? And what did the bible say?
+ARCHER: Well, Janelle, obviously the actual scripture is open to interpretation, but what I took away from it, is that we should go in the barn and screw our brains out on a huge pile of marijuana.
+JANELLE: It didn't say nothin about a rubber, did it?
+ARCHER: It did not!
+JANELLE: Ray's still up in the woods, right?
+ARCHER: Uh... oh. No, he actually said he wanted to talk to --
+|scene|participants:ray,randy,janelle,archer|deaths:0|tags:|
+RAY: Randy!
+RANDY: Whoa whoa whoa now hang on a second!
+RAY: You wife-swappin white trash piece of --
+RANDY: Ray, no!
+[Gunshots]
+JANELLE: Randy!
+ARCHER: Yes. Randy. Which I probably should've mentioned earlier. Don't judge me. Food.
+|scene|participants:randy,ray,cheryl,archer,janelle|deaths:0|tags:sex,drinking|
+RANDY: You lucky I didn't kill you.
+RAY: You're lucky I didn't kill you! While you were in bed with my wife!
+CHERYL: Our marriage was never consummated! And I think we all know why...
+RAY: Stop!
+ARCHER: Carol! Look, there's plenty of blame to go around here. I mean, I don't think I deserve any, but --
+RAY: You were gonna screw her!
+ARCHER: Yeah so, is that still on, or...?
+JANELLE: Wh-?!
+ARCHER: Carol?
+RAY: Wh-?! Well, somebody. C'mon, promises were made.
+RANDY: Just like you promised Mama'n Daddy you'd always take care of me!
+RAY: And here we go!
+RANDY: But they weren't even cold in the ground before you were galivantin around Europe!
+RAY: It was the Olympics!
+RANDY: Which you lost!
+RAY: Bronze medal! Is not losing!
+RANDY: And then it was off to New York City!
+ARCHER: You can just say New York.
+RANDY: To be a hoity-toity interior decorator!
+ARCHER: You can just say decorator.
+RANDY: Whatever, I don't know why I thought he could help save my farm! Because your job?! That's a job for sissies!
+RAY: Oh yeah?! Well guess what!
+ARCHER: Ray! Is not an interior decorator.
+RAY: I -- no, ya know what?
+ARCHER: Yes, shut up. Randy, your seemingly effeminate brother is actually a highly-trained secret agent.
+RANDY: Pshh! Yeah, and I'm... something equally hard to believe is true.
+CHERYL: It is true. That's why I married him. Well, and the bronze medal.
+JANELLE: Prove it.
+ARCHER: What do you want, a business card? Where do you think he got a duffel bag full of assault weapons?
+RANDY: Well, y'all do live in New York City...
+ARCHER: Just New York.
+RANDY: Ray? Is he tellin the truth?
+RAY: Mostly.
+RANDY: So... cause you're a spy, is that why you never come back to visit?
+RAY: Also mostly.
+RANDY: And here all this time I thought it was cause you were ashamed of us.
+RAY: Oh c'mon now, why would you think that?
+RANDY: I found a buncha your old diaries.
+RAY: Well, obviously not the one with the Miss Piggy on it.
+RANDY: No, Daddy said he burned that one.
+RAY: Ugh, great...
+RANDY: And I'm sorry I screwed your wife.
+RAY: And I'm sorry if I ever made you feel like I was ashamed of you.
+RANDY: The important thing is you came back to help me.
+RAY: C'mon, that's what family's all ab --
+[Explosion]
+RAY: Dukes!
+ARCHER: Shit!
+RANDY: Dammit!
+|scene|participants:ponder,randy,archer,ray,cheryl,janelle|deaths:0|tags:phrasing,drinking|
+PONDER: Randy Gillette! This is Sheriff E.Z. Ponder! You come out there with your hands up!
+RANDY: That sonuvabitch is early!
+ARCHER: I dunno, "sundown" sounds more colloquial than like, an actual --
+RANDY: Well, if you wanna back out on me, now's probably the time to do that.
+RAY: Randy, you may be a racist, homophobic, wife-swapping drug dealer --
+RANDY: Farmer.
+RAY: -- but nobody murders my brother.
+RANDY: The Gillette boys, side by side! Janelle, cover that winder yonder! Archer, you got a little fight in ya?
+ARCHER: [Burps] Yeah, I'm pretty furious about not getting to bang Janelle. Plus I wanna unleash the power of moonshine.
+RANDY: Then grab a gun and cover that winder!
+CHERYL: What should I do?!
+RANDY: I got some red hot pokers layin in that fire! If anybody gets hit, you grab one and slap iron to it!
+CHERYL: Awesome...
+RANDY: And remember, it's us or them. So this is how it's gonna be, huh?!
+PONDER: Randy, I didn't want it like this! C'mon, I tried to reason with ya!
+RANDY: Reason with this!
+PONDER: A'ight then! Light 'em up!
+JANELLE: Ow!
+RANDY: Janelle! Are ya hit?!
+JANELLE: Naw, a piece of -- waaaaaghhhhhh!
+RANDY: Well don't just set there! Shoot!
+ARCHER: Ugh, I can't. I feel sick, what's happening, do I have cancer again?
+RAY: You drank too much!
+ARCHER: That's a thing?
+RANDY: Looks like it's just you and me, brother.
+PONDER: Randy, you don't have to do this! They'll go easy on you! Hell, the judge is my wife's cousin! I bet he'll give you probation!
+RAY: Oh please! You're gonna murder him so you can take over his dope farm!
+PONDER: What?! Cease fire! Hold your fire! Why in the world would you think that I, a peace officer sworn to uphold the law, would wanna murder your brother to get his marijuana farm?
+RAY: I -- because that's what Randy said!
+PONDER: Randy's a drug dealer!
+RANDY: Farmer!
+PONDER: And I tried to get him to quit. I come to him as a friend, I come to him as an elder of the church, but he wouldn't give it up. And so now I gotta come to him as the law. And you accuse me of plannin a murder?!
+RAY: Well, you did used to pick on me a bunch.
+PONDER: Well I'm sorry, I was a dick in high school. But you gotta admit, you were extremely pick-on-able.
+RAY: There's nothing wrong with Capezios! Randy, is he telling the truth?
+RANDY: Mostly.
+RAY: Randy! You almost got me and my friends killed! Because you could never be bothered to get a real job!
+RANDY: Well?! I only got to ninth grade! How the hell else was I supposed to earn a livin?! Diggin sign?!
+RAY: There is a perfectly good coal mine not a half-mile from here. And maybe you wouldn't get rich, but at least it's an honest living.
+RANDY: Yeah but it's hard.
+RAY: So is this.
+JANELLE: Randy!
+RAY: Shut up. And Mama never liked you. Easy, don't shoot! I'm comin out!
+ARCHER: Phrasing.
+|scene|participants:pam,malory|deaths:0|tags:drinking|
+PAM: Here's the files you had me pull.
+MALORY: Oww! What the hell is on your hands?!
+PAM: My bum-zappers. For the shockfights? That I'm doing for Krieger, which is why he broke the server, to help Lana cover up that Ray and Mr. Archer are killing cops for a drug dealer and also Ray's been faking that he's paralyzed?
+MALORY: Lanaaaa!
+PAM: Or are we not telling you that?
+|scene|participants:janelle,cheryl,archer|deaths:0|tags:|
+CHERYL: No, thank God you guys got here before they started killing hostages! Which would have been us! As the hostages!
+JANELLE: You lyin-ass bitch!
+CHERYL: She's mad because I slept with Randy. To get food for my fellow hostages.
+|scene|participants:ponder,randy,ray|deaths:0|tags:|
+RANDY: So, you really think you can fix it so I just get probation?
+PONDER: Oh God no, I just said that. All these drugs and weapons, attempted murder of police officers, you'll probably die in prison.
+RANDY: Oh. Will you come visit me?
+RAY: Probably not.
+RANDY: Cause you're a spy and all?
+RAY: Uh --
+RANDY: He's a highly-trained secret agent.
+PONDER: Is that right. Well listen here... If you ever find your way back up in the holler... gimme a call.
+RAY: Uh --
+PONDER: I think I got myself an extra pair of Capezios layin around somewheres.
+RAY: Uh-?! O.K. - should I just 911?
+PONDER: A'ight, let's move em out!
+ARCHER: Well that's just great. Everybody gets laid in the holler but me. Well, and you, I guess. Since I ate your husband. Dan Lather.

@@ -1,0 +1,352 @@
+|episode|6|608|The Kanes|
+|scene|participants:lana,archer,abbiejean|deaths:0|tags:|
+LANA: No, I just wanna make sure we're both totally clear about this.
+ARCHER: Yes, Lana, you've made it totally, very nearly insultingly, clear.
+|scene|participants:lana,archer,abbiejean,passenger,stewardess|deaths:0|tags:drinking|
+LANA: Because this is only my parents meeting their grandchild. And oh, by the way... this is her father.
+ARCHER: Yeah, it's--
+LANA: It's not "meet my boyfriend," it's not, "meet my future husband." Nobody's guessing who's coming to dinner.
+ARCHER: Totally clear...ly insulting.
+LANA: So, just to be clear, we're clear?
+ARCHER: Oh, my God.
+PASSENGER: Oh, my God!
+ARCHER: Hey! Shut up!
+STEWARDESS: Sir, is there a problem here?
+ARCHER: Yes! Where the hell have you been? Here. And if you want to save yourself some trips, let's uh, make it a pitcher.
+STEWARDESS: Uh, we don't even have pitchers.
+ARCHER: Well, then, I don't know what to tell you. Maybe rinse out a little trash can.
+LANA: Also, my parents aren't big drinkers?
+ARCHER: Yeah, they're like huge nerds, right?
+|scene|participants:lana,archer,abbiejean|deaths:0|tags:drinking|
+LANA: Uh, no. They're academics!
+ARCHER: "Tomato, Tomato."
+|scene|participants:lana,archer,abbiejean|deaths:0|tags:drinking|
+LANA: My mom, Claudette, is a professor of public policy at U.C. Berkeley, with a focus on feminist issues.
+ARCHER: Yikes. Glad I didn't waste suitcase space on that barrel of monkeys.
+LANA: Shut up. And my father, Lemuel, is a microbiologist-- who might be up for the Nobel Prize.
+ARCHER: Holy shit.
+LANA: Yeah, right?
+ARCHER: Right! What happened to you?
+LANA: Oh, and one more, like, "tiny thing."
+ARCHER: Swear to God. Last one till dinner.
+LANA: Not that. Although what the shit?
+ARCHER: I'm actually kinda nervous.
+LANA: Ugh. Me too, actually, because my parents think I'm still working on my PhD... at Columbia. In environmental science.
+ARCHER: What? They don't know you're a spy?
+LANA: No! And if you tell them I am, I will literally murder you-- wait-- in front of our very own infant child.
+|scene|participants:lana,archer,abbiejean|deaths:0|tags:|
+LANA:  So, serious up, because they're not crazy about this whole arrangement. so--
+ARCHER: Serious up. Lana, once I meet them, I'm sure they'll find me ...utterly charming.
+LANA: You have met them.
+|scene|participants:lana,archer,lemuel,claudette|deaths:0|tags:flashback,drinking|
+LANA: Yes, he's getting his master's, too, and he's nice-- and I said that already, and... I'm sure he's just... caught in traffic.
+CLAUDETTE: Hmm. He could have walked here by now.
+ARCHER: If it's gonna be that kind of party, etcetera, etcetera-- mashed potatoes! Oh, whoo!
+|scene|participants:lana,archer,abbiejean,lemuel,claudette|deaths:0|tags:|
+ARCHER: Oh, did they find me utterly charming?
+LANA: Hey!
+ARCHER: Hi!
+LEMUEL: Oh. Look who's here!
+CLAUDETTE: Let me have my grandbaby!
+LANA: Uh-- and, um, you remember Archer?
+LEMUEL: Yes, of course. We've got the mashed potatoes just the way you like 'em-- 98.6.
+|scene|participants:lana,archer,abbiejean,lemuel,claudette|deaths:0|tags:|
+CLAUDETTE: Oh, Lana. You have made a beautiful baby.
+ARCHER: Well, we sort of both-- ...would agree with that statement.
+CLAUDETTE: Lana can speak for herself.
+ARCHER: Yup.
+LEMUEL: So? Any news?
+LANA: Um... I had a baby?
+LEMUEL: Oh, honey, I'm talking about your studies.
+CLAUDETTE: Yes, Lana. When on Earth are you planning to finish your dissertation?
+ARCHER: Yeah, Lana.
+CLAUDETTE: Don't do that...
+ARCHER: Nope.
+CLAUDETTE: because you're taking your time as well. What is it you're studying?
+ARCHER: Umm... Medieval Slavic History.
+LEMUEL: Really? Well, that must be fascinating!
+ARCHER: Well, everybody thinks that, but-- So, tell me: what are your thoughts on the Battle of Kosovo of 1389?
+ARCHER: No opinion.
+LEMUEL: Well, not even as it applies to the rise of modern Serbian nationalism?
+ARCHER: Mm... nope. Also, that's a bit reductionist.
+LANA: But enough about you. Am I right? Daddy, tell us about your research.
+LEMUEL: Well, algae is always challenging!
+ARCHER: Yeah. Just ask a flip-flop.
+CLAUDETTE: Don't do that.
+ARCHER: Nope.
+CLAUDETTE: His research is going extremely well.
+LEMUEL: And, in the near future, you may be spending a lot less time and money at gas stations.
+ARCHER: You're buying us motorcycles?
+LANA: No! Daddy's been working on--
+CLAUDETTE: Lana.
+LANA: Mom, it's fine. Archer is, um--
+ARCHER: Lana, it's okay, you can say "family."
+LANA: I-- Well, I thought I could, but I honestly don't know if I can.
+ARCHER: Wow! Great, now you've made the baby cry.
+LANA: That was you!
+CLAUDETTE: Lana, here, take the child. I'm not sure which end needs attention, but while you check on that, your father and I will check on dinner.
+ARCHER: And I will check on... that hot tub.
+|scene|participants:pam,cyril,krieger,cheryl,kriegers girlfriend|deaths:0|tags:racism|
+PAM: Seriously? Are you frickin' serious?
+KRIEGER: Um... yes.
+PAM: Oh, my God!
+CYRIL: Dammit, Krieger!
+PAM: So, now we gotta forfeit league night? How the hell did you run out of gas?
+CYRIL: Yeah, especially in-- where even are we?
+KRIEGER: Mm... Brownsville?
+CYRIL: Hey, whoa. It may be a bit rundown, but there's no need to be racist.
+KRIEGER: No, not because of African-Americans.
+PAM: Brownsville's just the name, dip-nuts.
+CHERYL: Yeah, which doesn't really make sense because this all used to be Jewtown.
+KRIEGER: Whoa, not cool, dude.
+CHERYL: Oh, please, you people invented racism. Also you're just a reconstructed light-field, produced by firing a laser through a beam-splitter.
+KRIEGER: Whoa!
+PAM: Yeah, dude, not cool.
+|scene|participants:archer,lemuel,claudette|deaths:0|tags:phrasing|
+ARCHER: Hot! Hot, hot, hot, hot, hot, hot... How is it? Oh, it is hot, Lem. Can I call you Lem?
+LEMUEL: Of course you may, absolutely, but it's actually pronounced Doctor Kane.
+ARCHER: Ah. Ah--
+LEMUEL: Mm...
+ARCHER: Ah...
+LEMUEL: Hm.
+CLAUDETTE: Well, Lana's feeding the baby. How is it?
+LEMUEL: Hot.
+CLAUDETTE: Actually almost too hot, now that you, um-- I'm actually gonna hop out, so--
+CLAUDETTE: Nonsense. You stay right there.
+ARCHER: Uh-huh--
+CLAUDETTE: Mm... Isn't this just so relaxing?
+ARCHER: Is it?
+CLAUDETTE: Well, nudity is our natural state.
+ARCHER: He's not nude.
+CLAUDETTE: What? Then why are you in here?
+ARCHER: I was just asking myself the same--
+CLAUDETTE: That's ridiculous, you have to be naked. Otherwise it's pointless.
+ARCHER: Is it?
+CLAUDETTE: Trunks, young man, trunks.
+ARCHER: Um... 'kay...
+LEMUEL: There, now that's not so hard, is it?
+ARCHER: So, do you guys do phrasing, or...?
+CLAUDETTE: And now that we're all skyclad, as they say, we have something very special we'd like to share with you.
+ARCHER: Wait, what?
+LEMUEL: But just between us three, there's no reason to tell Lana about it.
+CLAUDETTE: No, she might not... approve.
+ARCHER: Oh, God... Okay, but just so you know, I've never worn a condom, ever, and Lem, obviously the implicit agreement between you and I, is that at no time will our penises touch, but I'd also appreciate it if you didn't make eye contact, you know... with me... during... Did I... misread th--
+|scene|participants:archer,lana|deaths:0|tags:|
+ARCHER: I--
+LANA: No. No. You do not talk. In fact, first thing tomorrow, you're going to the vet to have your vocal chords clipped.
+ARCHER: How about just put to sleep?
+|scene|participants:archer,lana,lemuel|deaths:0|tags:|
+ARCHER: Because who gets in a hot tub naked with an almost complete stranger?
+LANA: Because everybody! Because Berkeley!
+ARCHER: That's-- how does an entire city get a pass on acceptable behavior?
+LEMUEL: Acceptable behavior? This, from the man who just tried to have a threesome with me and my wife?
+ARCHER: I was being polite!
+LANA: Wh--? How is that polite?
+ARCHER: Because I thought that's what they wanted! They said they wanted to share a special secret with me, so--
+LANA: Wait, what special secret?
+LEMUEL: What? Why is he even still here?
+LANA: Daddy...
+LEMUEL: Look, the man's an ass-bucket.
+LANA: What the--?
+ARCHER: Hey don't look at me, I'm not--
+LANA: The baby!
+ARCHER: Oh, shit!
+|scene|participants:archer,lana,lemuel,claudette,abbiejean|deaths:1|tags:|
+CLAUDETTE: Oh, dear God...
+LANA: Mom?
+LEMUEL: Claudette?
+CLAUDETTE: I'm in here, in the study!
+LANA: Where's A.J.?
+CLAUDETTE: She's fine, she's upstairs, but--
+LANA: What the hell happened?
+LEMUEL: Oh, my God... my research! All my research... my data, my notes! All my samples! All my years of work! It's all gone!
+ARCHER: Why would anybody want mildew?
+LEMUEL: Algae!
+ARCHER: Oh, my God, are you shitting me? With a baby in the house?
+LEMUEL: Why do you have a gun?
+ARCHER: What, seriously? For this. Great.
+CLAUDETTE: Lana, what is the meaning of this?
+LEMUEL: Why does he have a gun?
+LANA: Okay, so--
+ARCHER: Whoa, whoa, whoa-- C'mon, are we not even gonna address how amazing that shot was?
+LANA: Not now, Archer, I'm--
+ARCHER: Shit. Yeah, so listen, if you wanna catch those guys and get your mildew back--
+LEMUEL: It's algae.
+ARCHER: Yeah, take that tone. You got a car?
+LEMUEL: What? Yes, but, but, but--
+ARCHER: Get your shit together, Lem! Be a lamb and watch the baby?
+|scene|participants:archer,lana,lemuel|deaths:0|tags:lanahands|
+LEMUEL: Lana, this is all just crazy, why does he have a gun? And why is he driving? I should be driving!
+LANA: No, Daddy, Archer should drive. He's actually pretty great at it. When he's not busy ejaculating.
+LEMUEL: Not in my Mustang, you don't! But, seriously, what's wrong with him?
+ARCHER: Guys, this is, this is the-- the car from--
+LANA: Bullitt, we know, and if you'd go already, maybe later I'll dress up like Steve McQueen for you!
+ARCHER: Ew, that's not even what it's about. Plus your hands are too big. Go! But speaking of McQueen, if there was ever a time to wear the Tactleneck--
+LANA: Go!
+ARCHER: Okay! Hang on!
+LEMUEL: Easy, easy!
+|scene|participants:krieger,cheryl,pam,kriegers girlfriend|deaths:0|tags:drinking|
+KRIEGER: Easy... Easy... Easy--
+PAM: Will you shut up? We're only going one mile an hour!
+CHERYL: If that! Jesus...
+PAM: Aw, shush and push! You guys all better be pushing back there!
+CYRIL: We are!
+CHERYL: I am pushing. Swearsies, realsies.
+KRIEGERS GIRLFRIEND: I push.
+PAM: Son of a bitch... then I dunno why this heap of shit's not going faster.
+KRIEGER: Well, first of all, I think you mean heap of bitchin', and second of all, hang on.
+PAM: Wh--? the frickin' brake was on? God--
+|scene|participants:archer,lana,lemuel|deaths:0|tags:dangerzone|
+LANA: Dammit, Archer!
+ARCHER: Whoo!
+LANA: Archer!
+LEMUEL: You're going too fast, you idiot.
+ARCHER: Idiot? Who kept his life's work in his frickin' house, apparently without any kind of backup whatsoever?
+LANA: Uh, yeah, that's actually a good point.
+LEMUEL: I couldn't keep my work at the lab. It's potentially worth billions! People would literally kill for it!
+LANA: Whoa, Whoa.
+LEMUEL: Case in point.
+ARCHER: Well, even if I'm not family...
+LANA: Oh, my God, okay... What's the deal with this algae?
+LEMUEL: I found a way to use it as bio-fuel!
+ARCHER: Am I supposed to know what that means, or...?
+LEMUEL: As a replacement for fossil fuels!
+ARCHER: Oh. Oh, my God--
+LANA: Duh-hoi.
+LEMUEL: Under the right conditions, the algae reproduce infinitely, and the only by-product of burning it, is water.
+ARCHER: Holy shit, I'm surprised nobody's killed you already.
+LEMUEL: That's why I had to keep my research a secret. Can you imagine what this will mean to Big Oil? Or OPEC?
+ARCHER: Well, there's no need to be racist.
+LANA: How is the acronym for the Organization of Petroleum Exporting Countries racist?
+ARCHER: Oh, that's what that means?
+EVERYBODY: Oh!
+ARCHER: Goddammit. This is an American icon! You Philistines! Hey, I know, let's, um-- uh-- teabag Dr. Seuss. Yeah, great idea. I'll hold him down.
+LANA: Huh?
+LEMUEL: Look here, Archer, I've told you about my research. How about telling me why the hell you carry a gun?
+ARCHER: Yeah speaking of, I'm out. Lemme hold yours while you reload me.
+LEMUEL: Hold your what?
+LANA: Uh--
+ARCHER: Lana, come on! Zona peligrosa!
+LEMUEL: What is he talking about? What in the--? Lana Anthony Kane!
+LANA: Okay, so--
+ARCHER: Anthony?
+LANA: After Susan B.!
+ARCHER: Oh, right, our ugliest president.
+LEMUEL: Lana, why the hell do you have a gun? That's not how we raised you!
+LANA: I know, Daddy. I know. So, about my PhD... How is this funny?
+ARCHER: What, seriously? Um, in every possible way.
+LEMUEL: You're a spy?
+LANA: Yes, but I can explain!
+LEMUEL: Oh, you're going to explain lying to me and your mother all these years. and could you please not drive my Mustang like a complete ass-bucket!
+ARCHER: Okay, Lem, I think maybe you're transferring a little. You're not angry at me. You're angry at Lana.
+LEMUEL: I'm well aware of at whom I'm angry!
+LANA: But thank you for reminding him.
+ARCHER: Yeah, think of me as a mediator.
+LEMUEL: And spying for whom, exactly? I hope to God it's at least for America!
+LANA: Who else would I be spying for?
+LEMUEL: How should I know? All of a sudden I'm talking to a total stranger!
+ARCHER: Lana? How does that make you feel?
+LANA: Like I'm gonna shoot you?
+ARCHER: Yeah, get in line.
+LANA: Daddy, of course it's America. Long story short, these days we're sort of, contractors for the CIA.
+LEMUEL: The CIA? Did you just drop in on your way to overthrow a democratically elected government somewhere?
+ARCHER: Lem, let's try to avoid using sarcasm.
+LEMUEL: I wasn't.
+LANA: You see? This is why I never told you! I knew you wouldn't understand!
+LEMUEL: Because you could've been a great scientist, Lana! How could you just throw away your God-given talent?
+LANA: But it wasn't my talent, Daddy... You and Mom just wanted it to be.
+LEMUEL: Oh, come on, now. You used to love going to all those science fairs!
+LANA: I used to hate it! Remember, I always threw up in the car on the way there?
+|scene|participants:lana,lemuel|deaths:0|tags:flashback|
+LANA: I'm sorry...
+LEMUEL: Oh, goddammit--
+CLAUDETTE: Lemuel!
+|scene|participants:archer,lana,lemuel|deaths:0|tags:|
+LEMUEL: From excitement!
+LANA: From terror, but I was always so afraid of letting you and Mom down, that I-- I couldn't ever tell you how I felt.
+LEMUEL: Hey. C'mon, now. You could never let us down, honey. I-- I hope you know that.
+LANA: Really?
+LEMUEL: Oh, Lana, we'll always be proud of you, and we'll always love you, even when you make stupid, stupid, stupid choices, like him.
+ARCHER: Aww. Well, I think we've made some real progress here, and I'd say, we've got about 30 seconds before the engine locks up, so does anyone have a plan? Anyone? Guys, c'mon, there's no dumb ideas
+|scene|participants:cheryl,cyril,kriegers girlfriend,krieger,pam|deaths:0|tags:drinking|
+CHERYL: What if we grease the tires?
+CYRIL: How would that possibly help?
+KRIEGER: Hey, yeah, toss out all your empties, that will get rid of some weight, huh?
+PAM: Toss out... everything! We've gotta get rid of some of this weight!
+CYRIL: Well, the speakers are obviously the--
+KRIEGER: No! For the love of God, man, are you quite literally insane?
+CYRIL: Sorry. Shut up.
+CHERYL: What about all these bowling balls?
+PAM: What? Yes, you ding-dongs! Throw out the goddamn bowling balls!
+CHERYL: Okay! Jesus!
+PAM: And that's how they all died.
+|scene|participants:archer,lana,lemuel|deaths:0|tags:|
+LEMUEL: That's your plan? To ram it?
+ARCHER: Yeah, it's called a pit maneuver, I've done it, like, a million times.
+LANA: Like, three times. And Daddy, when they crash, they're probably gonna come out firing, so get down on the floor, and stay there!
+LEMUEL: What about you?
+LANA: Don't worry about me. This is what I do, and I'm actually pretty great at it.
+ARCHER: Ehh.
+LANA: Shut up. Daddy, floor.
+ARCHER: Okay, hang on! Actually wait, hang on.
+LANA: What?
+ARCHER: Lem, what was the special thing?
+LEMUEL: What?
+ARCHER: In the hot tub!
+LANA: Archer, I think the less said about the hot tub incident, the better!
+ARCHER: Shut up. what's the special thing you two wanted to share with me?
+LEMUEL: The Kane family reunion!
+LANA: Wait, what?
+LEMUEL: Yeah, we do it every year, it's huge, and we told her to invite you, but--
+LANA: Daddy!
+LEMUEL: Lana, the man may be a total idiot, but he is the father of your child.
+ARCHER: Yeah, Lana! So are we talking like, a barbecue, or--?
+LANA: Archer!
+ARCHER: Okay! Lana! And if it's a barbecue, are the Kanes a brisket crowd, or pulled pork?
+LEMUEL: Brisket.
+ARCHER: Lame.
+|scene|participants:pam,krieger,cyril,cheryl,kriegers girlfriend,darryl|deaths:0|tags:|
+PAM: Don't shoot! Don't shoot! Please, don't-- Darryl?
+DARRYL: Pam?
+PAM: Oh, my God, I used to beat this bitch's ass at fight club, like, all the time!
+CHERYL: Sup?
+CYRIL: Hey, guys.
+DARRYL: Pff, like, three times. Now, why the hell you throwing bowling balls in the damn street?
+PAM: Long story, funny story, and I'll tell you guys all about it over beers at the nearest titty bar, my treat.
+DARRYL: Titties won't gonna fix my car, Poovey.
+PAM: No, but Beard McBoggeyes over there will and he'll install a nitrous tank, so you don't have to drive around town like a giant pussy. Won't ya, Krieger?
+KRIEGER: Yep! Yep, yep, yep!
+PAM: So c'mon, let's go make it rain Pammy.
+DARRYL: What about them?
+PAM: Honestly don't care.
+|scene|participants:archer,lana,lemuel,slater|deaths:0|tags:|
+LANA: Reloading! Archer, cover me!
+SLATER: Wait, what? Archer?
+ARCHER: What the--?
+LANA: Slater?
+SLATER: Ta-daa.
+|scene|participants:archer,lana,lemuel,slater|deaths:0|tags:|
+LANA: With a baby in the house?
+SLATER: We didn't know you were there, which was obviously an operational failure on our end. Ethan!
+ARCHER: Yeah, Ethan!
+SLATER: And don't be shitty, Archer, you dick. You killed one of my guys.
+ARCHER: Yeah, was that shot not insane?
+LANA: What is insane is the CIA stealing my father's research, Slater! Why?
+SLATER: Because, Dr. Kane, your research has jeopardized our national security.
+LEMUEL: What? What do you mean? How?
+SLATER: Because if you think the Middle East is messed up now, just wait until nobody needs their oil.
+ARCHER: Man, you guys are so big picture...
+LANA: No, wait, you can't-- that was a lifetime of work for my father!
+SLATER: Yeah, yeah. Dr. Kane, do you have online banking?
+LEMUEL: I-- yes, but--
+SLATER: So, if you wanna go ahead and check your account balance?
+LEMUEL: Huh. Well, I can tell you right now, this doesn't come anywhere close--
+SLATER: That amount, direct-deposited every month, for the rest of your life.
+LEMUEL: Every month? Well, Mr. Slater, I-- I think we've got ourselves a deal.
+LANA: Daddy, no! What about the algae, so we don't have to burn fossil fuels?
+LEMUEL: Honey, forget about fossil fuels. We're gonna be able to burn money.
+LANA: Happy?
+SLATER: What, like in general? Because yes.
+|scene|participants:archer,lana,abbiejean|deaths:0|tags:drinking|
+LANA: So, listen... I wanna thank you, for trying to save my dad's research, and even though I'm obviously still furious about the hot tub incident, and will be, probably, for years to come, I can see how you-- you, Archer, could have misconstrued the situation, and even though it's kinda hard for me to admit it, you are family to me, and not just because of A.J. and I realize now that I should have invited you to the family reunion, so I'm sorry. Sorry that I hurt your feelings.
+ARCHER: Well, thanks. I accept your apology. Sorry I tried to spit-roast your mom.

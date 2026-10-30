@@ -1,0 +1,422 @@
+|episode|7|707|Double Indecency|
+|scene|participants:malory,cheryl,pam|deaths:0|tags:drinking|
+MALORY: You have no idea who this person is.
+CHERYL: No.
+MALORY: Or what this is about.
+CHERYL: Mm, no.
+MALORY: "Zissner, office, meeting, 10:00. " And you have no idea what that means.
+CHERYL: I feel like I made that very clear.
+MALORY: Unlike this cryptic idiocy! Why do you even bother to answer the phone?
+CHERYL: Because you scream at me when I don't!
+LANA: Volume! Jesus!
+MALORY: My God, Lana, you look like hell.
+CHERYL: Like I've been saying for years.
+LANA: Woman, you do not want to light this particular fuse. A. J. was up all night with the croup.
+MALORY: Did you give her bourbon?
+LANA: You know, I was going to, and then I realized that, no, I wasn't going to.
+MALORY: Always worked for Sterling.
+CHERYL: And you're just gonna
+LANA: Yeah, too sleepy. What is this? "Zissner"? Wait, as in Don Zissner?
+MALORY: She has no idea.
+CHERYL: Which, again, very clear on that.
+LANA: He's a huge producer. He makes those massive, stupid, sharky blockbusters.
+PAM: Sharknoid, Sharknoid 2, Sharknoid 3 In 3-D, Sharknoid 4, Shark
+MALORY: We get it!
+PAM: Let me finish. Sharknoid Five.
+MALORY: Is that who we're meeting with?
+CHERYL: Maybe.
+|scene|participants:ray,cyril,archer,assistant|deaths:0|tags:drinking|
+ARCHER: Hm, "Zissner, office, meeting, 10:00. " That's all Carol told you?
+CYRIL: Yes, we're to meet Zissner in his office at 10:00. But other than that
+RAY: We have no idea.
+CYRIL: Or why she even bothers to answer the phone.
+ARCHER: Well, otherwise Mother screams at her.
+ASSISTANT: Good morning.
+CYRIL: Hi, Cyril Figgis, Figgis Agency. We have a 10:00 with Mr. Zissner?
+RAY: Maybe.
+ASSISTANT: I'm sorry?
+|scene|participants:lana,malory,cheryl,pam,barbie|deaths:0|tags:drinking|
+MALORY: I'm sorry?
+BARBIE: I'm sorry. Is this the Figgis Agency?
+LANA: Maybe.
+BARBIE: Then I think I have a 10:00 appointment. I'm Barbie Zissner.
+EVERYBODY: Oh!
+MALORY: Oh, please forgive me, Miss
+BARBIE: Mrs.
+MALORY: Mrs. Zissner, of course, yes.
+BARBIE: Mrs. Donald Zissner.
+MALORY: Yes.
+CHERYL: Your 10:00 is here.
+MALORY: I know. Thank you.
+CHERYL: You're welcome.
+|scene|participants:ray,cyril,archer,zissner|deaths:0|tags:|
+ZISSNER: Gentlemen, thank you for coming. First off, killer marketing campaign.
+ARCHER: Goddamn it.
+ZISSNER: Second, you've each been given a non-disclosure agreement to sign. If any of you repeat anything said in this room, I will skull-rape you so hard, legally speaking, that your great-great-grandchildren will spend their short, miserable lives as indentured servants to mine. Is that clear?
+CYRIL: Yes, sir.
+RAY: Yes, sir.
+ARCHER: Okay.
+ZISSNER: Third I'm not really sure how to put this, so I'll just go ahead and say it.
+|scene|participants:lana,malory,cheryl,pam,barbie|deaths:0|tags:drinking|
+BARBIE: I think my husband is cheating on me.
+MALORY: That's so sad.
+CHERYL: Oh.
+LANA: Oh.
+|scene|participants:ray,archer,cyril,zissner|deaths:0|tags:drinking|
+ZISSNER: I think my wife is cheating on me.
+EVERYBODY: No.
+|scene|participants:lana,malory,cheryl,pam,barbie|deaths:0|tags:drinking|
+BARBIE: And so I want to hire you.
+|scene|participants:ray,archer,cyril,zissner|deaths:0|tags:drinking|
+ZISSNER: To catch her in the act. I'll need video confirmation, of course.
+|scene|participants:lana,malory,pam,cheryl,barbie|deaths:0|tags:drinking|
+LANA: So you want us to follow him and
+|scene|participants:ray,archer,cyril,zissner|deaths:0|tags:drinking|
+ZISSNER: No, not just follow her.
+|scene|participants:lana,malory,cheryl,pam,barbie|deaths:0|tags:drinking|
+BARBIE: More than that. Much more.
+|scene|participants:ray,archer,cyril,zissner|deaths:0|tags:drinking|
+ZISSNER: There's just too much at stake here. I have to be a hundred percent sure.
+|scene|participants:barbie,zissner|deaths:0|tags:drinking|
+BARBIE: And so I want one of you to seduce my husband and tape it.
+ZISSNER: To seduce my wife and tape it.
+|scene|participants:lana,malory,cheryl,pam,barbie|deaths:0|tags:drinking|
+PAM: Aw, man. Lousy timing. My bush looks like I'm sitting on Jerry Garcia's face.
+|scene|participants:lana,malory,cheryl,pam|deaths:0|tags:drinking|
+LANA: Because A, it's super skeevy, and
+MALORY: And B, possibly extremely lucrative! She agreed to pay us $20,000. And Zissner's worth God knows how many millions, so if we can wedge ourselves into that divorce
+PAM: And he tells two friends.
+CHERYL: And she tells two friends.
+PAM: And so on and so on and so on.
+CHERYL: And so on and so on and so on.
+LANA: I thought you said the divorce business was shabby.
+MALORY: If it's poor people.
+LANA: So what, you think you're literally gonna pimp me out?
+PAM: Who says she's pimping you?
+CHERYL: Why does she get to get pimped out?
+LANA: I'm sorry. Is there another option?
+CHERYL: Uh, boosh?
+PAM: And-or kakow?
+MALORY: Pam, please, this is serious.
+PAM: Uh, wha
+|scene|participants:ray,archer,cyril|deaths:0|tags:drinking|
+CYRIL: I am serious.
+ARCHER: Cyril, come on. You can't do it. Zissner wants us to prove his wife's cheating on him, not that she's capable of aspirating her own vomit.
+CYRIL: So what, you're going to do it?
+ARCHER: Well, I mean, I think we should put our best foot forward here.
+RAY: Or at least our best five inches. Hey-oh!
+ARCHER: Who are you, Wheeler and Woolsey?
+RAY: Who?
+ARCHER: Typical.
+CYRIL: So you're just gonna cheat on Lana.
+ARCHER: Oh, right. Goddamn it.
+|scene|participants:lana,malory,cheryl,pam|deaths:0|tags:drinking,drugs|
+LANA: I mean, even if Archer did basically cheat on me with Veronica Deane
+PAM: Oh, please.
+MALORY: One kiss.
+LANA: I refuse to stoop to his level.
+MALORY: Lana, it's $20,000.
+LANA: I don't care if it's Okay, I almost said 20 million, but obviously I would bang him for that.
+MALORY: Ah-ha! So you do have a price.
+LANA: Yes, duh, but it's not 20 grand, Ron Measly, so you can count me out.
+PAM: Welp, guess I'm gonna need a bucket of ice and a roll of gaffer tape.
+MALORY: For?
+PAM: D-I-Y Brazilian. When it's this bushy, the clippers just get stoved up.
+EVERYBODY: Ew.
+CHERYL: Pam!
+PAM: Well, I'm sorry. I didn't know I was going to get called up to the big show.
+MALORY: Nobody's calling you anywhere.
+LANA: I don't know. I think Pam's got a better chance of seducing Zissner than Gluella DeVil over here.
+|scene|participants:ray,cyril,archer|deaths:0|tags:drinking|
+RAY: Are you insane?
+ARCHER: No, I'm dead serious. I'll bet you my share of the 20 grand that Ray can seduce Barbie Zissner before you.
+RAY: What're you I'm not in this!
+ARCHER: If we win, you get his share. That's almost $7,000.
+RAY: I
+CYRIL: Where'd you get 7,000?
+ARCHER: I divided 20 by 3, Cyril. Come on, this is pretty basic stuff.
+CYRIL: Three. Tuh what, we're just not telling the women about this?
+ARCHER: Why would we? Hm?
+CYRIL: Hm.
+RAY: Yeah, screw them.
+ARCHER: Ray, come on. Be a team player. We can drink you through this.
+RAY: Would you have sex with a man for $7,000?
+ARCHER: I would if it had a negative impact on Cyril.
+CYRIL: Wha You hate me so much that you would actually have sex with a man.
+ARCHER: I would date him.
+RAY: And I wish y'all every happiness, but I am not sleeping with that woman, so
+ARCHER: So then Krieger!
+RAY: What?
+ARCHER: My share against yours. I bet Krieger can seduce Barbie Zissner before you.
+CYRIL: You are on!
+RAY: Yeah, I am all over that action.
+ARCHER: Ha! Then it's a bet. I got I got Krieger
+RAY: I got Cyril
+|scene|participants:lana,malory,cheryl,pam|deaths:0|tags:drinking|
+LANA: I've got Pam. And you've got Cheryl.
+MALORY: Oh, please, Carol couldn't seduce a Spaniard. Me, on the other hand
+PAM: Only if Zissner's into archeology.
+MALORY: You little All right, Lana, you have a bet. I'll take Carol, and we will laugh all the way to the bank.
+LANA: And we're not telling the men?
+MALORY: Why would we?
+LANA: Well, yeah.
+CHERYL: Mm-hm.
+PAM: Oh, man. I'm gonna seduce the dick off that dude. Oww!
+MALORY: Yes, what mere mortal could resist that cornucopia of nature's treasures.
+PAM: Exactly. Ow!
+|scene|participants:cyril,archer,ray,lana,malory,pam,cheryl|deaths:0|tags:|
+ARCHER: Okay, so if anybody asks, it's Cyril's birthday, and he asked us to take him to a strip club. They'll buy that. It's so sad and pathetic and Cyril-y.
+CYRIL: Uh, first of all, I dated Lana for three years. She knows when my birthday is.
+ARCHER: I think you wildly overestimate that relationship.
+LANA: With who, Veronica Deane?
+ARCHER: With whom. And, no, not Veronica Deane, who, by the way, Lana, kissed me, and also when is Cyril's birthday?
+LANA: Uh, how should I know?
+ARCHER: Trick question. It's today. And we're taking him to a strip club because he is both sad and pathetic.
+LANA: Typical.
+PAM: Oh, man.
+MALORY: Give my regards to all the molestees.
+ARCHER: Wait. Where are you guys going?
+MALORY: None of your collective beeswax.
+ARCHER: Wow, that was way easier than I thought it would be. Although, I guess so is everything.
+|scene|participants:archer,cyril,ray,krieger|deaths:0|tags:drinking|
+ARCHER: Krieger? Krieger. Krieger!
+KRIEGER: Yep! Yep, yep, yep! Hey, guys.
+ARCHER: Shut up and brush your teeth, comb your beard, and get some cologne on those balls. You're coming with us.
+KRIEGER: Done, done, done, done, and where exactly are we going?
+ARCHER: Well, first to buy you some clothes. And then wait. Where are we going?
+CYRIL: Uh, let's see. Zissner said she'd be at the "The Swindon Hotel for happy hour. "
+ARCHER: The Swindon? Nice. Sunset Lounge or main bar?
+CYRIL: Uh, let's see. It says here "main bar." So, hey, should I get some new clothes?
+RAY: Cyril, the answer to that question is almost always yes.
+KRIEGER: You know, Thoreau said, "Beware of all enterprises that require new clothes."
+ARCHER: Krieger, nobody gives a shit about Doonesbury. Now, come on, chop-chop.
+KRIEGER: Ooh, chop-chop what? What are we chopping?
+ARCHER: Nothing. You're going to have sex.
+KRIEGER: With a person?
+ARCHER: What are you
+RAY: I'm gonna double the bet.
+KRIEGER: What bet?
+ARCHER: No, shut up. I would think "person" was implied.
+KRIEGER: Yeah, no, I just didn't wanna get in that head space and then, you know
+ARCHER: No, I don't.
+RAY: Double it!
+ARCHER: No!
+KRIEGER: What bet?
+ARCHER: Okay, if you can seduce this woman
+KRIEGER: Whoo.
+ARCHER: Yeah. And if you seduce her before Cyril does, you get five, uh, hundred
+KRIEGER: Whoo.
+CYRIL: Thousand.
+RAY: Thousand.
+KRIEGER: Whoo-hoo
+ARCHER: Goddamn it. Dollars.
+KRIEGER: I'm in. I can use the money to finish my Voight-Kampff machine. Or not that. Forget I said that.
+|scene|participants:lana,malory,cheryl,pam|deaths:0|tags:drinking|
+MALORY: Now, remember, Carol. The key here, as with most things, is confidence.
+LANA: Which Pam's got by the shitload.
+MALORY: For reasons known but to God.
+PAM: Well, a lot of it's the Brazilian. They really make you feel sexy. At least until the ingrown hairs turn me back into Bumplestiltskin.
+LANA: B-ugh.
+MALORY: I want to double the bet.
+LANA: Deal.
+MALORY: Damn.
+CHERYL: Just damn or daaaaaaamn!
+MALORY: Whichever is worse.
+|scene|participants:archer,cyril,ray,krieger|deaths:0|tags:drinking|
+RAY: Damn, Cyril!
+CYRIL: Really? You don't think it's too much?
+RAY: I You know, I think it would be. I wanna double the bet.
+ARCHER: No.
+RAY: Give you five-to-two odds.
+ARCHER: No! Krieger, get out here! Goddamn it.
+RAY: Five to one!
+KRIEGER: Dude, take it! I feel amazing.
+RAY: And confidence is the key.
+KRIEGER: And Thoreau was a fucking idiot. Shoo! Shoo! Shoo!
+|scene|participants:lana,malory,cheryl,pam|deaths:0|tags:drinking|
+MALORY: No, Lana dear, listen. All this nonsense about doubling the bet.
+LANA: What, are you trying to welsh on me?
+MALORY: Huh Well, now who's a racist?
+LANA: That's not racist.
+MALORY: It is if you're black.
+LANA: There are black Welsh people.
+MALORY: Name one.
+LANA: Uh, Shirley Bassey.
+MALORY: Name 20 more.
+LANA: No, the bet stands.
+MALORY: And that is just fine with us.
+LANA: Damn.
+CHERYL: I know. I look like a whore.
+MALORY: As a matter of fact, I'm willing to double it again.
+PAM: Um Psst. Lana, come here. Come here, come here, come here, come here. Take the bet. Double it.
+LANA: Is this mirror not working or
+PAM: Don't be shitty. I'm in progress. And plus, Jerkleton, I've got this.
+LANA: Spanish Fly.
+PAM: Right?
+LANA: Pam, that shit doesn't work.
+PAM: Yes, it does. We just need to mix it with some mole's blood.
+LANA: So hey, what were you saying about un-doubling the bet?
+MALORY: Not a word.
+|scene|participants:archer,ray,krieger,cyril|deaths:0|tags:drinking|
+ARCHER: I'm serious, Ray. I'm about to punch you in the face with your own fists.
+RAY: First of all, you are a mean drunk on germicide.
+ARCHER: It's blue Curaçao, you dumb idiot. Giuseppe keeps it in the back for me.
+RAY: Well, then you're a mean drunk on blue Curaçao.
+ARCHER: I know. I'm actually banned for life from Willemstad.
+RAY: Well, their loss. Now, come on. Put your money where your fat blue mouth is.
+ARCHER: No, we're not doubling the bet.
+RAY: Come on. Don't you have faith in your man?
+KRIEGER: Shoo, shoo! Shoo, shoo, shoo! Shoo!
+ARCHER: Krieger!
+KRIEGER: Shoo. Sh
+ARCHER: I do not, no.
+RAY: Well, I've got faith in mine. Cause he is lookin' muy Rico Suave.
+CYRIL: Oh, well, gracias, amigo.
+ARCHER: Pff. More like Rico not Suave.
+RAY: He said like a drunk jealous bitch.
+ARCHER: I'm not drunk! Wait, I am drunk.
+RAY: Cyril, you need any last-minute pointers?
+ARCHER: Ha! From you?
+RAY: The quarry may change but never the hunt!
+CYRIL: Hm, let's see. Oh, here's one. When do I start negging her?
+ARCHER: "Negging"? Jesus Christ, what grade are you in? Why don't you try putting some Spanish Fly in her Brass Monkey?
+CYRIL: I think you mix it with mole's blood.
+ARCHER: What're you Where the hell would you get mole's blood?
+KRIEGER: Why, you need some?
+ARCHER: I need you to get your big, bushy Bob Ross-ian head out of your ass, because we've got a bet to win! And also, Giuseppe, I'm pretty sure this is actually germicide, so
+RAY: What?
+CYRIL: Damn it, Archer.
+ARCHER: Yeah, that's not great. Although, silver lining bet I could eat a whole big bowl of germs right now. Okay, let's go seduce this broad.
+|scene|participants:lana,malory,cheryl,pam|deaths:0|tags:|
+PAM: Okay, let's go put some stank on it.
+MALORY: Yes, I suppose this is as attractive as these two are ever going to be.
+PAM: Unless we can find some mole's blood.
+LANA: No.
+CHERYL: I have some.
+LANA: No!
+CHERYL: Oh, wait. This is vole's blood.
+MALORY: I swear to God, you people. Taxi!
+|scene|participants:archer,ray,cyril,krieger,bellhop|deaths:0|tags:drinking|
+ARCHER: Man, I don't feel so great.
+CYRIL: Wonder if that's got anything to do with all that germicide you drank.
+ARCHER: Honestly, even if it had been Curaçao, I bet I'd still be a little oogy.
+RAY: No shit, you killed all your good flora.
+ARCHER: Hey, Spirou, where's the main bar?
+BELLHOP: Through the lobby to the left, sir.
+ARCHER: Thanks. Cyril, tip the young man.
+CYRIL: Oh, uh Darn. I must've left my wallet in my other clothes. Uh
+ARCHER: Typical.
+RAY: Here you go.
+|scene|participants:lana,malory,cheryl,pam,cab driver|deaths:0|tags:|
+CAB DRIVER: Here you go, ladies. Hotel Swindon.
+MALORY: Well, it's about time. Pay the man, Lana.
+LANA: Uh, I don't uh, Pam? I'll get the next one.
+PAM: Yeah, me too. Pony up, neckbone.
+MALORY: Yoo-hoo, bellboy, which way is the Sunset Lounge?
+CAB DRIVER: Fair's 18.50, Miss.
+CHERYL: Okay, so, do you have change for 10 let me finish drams of vole's blood?
+|scene|participants:archer,cyril,krieger,ray,zissner,malory,pam,lana,cheryl,barbie,security guard|deaths:0|tags:drinking|
+ARCHER: Did he say to the right or to the left?
+CYRIL: I thought he said right.
+RAY: He said to the left.
+ARCHER: Thanks, Lois and Clark.
+RAY: It's Lewis and oh.
+ARCHER: See what I did there?
+MALORY: What are you doing here?
+LANA: I'm gonna assume it's some sort of costume birthday party?
+CYRIL: It's not my birthday!
+PAM: Then why's Krieger dressed up like Evil Nazi Bob Ross Knievel?
+KRIEGER: Why are you dressed like a prostitute?
+PAM: It's for work!
+ARCHER: Wait, what are you all doing here?
+MALORY: Lunch?
+ARCHER: It's 5:30.
+MALORY: Dunch?
+ARCHER: Mother, what the hell is going on?
+ZISSNER: I could ask you the same thing.
+MALORY: Oh, my God.
+ARCHER: What's he doing here?
+CYRIL: Mr. Zissner?
+ZISSNER: What's the deal here, Figgis?
+LANA: Wait, you two know each other?
+CYRIL: Uh, well, um
+BARBIE: Donny?
+ZISSNER: Babe.
+PAM: Wait.
+ARCHER: Uh, what?
+RAY: What the
+ZISSNER: Why aren't you in the bar?
+BARBIE: I heard all this commotion out here. Why aren't you in the Sunset Lounge?
+ZISSNER: Okay, obviously there's been some sort of misunderstanding here, so
+ARCHER: Wait a minute.
+ZISSNER: I think the best thing at this point is for everybody to un-clump.
+LANA: Did he hire you to bang her?
+CYRIL: Uh
+ZISSNER: Hey, no! Before you answer that, remember you signed an extremely punitive non-disclosure agreement.
+ARCHER: Yes. And also tape it.
+ZISSNER: Goddamn it!
+LANA: Shut up. And you were just going to do it?
+ARCHER: Not me. Cyril or Krieger.
+BARBIE: Ah! As if. I mean, maybe blondie here.
+RAY: As if.
+CHERYL: Wait, but she hired us to seduce him.
+PAM: And tape it.
+ZISSNER: Shut up!
+MALORY: Why would anyone do such a thing?
+CYRIL: It's your basic cuckold fetish porn.
+LANA: How is that basic?
+CYRIL: In fact, I bet they do these hookups in the same hotel at the same time so they know the other one's doing it.
+ZISSNER: Stop talking!
+CYRIL: And they each go upstairs with whoever, make a tape, and then go home and watch them together.
+PAM: Goddamn, I wish I was married!
+ZISSNER: You are all so frickin' sued!
+ARCHER: Shut up. And you were just gonna do it?
+LANA: Not me!
+ARCHER: Wha Mother?
+MALORY: No, you idiot! One of those two.
+ZISSNER: Who? Scarrah Fawcett and Baby Huey?
+EVERYBODY: Hey! Whoa-whoa-whoa
+LANA: Uh-uh.
+RAY: Bitch, you better 'pologize!
+ZISSNER: Or what?
+ARCHER: Or this!
+PAM: Aah!
+KRIEGER: Shoo! Shoo! Shoo! Sha! Sha! Szhee! Shoo! Shoo! Shoo! Shoo!
+MALORY: Come on, Lurch. Let's see what's in that belly of yours!
+KRIEGER: Shoo! Shoo! Sha! Sha!
+PAM: Enter Sandman.
+ZISSNER: My eyes!
+ARCHER: Ow! Ow Damn it. What is this, a chair factory?
+SECURITY GUARD: Get everybody down here!
+BARBIE: Baby! Baby, come on. We gotta get out of here.
+ZISSNER: Okay, honey. Paparazzi. Paparazzi!
+ARCHER: Aah! Damn!
+KRIEGER: Shoo! Shoo! Sha! Sha!
+ARCHER: I gotta say, I think that went about as well as it could have.
+MALORY: Tell that to Carol!
+RAY: Whoa, gross.
+ARCHER: Oh, God.
+CHERYL: Oh, this is vole's blood. I hope.
+CYRIL: That's disgusting.
+ARCHER: Well, whom or whatever's blood it is, I vote we go rinse it off with a mojito. Come on, we can still catch Uh happy hour.
+|scene|participants:archer,cyril,krieger,ray,malory,pam,lana,cheryl|deaths:0|tags:|
+ARCHER: Seriously, worst happy hour ever. And I hate to do it, but I have to trash you guys in my online review. Thanks. And also sorry, but I don't feel like you've earned a tip, so
+MALORY: Will you shut up and come on! Wasn't six hours in this hell hole enough? That bail is paid, and now I would like to go home, please!
+ARCHER: Okay! I'm not the one taking all night to give me back my stuff!
+LANA: No, you're just the one who started the brawl that got us all arrested.
+ARCHER: First of all, that brawl started when Carol messed up the messages.
+CHERYL: No, I did not.
+ARCHER: Zissner, meeting, office, 10:00? What, were you being intentionally vague?
+CHERYL: Eh, duh.
+MALORY: What?
+CHERYL: I wanted to see what would happen.
+ARCHER: Oh, goddamn.
+PAM: Really?
+MALORY: Well, excellent work. You just ruined our entré into the world of high-priced Hollywood divorces!
+ARCHER: Which, come on, we're better than that.
+KRIEGER: Shooooo, wahhhhh
+LANA: Are we?
+ARCHER: I am. I drank a whole big thing of germicide.
+KRIEGER: Shooo
+ARCHER: What? That would've killed a normal man.
+KRIEGER: Shooo, whoo-whoo-whoo-whoo
