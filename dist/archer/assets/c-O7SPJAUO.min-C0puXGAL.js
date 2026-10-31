@@ -1,0 +1,1 @@
+import{_i as e,yi as t}from"./c-7NMCUG5N.min-BYMksu8f.js";function n(e,n,r){return t(e,n,r)}function r(t,n){let r=n&&typeof n==`object`&&!Array.isArray(n)?n:void 0;return t.length===0?t=>r&&e(r,t)||`#4e79a7`:n=>{if(r){let t=e(r,n);if(t)return t}let i=0;for(let e=0;e<n.length;e++)i=31*i+n.charCodeAt(e)|0;return t[Math.abs(i)%t.length]??`#4e79a7`}}export{n,r as t};

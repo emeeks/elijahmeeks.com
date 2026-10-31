@@ -6,13 +6,14 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs && node scripts/check-writing.mjs",
-    "preview": "python3 -m http.server 8080 --directory dist"
+    "preview": "python3 -m http.server 8080 --directory dist",
+    "sync:archer": "node scripts/sync-archer.mjs"
   },
   "devDependencies": {
     "cheerio": "^1.2.0",
     "markdown-it": "14.3.3"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=24.15.0 <25"
   }
 }

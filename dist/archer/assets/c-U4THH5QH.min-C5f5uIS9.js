@@ -1,0 +1,1 @@
+var e=`var(--semiotic-selection-color, var(--semiotic-primary, #00a2ce))`;function t(t,n){let r=function(t){return{fill:e,fillOpacity:t,stroke:e,strokeWidth:1}}(n);t.attr(`fill`,r.fill),t.attr(`fill-opacity`,r.fillOpacity),t.attr(`stroke`,r.stroke),t.attr(`stroke-width`,r.strokeWidth)}export{e as n,t};

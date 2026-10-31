@@ -3,7 +3,7 @@ Elijah Meeks's static portfolio, writing, and project archive. Published with Gi
 
 ## Editing and publishing
 
-Use Node 22 or newer:
+Use Node 24:
 
 ```sh
 npm ci
@@ -41,10 +41,20 @@ Original third-party scripts and interactive embeds are replaced with source lin
 
 Recovery tooling is retained in `scripts/collect-writing.mjs` and `scripts/prepare-writing.mjs`. Acquisition responses are cached in ignored `.cache/writing/`. These scripts document the recovery process and expect the acquired source indexes; they are not part of routine builds. Edit `site/writing/entries.json` to correct metadata or add a future piece, then build and check normally.
 
-## Restored interactive projects
+## Interactive projects
 
-`site/projects/archer/` and `site/projects/wars/` contain snapshots recovered directly from the former Bluehost origin. `scripts/build-projects.mjs` copies them into the published site, including Archer's episode data, fonts, and GIF corpus. Generated static entry pages preserve direct links to Archer episodes, seasons, characters, and navigation views on GitHub Pages. The snapshot and source hashes are documented in `site/projects/manifest.json`.
+Archer at `/archer/` uses a tested production build of the current [archervisualization source](https://github.com/emeeks/archervisualization). The source repository is private; this public website contains only its compiled release, GIFs, and transcript assets in `site/projects/archer/`. `build-info.json` records the exact source commit, dependency versions, and lockfile hash. Static entry pages support direct episode, season, character, ranking, and similarity links. Old root `/episode/...`, `/season/...`, and `/character/...` bookmarks redirect into Archer.
 
-These are the original deployed applications. The separate `archervisualization` repository can continue to evolve independently; updating that repository does not replace this preserved snapshot automatically. `scripts/recover-projects.mjs` documents the one-time recovery and is not run during normal builds.
+To publish an Archer update, commit the source changes in the sibling repository, then run here with Node 24:
 
-Publication repairs the legacy bundle's episode and season links to retain the `/archer` prefix, emits a content-hashed script URL for browser cache updates, and redirects former `/episode/...` and `/season/...` bookmarks to their Archer routes.
+```sh
+npm run sync:archer
+npm run build
+npm run check
+```
+
+The sync command installs Archer's locked dependencies, validates all transcripts, runs unit tests, builds, and runs Chromium navigation/chart tests before replacing the published release. It requires a clean source checkout so provenance identifies the exact tested commit. Override `ARCHER_SOURCE_DIRECTORY` to use another source checkout. Commit and push the updated release in this repository to deploy it. Archer-only source pushes do not deploy the custom domain by themselves.
+
+Routine website builds use this checked-in, verified release without private-repository credentials or a sibling checkout. `ARCHER_BUILD_DIRECTORY` can explicitly select another prepared build for local review.
+
+`site/projects/wars/` contains the original Wars application recovered from Bluehost. Its provenance and the earlier Archer recovery are documented in `site/projects/manifest.json`; the obsolete Archer bundle remains in Git history. `scripts/recover-projects.mjs` documents that one-time recovery and is not run during normal builds.

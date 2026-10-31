@@ -1,0 +1,1 @@
+export{r as MarginalGraphics}from"./xy.module.min-BGW8vz07.js";
